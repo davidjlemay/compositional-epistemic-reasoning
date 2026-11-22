@@ -1,0 +1,24 @@
+{
+  "total_epochs": 548,
+  "grokking_detected": true,
+  "grokking_epoch": 19,
+  "all_epochs": [
+    0,
+    9,
+    19,
+    548
+  ],
+  "suggested_epochs": [
+    9,
+    19,
+    548
+  ],
+  "transition_epochs": [
+    [
+      19,
+      "grokking"
+    ]
+  ],
+  "early_epoch": 0,
+  "late_epoch": 548
+}

@@ -1,0 +1,16 @@
+# Versions tested for the analyses; training originally ran on the Mila cluster.
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+networkx>=3.2
+gudhi>=3.9
+tqdm>=4.66
+jinja2>=3.1          # data generation only
+torch>=2.1
+transformers>=4.40   # Experiment 2
+accelerate>=0.30     # Experiment 2
+datasets>=2.18       # only for the tokenizer self-test
+# mamba-ssm          # Experiment 1 Mamba; CUDA-only, install separately

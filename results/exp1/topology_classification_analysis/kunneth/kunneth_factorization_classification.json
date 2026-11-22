@@ -1,0 +1,950 @@
+{
+  "GNN": {
+    "0": [
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 44941,
+            "eps": 0.5015519123386855,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 32417,
+            "eps": 0.4964147801594061,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 44367,
+            "eps": 0.5003906170949969,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 6
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 59258,
+            "eps": 0.4692850834864172,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 43109,
+            "eps": 0.44848168886410184,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 3,
+            "h1": 0,
+            "total_simplices": 45766,
+            "eps": 0.4581459374429787,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 3
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 54791,
+            "eps": 0.47904912591132676,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 34671,
+            "eps": 0.48243571753791914,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 56723,
+            "eps": 0.486454631431085,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 4
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 4,
+            "total_simplices": 58006,
+            "eps": 0.42914799518803876,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 30826,
+            "eps": 0.41524802393414906,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 53701,
+            "eps": 0.4260542489690964,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 8
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 51841,
+            "eps": 0.39117313542170046,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 40272,
+            "eps": 0.40485080957174624,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 59074,
+            "eps": 0.4019549229820795,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 2
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      }
+    ],
+    "500": [
+      {
+        "observed": {
+          "X": {
+            "h0": 3,
+            "h1": 2,
+            "total_simplices": 22127,
+            "eps": 1.1540588867733326,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 3,
+            "h1": 4,
+            "total_simplices": 28829,
+            "eps": 1.117195260371416,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 3,
+            "h1": 3,
+            "total_simplices": 28431,
+            "eps": 1.1622873302544807,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 9,
+          "h1": 18
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 19838,
+            "eps": 1.4626216814286401,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 16829,
+            "eps": 1.405235633487027,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 6,
+            "total_simplices": 21604,
+            "eps": 1.512367764375862,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 2
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 3,
+            "h1": 2,
+            "total_simplices": 16080,
+            "eps": 1.194029077787857,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 3,
+            "total_simplices": 25365,
+            "eps": 1.285531800053513,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 26143,
+            "eps": 1.3012164757096991,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 3,
+          "h1": 11
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 22643,
+            "eps": 1.2610065827289016,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 3,
+            "total_simplices": 21260,
+            "eps": 1.1683578521367948,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 26925,
+            "eps": 1.265472462064774,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 10
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 3,
+            "h1": 5,
+            "total_simplices": 7486,
+            "eps": 0.788809699981247,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 3,
+            "total_simplices": 15679,
+            "eps": 0.7834049324710379,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 6,
+            "total_simplices": 11850,
+            "eps": 0.8545810369031592,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 6,
+          "h1": 19
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      }
+    ]
+  },
+  "Transformer": {
+    "0": [
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 77520,
+            "eps": 0.4393795116918322,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 40019,
+            "eps": 0.42339953806776753,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 3,
+            "h1": 0,
+            "total_simplices": 59574,
+            "eps": 0.420641159642406,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 6
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 4,
+            "total_simplices": 80964,
+            "eps": 0.4967911647941883,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 3,
+            "total_simplices": 44025,
+            "eps": 0.4853605144016414,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 72150,
+            "eps": 0.48968900494817225,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 7
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 78014,
+            "eps": 0.4185509894863926,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 50192,
+            "eps": 0.4265596381811032,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 71435,
+            "eps": 0.4110532614605598,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 3
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 67482,
+            "eps": 0.43006825192850934,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 39951,
+            "eps": 0.43107039152366877,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 59697,
+            "eps": 0.4234631859379504,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 2
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 70652,
+            "eps": 0.5081377551541889,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 44462,
+            "eps": 0.4911187803266968,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 50973,
+            "eps": 0.47396888826694106,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 4
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      }
+    ],
+    "500": [
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 29278,
+            "eps": 0.8095249954617991,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 39427,
+            "eps": 0.8585699845188371,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 30230,
+            "eps": 0.8233090892515176,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 1
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 27364,
+            "eps": 0.8661377083781888,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 30570,
+            "eps": 0.8857115972674584,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 29711,
+            "eps": 0.8738372617230119,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 0
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 3,
+            "total_simplices": 52385,
+            "eps": 0.751614931513199,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 36453,
+            "eps": 0.7701017709489897,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 4,
+            "h1": 1,
+            "total_simplices": 56411,
+            "eps": 0.7542151105690993,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 7
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 38718,
+            "eps": 0.8406245360241791,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 31650,
+            "eps": 0.8873101775171106,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 48196,
+            "eps": 0.8708343892639016,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 0
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 54143,
+            "eps": 0.7868692390723304,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 33965,
+            "eps": 0.7721884684528648,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 35851,
+            "eps": 0.7563449123453071,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 1
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      }
+    ]
+  },
+  "Mamba": {
+    "0": [
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 6,
+            "total_simplices": 88342,
+            "eps": 0.7195110741378672,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 44986,
+            "eps": 0.7215700190146925,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 3,
+            "total_simplices": 80073,
+            "eps": 0.7037444005642675,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 12
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 4,
+            "total_simplices": 90073,
+            "eps": 0.7211092617464352,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 46290,
+            "eps": 0.6922717702872184,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 77772,
+            "eps": 0.699906079540274,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 10
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 5,
+            "total_simplices": 94013,
+            "eps": 0.6695924605933449,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 52227,
+            "eps": 0.6615421263960336,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 88142,
+            "eps": 0.663854747070467,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 11
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 4,
+            "total_simplices": 77142,
+            "eps": 0.7194646193326762,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 43151,
+            "eps": 0.688120497592704,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 69979,
+            "eps": 0.7085905972320286,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 8
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 4,
+            "total_simplices": 84523,
+            "eps": 0.7146402418227548,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 44741,
+            "eps": 0.7037527402769911,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 1,
+            "total_simplices": 82182,
+            "eps": 0.7087201315910588,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 12
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      }
+    ],
+    "500": [
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 97166,
+            "eps": 0.8769564085913336,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 60720,
+            "eps": 0.891551570031705,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 104686,
+            "eps": 0.8586563292336122,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 2
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 123307,
+            "eps": 0.8850243569499505,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 92960,
+            "eps": 0.8971144440219896,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 128745,
+            "eps": 0.8990905774942936,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 4,
+          "h1": 0
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 3,
+            "total_simplices": 140594,
+            "eps": 0.8905323775311507,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 108058,
+            "eps": 0.9006967895536353,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 165178,
+            "eps": 0.9024840825510172,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 4
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 2,
+            "total_simplices": 90341,
+            "eps": 0.9569448128574893,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 2,
+            "h1": 0,
+            "total_simplices": 70477,
+            "eps": 1.0026060001831874,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 2,
+            "h1": 2,
+            "total_simplices": 118887,
+            "eps": 0.9899448598306824,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 2,
+          "h1": 4
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      },
+      {
+        "observed": {
+          "X": {
+            "h0": 1,
+            "h1": 3,
+            "total_simplices": 125508,
+            "eps": 0.918854465827332,
+            "n_points": 200
+          },
+          "Y": {
+            "h0": 1,
+            "h1": 1,
+            "total_simplices": 63325,
+            "eps": 0.9027940316462215,
+            "n_points": 200
+          },
+          "Z": {
+            "h0": 1,
+            "h1": 0,
+            "total_simplices": 121294,
+            "eps": 0.8989170942528352,
+            "n_points": 200
+          }
+        },
+        "predicted_z": {
+          "h0": 1,
+          "h1": 4
+        },
+        "b_ref": 2,
+        "a_ref": 4
+      }
+    ]
+  }
+}

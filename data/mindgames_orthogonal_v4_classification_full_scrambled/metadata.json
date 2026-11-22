@@ -1,0 +1,16 @@
+{
+  "source_dir": "mindgames_orthogonal_v4_classification",
+  "scramble_seed": 42,
+  "scramble_method": "independent_uniform",
+  "n_train": 720,
+  "n_labels_changed": 358,
+  "original_label_distribution": {
+    "entailment": 577,
+    "non_entailment": 143
+  },
+  "scrambled_label_distribution": {
+    "entailment": 365,
+    "non_entailment": 355
+  },
+  "description": "Full-scramble control: each training label is drawn independently and uniformly at random from {entailment, non_entailment}, breaking all input-label correlation. Val set is unmodified. Models trained on this data cannot exceed ~50% val accuracy. Used as a null hypothesis control: does near-complete topological simplification require a learnable, compositionally structured task?"
+}

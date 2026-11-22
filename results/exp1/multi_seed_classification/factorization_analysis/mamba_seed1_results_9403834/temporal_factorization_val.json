@@ -1,0 +1,49 @@
+{
+  "dataset": "data/mindgames_orthogonal_v4_classification",
+  "split": "val",
+  "epochs": [
+    0,
+    500
+  ],
+  "architectures": {
+    "mamba_seed1_results_9403834": {
+      "directory": "runs/exp1/multi_seed_classification/mamba_seed1_results_9403834/",
+      "epochs": [
+        0,
+        500
+      ],
+      "mean_r2": [
+        0.8710536658763885,
+        0.5134317576885223
+      ],
+      "std_r2": [
+        0.00360146164894104,
+        0.04697093367576599
+      ],
+      "fiber_details": [
+        {
+          "epoch": 0,
+          "split": "val",
+          "architecture": "mamba_seed1_results_9403834",
+          "fiber_r2": {
+            "depth_2": 0.8746551275253296,
+            "depth_3": 0.8674522042274475
+          },
+          "mean_r2": 0.8710536658763885,
+          "std_r2": 0.00360146164894104
+        },
+        {
+          "epoch": 500,
+          "split": "val",
+          "architecture": "mamba_seed1_results_9403834",
+          "fiber_r2": {
+            "depth_2": 0.5604026913642883,
+            "depth_3": 0.46646082401275635
+          },
+          "mean_r2": 0.5134317576885223,
+          "std_r2": 0.04697093367576599
+        }
+      ]
+    }
+  }
+}

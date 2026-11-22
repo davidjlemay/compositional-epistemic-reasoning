@@ -1,0 +1,3746 @@
+{
+  "L0_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.22908091529597696,
+      "pearson_p": 5.000398315282433e-10
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.08315046664128249,
+      "pearson_p": 0.02567124077634375
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15480703035182375,
+      "pearson_p": 3.021153868719403e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.00556414516881007,
+      "pearson_p": 0.8815193681101665
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.711808739450629,
+      "pearson_p": 2.8616627659338703e-112
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.022052137695420984,
+      "pearson_p": 0.5546781084810478
+    }
+  },
+  "L0_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20770097767871706,
+      "pearson_p": 1.855379471169436e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05015161189631238,
+      "pearson_p": 0.17887830703410712
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1472424335379865,
+      "pearson_p": 7.318122855987432e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.09242020898249784,
+      "pearson_p": 0.013105218457171618
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.19260506259966115,
+      "pearson_p": 1.9089176050754428e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1480847007336442,
+      "pearson_p": 6.64542046991388e-05
+    }
+  },
+  "L0_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.22520072591160833,
+      "pearson_p": 9.904768750631847e-10
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07052770268024178,
+      "pearson_p": 0.0585543520434591
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.14772723968114243,
+      "pearson_p": 6.923455041831036e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.18800771925191376,
+      "pearson_p": 3.746805690946737e-07
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.28853655538407885,
+      "pearson_p": 2.8485957427882996e-15
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.07805742822408455,
+      "pearson_p": 0.036254884680501365
+    }
+  },
+  "L0_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21165961777606634,
+      "pearson_p": 9.771342039400297e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07881466580835463,
+      "pearson_p": 0.03447814429936323
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15022430657884517,
+      "pearson_p": 5.189502473104354e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.22224219611965335,
+      "pearson_p": 1.654134867279962e-09
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.16205817383775026,
+      "pearson_p": 1.2433816273199344e-05
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.15791194311441326,
+      "pearson_p": 2.0756439819713777e-05
+    }
+  },
+  "L0_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20809543157391486,
+      "pearson_p": 1.741519642128096e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07220557359501263,
+      "pearson_p": 0.052789259062204136
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1440563530937493,
+      "pearson_p": 0.00010489915502854164
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.20337568467910916,
+      "pearson_p": 3.6854717764473e-08
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.19351613316361244,
+      "pearson_p": 1.666855483570296e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.21515381406824333,
+      "pearson_p": 5.490436790272222e-09
+    }
+  },
+  "L0_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.19387474932327137,
+      "pearson_p": 1.5799401765483907e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06485492555621555,
+      "pearson_p": 0.08202636593392976
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.14012046860014518,
+      "pearson_p": 0.0001619977924611256
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0877738315045716,
+      "pearson_p": 0.018489096164838292
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.24595779238736917,
+      "pearson_p": 2.2115243904968652e-11
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.23949468688024567,
+      "pearson_p": 7.50882355399461e-11
+    }
+  },
+  "L0_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20883464388541376,
+      "pearson_p": 1.546106422270211e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07451590413320565,
+      "pearson_p": 0.04563249981823349
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15282762103931175,
+      "pearson_p": 3.8236778835224284e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.21454351668732183,
+      "pearson_p": 6.076319529730711e-09
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2754656853936357,
+      "pearson_p": 5.282721662805401e-14
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.11763205733496604,
+      "pearson_p": 0.0015674399360994177
+    }
+  },
+  "L0_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.14099886145012638,
+      "pearson_p": 0.00014716729554912895
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0909101534493448,
+      "pearson_p": 0.014679473409873892
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.11601288020119455,
+      "pearson_p": 0.0018203478513526465
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.06685247866370056,
+      "pearson_p": 0.07301621347004361
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.45915359393151584,
+      "pearson_p": 7.858667435593574e-39
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.19772238650234905,
+      "pearson_p": 8.838044737394119e-08
+    }
+  },
+  "L0_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2171267926792446,
+      "pearson_p": 3.947841931827381e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07197445945568501,
+      "pearson_p": 0.05355408214563816
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15384677194003546,
+      "pearson_p": 3.38814637019931e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.1591333600195911,
+      "pearson_p": 1.7871933692093248e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2241722544710022,
+      "pearson_p": 1.1847409068976055e-09
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.292317661720789,
+      "pearson_p": 1.1889967713876888e-15
+    }
+  },
+  "L0_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21098935494353302,
+      "pearson_p": 1.0901562227455599e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07102284238392931,
+      "pearson_p": 0.056801190552787414
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.16226269016358888,
+      "pearson_p": 1.2119448599322217e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.22413692456736498,
+      "pearson_p": 1.1920337525386285e-09
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.16253006146184285,
+      "pearson_p": 1.1719868437783968e-05
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.06632856714713792,
+      "pearson_p": 0.07529734589492473
+    }
+  },
+  "L0_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2191847442982149,
+      "pearson_p": 2.789228988686108e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.08220570152466196,
+      "pearson_p": 0.027404165624466743
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1477665776331491,
+      "pearson_p": 6.892328435435312e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.04595049491666084,
+      "pearson_p": 0.21813988200285206
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2056013189198599,
+      "pearson_p": 2.593761195658866e-08
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.07455751911218532,
+      "pearson_p": 0.045511466998340244
+    }
+  },
+  "L0_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.19583255985935638,
+      "pearson_p": 1.1773346128046299e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.027144757486133514,
+      "pearson_p": 0.4670797174245784
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1155925950296558,
+      "pearson_p": 0.0018918491657616949
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.1083727752038614,
+      "pearson_p": 0.0035972878839409667
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.19121008835163994,
+      "pearson_p": 2.3464395304010106e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.0974360566312428,
+      "pearson_p": 0.008892268205159069
+    }
+  },
+  "L1_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21621623567309137,
+      "pearson_p": 4.598754098830402e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05276106160412086,
+      "pearson_p": 0.1572875854945548
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.14020645942228394,
+      "pearson_p": 0.0001604862375465547
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.2355264824566361,
+      "pearson_p": 1.5630330807852254e-10
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3382008887926386,
+      "pearson_p": 1.004270522133062e-20
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12289254406558316,
+      "pearson_p": 0.0009519472077576456
+    }
+  },
+  "L1_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.16811835463724992,
+      "pearson_p": 5.744786714547335e-06
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06298466028210904,
+      "pearson_p": 0.09125846528629447
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12627336030255698,
+      "pearson_p": 0.0006838211139411502
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.21739713951696377,
+      "pearson_p": 3.772461236489371e-09
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.532747442791158,
+      "pearson_p": 4.9968617711009546e-54
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.22557207102631777,
+      "pearson_p": 9.282575765884738e-10
+    }
+  },
+  "L1_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.16648008383003748,
+      "pearson_p": 7.097525579026243e-06
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06233401384654708,
+      "pearson_p": 0.09465918096720809
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13903810359137406,
+      "pearson_p": 0.00018220300538518446
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.09858573840087119,
+      "pearson_p": 0.00811642486861507
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.18816120073350734,
+      "pearson_p": 3.664365382297165e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09453322133893216,
+      "pearson_p": 0.01115292042544881
+    }
+  },
+  "L1_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2142829725795472,
+      "pearson_p": 6.344529595924928e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0865388847615356,
+      "pearson_p": 0.020211112302676932
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13021000131208693,
+      "pearson_p": 0.0004604760245335903
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.23676554880385386,
+      "pearson_p": 1.2449826035881998e-10
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.4593223025798953,
+      "pearson_p": 7.321080724381958e-39
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12379390321706538,
+      "pearson_p": 0.0008722734945110526
+    }
+  },
+  "L1_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2139512925104018,
+      "pearson_p": 6.702634677894662e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05431363385026945,
+      "pearson_p": 0.14541188676591293
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13293358311823833,
+      "pearson_p": 0.00034799915457400305
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.15380509711289875,
+      "pearson_p": 3.404993568344334e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.444001378341353,
+      "pearson_p": 3.891834110707801e-36
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.17634170310881483,
+      "pearson_p": 1.9275034659768724e-06
+    }
+  },
+  "L1_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20571765565439826,
+      "pearson_p": 2.546292438902968e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.09780396994286053,
+      "pearson_p": 0.008637083935580174
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13198597520661506,
+      "pearson_p": 0.00038384673967531527
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.013316772745722238,
+      "pearson_p": 0.7213003292850836
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.33489226692486423,
+      "pearson_p": 2.4979843111712558e-20
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.18000243169239577,
+      "pearson_p": 1.1659304593830008e-06
+    }
+  },
+  "L1_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2651100303064501,
+      "pearson_p": 4.792141742989457e-13
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07993778778628309,
+      "pearson_p": 0.031979881253588284
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.07103796668037274,
+      "pearson_p": 0.05674833293192898
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.09651000087532233,
+      "pearson_p": 0.009564565597418697
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3332534562736862,
+      "pearson_p": 3.906917187852828e-20
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.2844627441514399,
+      "pearson_p": 7.196174539771627e-15
+    }
+  },
+  "L1_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21341286367847126,
+      "pearson_p": 7.326117406401684e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.022033866585580805,
+      "pearson_p": 0.5550062431319391
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.14669598517521043,
+      "pearson_p": 7.788399831396356e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.15792997236816983,
+      "pearson_p": 2.0710814732577613e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.18482221600875048,
+      "pearson_p": 5.921271934401045e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.19603674812766625,
+      "pearson_p": 1.141568965569279e-07
+    }
+  },
+  "L1_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.23590439442253444,
+      "pearson_p": 1.4584512185781743e-10
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.11076315733778386,
+      "pearson_p": 0.0029195360462382484
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1479930894860807,
+      "pearson_p": 6.715653603002529e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.12803007423914028,
+      "pearson_p": 0.0005739822845853922
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3505525319083346,
+      "pearson_p": 3.0317796850851464e-22
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.17334568669824219,
+      "pearson_p": 2.8864898668565575e-06
+    }
+  },
+  "L1_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20028999551743631,
+      "pearson_p": 5.9592186108717766e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07153227608741955,
+      "pearson_p": 0.055043134382000015
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15349581084208164,
+      "pearson_p": 3.532527815713809e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.18337767678306177,
+      "pearson_p": 7.268120608484846e-07
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2366268495988092,
+      "pearson_p": 1.2771767867092872e-10
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1154665489571598,
+      "pearson_p": 0.001913789288411045
+    }
+  },
+  "L1_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1937567769944501,
+      "pearson_p": 1.608038025998663e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07999840595534712,
+      "pearson_p": 0.03184956478785157
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.14164673286608082,
+      "pearson_p": 0.00013705682835505315
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.1304007768772138,
+      "pearson_p": 0.0004516089187089129
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.6407963832614956,
+      "pearson_p": 1.730176389743144e-84
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.16356168373738647,
+      "pearson_p": 1.0292629379133551e-05
+    }
+  },
+  "L1_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.27929939288399364,
+      "pearson_p": 2.2793987358216845e-14
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05485573395072259,
+      "pearson_p": 0.14143081212510555
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1541490599824757,
+      "pearson_p": 3.268289315127002e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.10192493922357398,
+      "pearson_p": 0.006194333822664594
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2630152994354422,
+      "pearson_p": 7.400474901348233e-13
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.060933071902420255,
+      "pearson_p": 0.10232536866691386
+    }
+  },
+  "L2_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1840892117534485,
+      "pearson_p": 6.571542978796153e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0788767434444754,
+      "pearson_p": 0.034335838832569424
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15360738151447995,
+      "pearson_p": 3.486008415497797e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.10453898805123579,
+      "pearson_p": 0.004986593551946241
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.6359715284061329,
+      "pearson_p": 7.285977339490596e-83
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.037599053056882346,
+      "pearson_p": 0.3136985072108758
+    }
+  },
+  "L2_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2540003554029291,
+      "pearson_p": 4.598026502524854e-12
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06330553862366965,
+      "pearson_p": 0.08961780359754018
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15161971683445802,
+      "pearson_p": 4.408554737894948e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.12798601153712538,
+      "pearson_p": 0.0005765241718365512
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.44735550970607485,
+      "pearson_p": 1.0121787005559104e-36
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.04951971994468117,
+      "pearson_p": 0.18442296654057452
+    }
+  },
+  "L2_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.15841121448265974,
+      "pearson_p": 1.952760932171189e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05079763713410155,
+      "pearson_p": 0.17333853806455116
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1431935906172615,
+      "pearson_p": 0.00011549486824355194
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.17767426335321232,
+      "pearson_p": 1.607080512806036e-06
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.23525950250104954,
+      "pearson_p": 1.6412876279972083e-10
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.05810310301820186,
+      "pearson_p": 0.11930981376882265
+    }
+  },
+  "L2_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.19231153268248574,
+      "pearson_p": 1.993885533466065e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0669639542120937,
+      "pearson_p": 0.07253819886208075
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.16198408557342608,
+      "pearson_p": 1.2549603637738334e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.008214586430426149,
+      "pearson_p": 0.8258390554752191
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.40078114880826654,
+      "pearson_p": 3.6969095862015467e-29
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.06890313454599234,
+      "pearson_p": 0.064624155145677
+    }
+  },
+  "L2_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1992964738467755,
+      "pearson_p": 6.945268986315702e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.051327087068037486,
+      "pearson_p": 0.16889464768226226
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15753619556371978,
+      "pearson_p": 2.1729329471443436e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.2223901139798951,
+      "pearson_p": 1.6125346433353742e-09
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3245906056138583,
+      "pearson_p": 3.9748325475246695e-19
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.03074079151639005,
+      "pearson_p": 0.41015354550161015
+    }
+  },
+  "L2_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1390756615762649,
+      "pearson_p": 0.00018146396624102811
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0759418900517912,
+      "pearson_p": 0.04163635458996097
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.14286062796443755,
+      "pearson_p": 0.00011984718981873624
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.1194879177160081,
+      "pearson_p": 0.001317496105423268
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.6160943512808696,
+      "pearson_p": 1.8165401857184026e-76
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.028753792457387753,
+      "pearson_p": 0.4410840360872297
+    }
+  },
+  "L2_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2540879107531263,
+      "pearson_p": 4.518697740931775e-12
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.055811063651401545,
+      "pearson_p": 0.13461920188224075
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13585885654373564,
+      "pearson_p": 0.00025607538773982693
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.004567601754450923,
+      "pearson_p": 0.9026223865826429
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.44133530001962035,
+      "pearson_p": 1.1231407454375248e-35
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.013934178384999723,
+      "pearson_p": 0.7089536617715103
+    }
+  },
+  "L2_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21595551296689675,
+      "pearson_p": 4.803577759839896e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07480701884186054,
+      "pearson_p": 0.044791471036590404
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15730892869268234,
+      "pearson_p": 2.2338631307241382e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.00011423727354556434,
+      "pearson_p": 0.9975584916157716
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.5803574980650288,
+      "pearson_p": 4.7396662059512324e-66
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.11412031700498906,
+      "pearson_p": 0.0021631030957777147
+    }
+  },
+  "L2_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.13166507112096582,
+      "pearson_p": 0.00039674728649707826
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05339107652741959,
+      "pearson_p": 0.1523830439994989
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12810126134497135,
+      "pearson_p": 0.0005698976383746119
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.005427701094447245,
+      "pearson_p": 0.8844041249860995
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.1898155147604418,
+      "pearson_p": 2.8797017466905163e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.0655431012899422,
+      "pearson_p": 0.07882575015691637
+    }
+  },
+  "L2_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20789870377384023,
+      "pearson_p": 1.7974321428305845e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05206629939410953,
+      "pearson_p": 0.16283357328343792
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15269088273508302,
+      "pearson_p": 3.885996368310891e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.14466026155503614,
+      "pearson_p": 9.80346361140091e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.4710559915416336,
+      "pearson_p": 4.803203626949799e-41
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.039945925643919744,
+      "pearson_p": 0.2844273471215865
+    }
+  },
+  "L2_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2608037569733288,
+      "pearson_p": 1.1660269010738358e-12
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07255220204115839,
+      "pearson_p": 0.05165925883402884
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15578726195250586,
+      "pearson_p": 2.6856055447889734e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.11422502030638586,
+      "pearson_p": 0.0021426961932366467
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.5783601495753325,
+      "pearson_p": 1.6610451812489444e-65
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.06991192043159765,
+      "pearson_p": 0.060797009630923805
+    }
+  },
+  "L2_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.18531659505770698,
+      "pearson_p": 5.518138111532847e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06304223646338833,
+      "pearson_p": 0.09096231530689486
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13599709689841769,
+      "pearson_p": 0.000252351866086636
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.12920211608014026,
+      "pearson_p": 0.0005100735440424496
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.26785664433314266,
+      "pearson_p": 2.6948556000385377e-13
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.0558242298557242,
+      "pearson_p": 0.1345271254448394
+    }
+  },
+  "L3_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.27520512098193417,
+      "pearson_p": 5.590631651083678e-14
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05251521568449231,
+      "pearson_p": 0.15923350188109872
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13172704914182043,
+      "pearson_p": 0.0003942246573689955
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.11560787097477168,
+      "pearson_p": 0.0018892058902345743
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2712217783780497,
+      "pearson_p": 1.3191988703324892e-13
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.096314576390785,
+      "pearson_p": 0.009712088764653262
+    }
+  },
+  "L3_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.04324689424416954,
+      "pearson_p": 0.2464716968113334
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.029137375853258096,
+      "pearson_p": 0.43501123257351015
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.10761479741031926,
+      "pearson_p": 0.003840299308521135
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.023828414323089898,
+      "pearson_p": 0.5232373048204596
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.08841812415999592,
+      "pearson_p": 0.017642634185030044
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.10659066748576777,
+      "pearson_p": 0.0041922788369112484
+    }
+  },
+  "L3_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.42638729616265914,
+      "pearson_p": 3.602740823450647e-33
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.057857566574876285,
+      "pearson_p": 0.12088168213320044
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.04871491761544543,
+      "pearson_p": 0.19166736321151776
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.054109237812954965,
+      "pearson_p": 0.14693496401579761
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.25110780838536434,
+      "pearson_p": 8.140721265472751e-12
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.3143137261168213,
+      "pearson_p": 5.662652958988113e-18
+    }
+  },
+  "L3_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.30625601059823215,
+      "pearson_p": 4.233332790230833e-17
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.008760143439641599,
+      "pearson_p": 0.8144762055067534
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.01719027808944175,
+      "pearson_p": 0.645160137357962
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.006217400252289257,
+      "pearson_p": 0.8677303568776947
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.09641885655558215,
+      "pearson_p": 0.009633119215445813
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.37806877284997936,
+      "pearson_p": 6.988270513107843e-26
+    }
+  },
+  "L3_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2866376421887327,
+      "pearson_p": 4.395926364586932e-15
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.04345500734120777,
+      "pearson_p": 0.2442034710398643
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.11644975389265895,
+      "pearson_p": 0.0017486584004217632
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.023213470187330235,
+      "pearson_p": 0.5340179425962867
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3414185989606285,
+      "pearson_p": 4.096104872787801e-21
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12212585571195017,
+      "pearson_p": 0.0010249558890725412
+    }
+  },
+  "L3_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20823261347901667,
+      "pearson_p": 1.7035321940947622e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05686271990431578,
+      "pearson_p": 0.1274164720001456
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08911788611137332,
+      "pearson_p": 0.01676188081214393
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.04824979529390425,
+      "pearson_p": 0.19594825500185653
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2462141336901316,
+      "pearson_p": 2.1053277574693572e-11
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.30878547749891383,
+      "pearson_p": 2.266303208481505e-17
+    }
+  },
+  "L3_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20220808336569462,
+      "pearson_p": 4.424326201757731e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.061411748583624394,
+      "pearson_p": 0.09965235850348675
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12274641890986349,
+      "pearson_p": 0.0009654801161531701
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.12694767322638795,
+      "pearson_p": 0.0006395372023016401
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.31375154472698613,
+      "pearson_p": 6.52904945131131e-18
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.03807881470435551,
+      "pearson_p": 0.3075593759891419
+    }
+  },
+  "L3_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2746487569071595,
+      "pearson_p": 6.308209929606917e-14
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05929614308639713,
+      "pearson_p": 0.11189862167549977
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.06402960753525627,
+      "pearson_p": 0.08600265539513799
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.001826798918752523,
+      "pearson_p": 0.960972665800493
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3090371179600637,
+      "pearson_p": 2.129008316661674e-17
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.21116205458157733,
+      "pearson_p": 1.0598782785176458e-08
+    }
+  },
+  "L3_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.3682868446850633,
+      "pearson_p": 1.5067001841095855e-24
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.003936491098753617,
+      "pearson_p": 0.9160234864692914
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.15995201619332333,
+      "pearson_p": 1.6156517182828287e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.037875913314115536,
+      "pearson_p": 0.3101459936197351
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.02411486897878678,
+      "pearson_p": 0.5182537738742206
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.3615638275536802,
+      "pearson_p": 1.1706853405254733e-23
+    }
+  },
+  "L3_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.13404580297090646,
+      "pearson_p": 0.00030991668299352375
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05540991968602872,
+      "pearson_p": 0.137447927109463
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1617728918119167,
+      "pearson_p": 1.2885325060515136e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.10850954782925314,
+      "pearson_p": 0.003554954556726052
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.2610559507129143,
+      "pearson_p": 1.1073524849378458e-12
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.06544356011213734,
+      "pearson_p": 0.07928233187829026
+    }
+  },
+  "L3_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21756642924790606,
+      "pearson_p": 3.6665174822405513e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03892400708848505,
+      "pearson_p": 0.29693843727151337
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09581322018496789,
+      "pearson_p": 0.010099852030192898
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.08088330797346015,
+      "pearson_p": 0.02999832871858233
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.3360133332283526,
+      "pearson_p": 1.836696968716675e-20
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.20264295195128235,
+      "pearson_p": 4.133775338076041e-08
+    }
+  },
+  "L3_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.4036164519865812,
+      "pearson_p": 1.3823405333909242e-29
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": -0.053249689496212144,
+      "pearson_p": 0.15347347754677415
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.27595640674400734,
+      "pearson_p": 4.7473484376787436e-14
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.043970440338625634,
+      "pearson_p": 0.2386488588527565
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.05135647044996227,
+      "pearson_p": 0.16865054270267388
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.41670157445673706,
+      "pearson_p": 1.3026045446796489e-31
+    }
+  },
+  "L4_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20581620847656756,
+      "pearson_p": 2.5067392228789123e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.043943136117960906,
+      "pearson_p": 0.23894085484589128
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.10032139232172668,
+      "pearson_p": 0.007059434529350258
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0043554414017361095,
+      "pearson_p": 0.907124535796265
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.06722887064374486,
+      "pearson_p": 0.0714124709403388
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.16992813827095624,
+      "pearson_p": 4.5373768132726536e-06
+    }
+  },
+  "L4_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1225069791417845,
+      "pearson_p": 0.0009880399785548147
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.030374569718189776,
+      "pearson_p": 0.4157555881735677
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.04262632046730021,
+      "pearson_p": 0.2533226466792438
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.01168190409013375,
+      "pearson_p": 0.7543380813917937
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.02314217835970004,
+      "pearson_p": 0.5352749680306816
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.23084234776369322,
+      "pearson_p": 3.6515229164384754e-10
+    }
+  },
+  "L4_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.29487604158794256,
+      "pearson_p": 6.534236309821832e-16
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0629279993626674,
+      "pearson_p": 0.09155066219236153
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13099911009697515,
+      "pearson_p": 0.0004248195759579933
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.03960113462949429,
+      "pearson_p": 0.2886081287466476
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.1360843928855186,
+      "pearson_p": 0.00025002670417119253
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.14008318836111605,
+      "pearson_p": 0.00016265725331605511
+    }
+  },
+  "L4_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1526443055695196,
+      "pearson_p": 3.907442684781933e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05835384213234165,
+      "pearson_p": 0.11772117973853667
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15417267750306632,
+      "pearson_p": 3.259096256483608e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.006965376969844051,
+      "pearson_p": 0.8519913603064303
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.10470116170219826,
+      "pearson_p": 0.0049191880019682525
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09308699450034896,
+      "pearson_p": 0.012458861864804627
+    }
+  },
+  "L4_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2570073940683171,
+      "pearson_p": 2.519698491553653e-12
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06038352169909966,
+      "pearson_p": 0.1054640100540452
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15548395205462687,
+      "pearson_p": 2.7854568129809322e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0919555148650413,
+      "pearson_p": 0.013573002244222226
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.19629166114357705,
+      "pearson_p": 1.0983889636086396e-07
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.04236327271601728,
+      "pearson_p": 0.2562661855767685
+    }
+  },
+  "L4_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.22407904245966803,
+      "pearson_p": 1.204076344023531e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.1532905638486538,
+      "pearson_p": 3.6196461039211694e-05
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.18833899898408052,
+      "pearson_p": 3.571047202455588e-07
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.05826571017119375,
+      "pearson_p": 0.11827766801789176
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.35879575628537,
+      "pearson_p": 2.684992331375667e-23
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.16968557340547688,
+      "pearson_p": 4.68382971017428e-06
+    }
+  },
+  "L4_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.06919392711944289,
+      "pearson_p": 0.0635011165712549
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.014753987003973401,
+      "pearson_p": 0.6926770904944324
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09198029484320012,
+      "pearson_p": 0.013547690843469082
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.014910019488436108,
+      "pearson_p": 0.6895949044869235
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.011845168358204042,
+      "pearson_p": 0.7510174144048091
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12919614919600902,
+      "pearson_p": 0.0005103814370874957
+    }
+  },
+  "L4_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1009528842258765,
+      "pearson_p": 0.006706597517673843
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.04182345633166209,
+      "pearson_p": 0.26238082583765804
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.10202863988365596,
+      "pearson_p": 0.006141814792819321
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.04096557986782899,
+      "pearson_p": 0.2723037105193635
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.025319075178493862,
+      "pearson_p": 0.4975749096008358
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1769878943192947,
+      "pearson_p": 1.7651444866615768e-06
+    }
+  },
+  "L4_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.364624160668218,
+      "pearson_p": 4.631692383986871e-24
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.1352934743884917,
+      "pearson_p": 0.00027184568711231187
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.0052511144027817935,
+      "pearson_p": 0.8881398597117603
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.08702500461361846,
+      "pearson_p": 0.01951727173649331
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.07379446650029138,
+      "pearson_p": 0.04777411493831939
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.19763089255937039,
+      "pearson_p": 8.962185481924913e-08
+    }
+  },
+  "L4_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.11733067671194035,
+      "pearson_p": 0.0016119185673787154
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03869312572011588,
+      "pearson_p": 0.29981516124364455
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08786041270043599,
+      "pearson_p": 0.01837332250495286
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.021402663637031912,
+      "pearson_p": 0.56639990420023
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.018044105399967446,
+      "pearson_p": 0.628831443559646
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.13633315789235761,
+      "pearson_p": 0.00024351026451089125
+    }
+  },
+  "L4_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.23591426631364495,
+      "pearson_p": 1.4558128763060556e-10
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0411440108451677,
+      "pearson_p": 0.27021900988609376
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09577786573887842,
+      "pearson_p": 0.010127708441406624
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.07188673829917777,
+      "pearson_p": 0.053846783998949016
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.08272318118253615,
+      "pearson_p": 0.026442906879906573
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.25308021559001714,
+      "pearson_p": 5.518603005287477e-12
+    }
+  },
+  "L4_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.12618446913021522,
+      "pearson_p": 0.0006898665175773783
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.11740987618212584,
+      "pearson_p": 0.001600119125551183
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08133496256902539,
+      "pearson_p": 0.029089566923714096
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.09025506549384621,
+      "pearson_p": 0.015412619974751655
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.14941969264226973,
+      "pearson_p": 5.697499656943365e-05
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.2403032997443206,
+      "pearson_p": 6.456375221151246e-11
+    }
+  },
+  "L5_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.04051588352537514,
+      "pearson_p": 0.2776063726637661
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.033004891444729734,
+      "pearson_p": 0.37652546618419425
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.19895067031869101,
+      "pearson_p": 7.324121452960919e-08
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.027924315489003555,
+      "pearson_p": 0.45438053196254846
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.03536350586735938,
+      "pearson_p": 0.3433585357644001
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.003161445005577886,
+      "pearson_p": 0.9325131808990299
+    }
+  },
+  "L5_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1306813322769009,
+      "pearson_p": 0.0004388574218998968
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03898499195400362,
+      "pearson_p": 0.2961816666488721
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12700460814608433,
+      "pearson_p": 0.0006359226957585446
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.009454701725802338,
+      "pearson_p": 0.8000664288145326
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.05012820191471328,
+      "pearson_p": 0.17908149040017513
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.07200687313297804,
+      "pearson_p": 0.05344626245102699
+    }
+  },
+  "L5_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.001804661608952778,
+      "pearson_p": 0.9614452327153259
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0012749514472819093,
+      "pearson_p": 0.9727566520773412
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09984912517763145,
+      "pearson_p": 0.007334083217028435
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.0010236886474148015,
+      "pearson_p": 0.9781241646284313
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.018614025128994748,
+      "pearson_p": 0.618031551338117
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.10324763865382158,
+      "pearson_p": 0.005553778815409137
+    }
+  },
+  "L5_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21300678367843567,
+      "pearson_p": 7.833215259039433e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06287690450628543,
+      "pearson_p": 0.09181479822398053
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1419994498004837,
+      "pearson_p": 0.0001318306866643116
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.04930886544202639,
+      "pearson_p": 0.18630111385041057
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.09178781044323994,
+      "pearson_p": 0.013745401712489315
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09830994793056944,
+      "pearson_p": 0.00829681079866617
+    }
+  },
+  "L5_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.09109714449624551,
+      "pearson_p": 0.014475909430488657
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03415875262205706,
+      "pearson_p": 0.3600603644689491
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09552476929826248,
+      "pearson_p": 0.010329129291367112
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.05403684851371557,
+      "pearson_p": 0.14747728961772072
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.033727366325353635,
+      "pearson_p": 0.3661625205383056
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.14214451479601328,
+      "pearson_p": 0.00012973615430301379
+    }
+  },
+  "L5_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.12530015891966678,
+      "pearson_p": 0.0007527661979535095
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06599066346229918,
+      "pearson_p": 0.07679915249737139
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13930489048990433,
+      "pearson_p": 0.0001770139790928754
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.005354721512759334,
+      "pearson_p": 0.8859477198585402
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.04738653992601986,
+      "pearson_p": 0.20407802601403957
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.10207313611960168,
+      "pearson_p": 0.006119402697827321
+    }
+  },
+  "L5_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.025920437436545707,
+      "pearson_p": 0.48741475716001875
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03395052543280852,
+      "pearson_p": 0.36299783647251493
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08664840370917265,
+      "pearson_p": 0.02005294856882021
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.019906891061563705,
+      "pearson_p": 0.5938379114053737
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.022952810138246793,
+      "pearson_p": 0.5386211407249799
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.11146974220833744,
+      "pearson_p": 0.0027427454623824487
+    }
+  },
+  "L5_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.10334947539435484,
+      "pearson_p": 0.0055070262550560465
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.029077417304461145,
+      "pearson_p": 0.43595729447017323
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12391985602760848,
+      "pearson_p": 0.0008616449986508582
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.025018381297165465,
+      "pearson_p": 0.5026970835133302
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.032821103862887197,
+      "pearson_p": 0.37919019197571086
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.08767511278755039,
+      "pearson_p": 0.01862187661024449
+    }
+  },
+  "L5_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.026111289067453844,
+      "pearson_p": 0.4842137986774119
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.024528498399582557,
+      "pearson_p": 0.5111012023258079
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.150714722806907,
+      "pearson_p": 4.9012140186485715e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.021336239078594006,
+      "pearson_p": 0.5676053957931941
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0166738428294895,
+      "pearson_p": 0.6551206860871446
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09880422445584508,
+      "pearson_p": 0.007976015687082174
+    }
+  },
+  "L5_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.11299258633363289,
+      "pearson_p": 0.002394450543903587
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.09729343714087892,
+      "pearson_p": 0.008992982538754425
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.20790608488096252,
+      "pearson_p": 1.79530328397333e-08
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0073008990179407145,
+      "pearson_p": 0.8449499512410634
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.13245211170292176,
+      "pearson_p": 0.0003658031902805939
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.0361914773143788,
+      "pearson_p": 0.3321713050915739
+    }
+  },
+  "L5_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.03487748457101573,
+      "pearson_p": 0.35003603939509803
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.032770827514119985,
+      "pearson_p": 0.37992115785391206
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15984347579049293,
+      "pearson_p": 1.637459382511795e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.005411833792003859,
+      "pearson_p": 0.884739698071781
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.02069871545778255,
+      "pearson_p": 0.579237247281749
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.0931914424399027,
+      "pearson_p": 0.012360207980648434
+    }
+  },
+  "L5_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.06494442860432625,
+      "pearson_p": 0.08160424184996676
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.030904645154048473,
+      "pearson_p": 0.40766166583694696
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.11132014037585126,
+      "pearson_p": 0.002779340891062464
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.014502159096606633,
+      "pearson_p": 0.6976622783338637
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.04462965099086459,
+      "pearson_p": 0.23167530356160107
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09345545503710394,
+      "pearson_p": 0.012113913196607125
+    }
+  },
+  "L6_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.07001598708234971,
+      "pearson_p": 0.06041309093329714
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03937859571402211,
+      "pearson_p": 0.29132837784861315
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.16578364642619486,
+      "pearson_p": 7.760325322581672e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.055877382027516256,
+      "pearson_p": 0.1341559053595532
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.01471455610740943,
+      "pearson_p": 0.6934567950677937
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.03763652547982127,
+      "pearson_p": 0.313216125070694
+    }
+  },
+  "L6_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.05921405801415083,
+      "pearson_p": 0.1123966425613452
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0671394210909095,
+      "pearson_p": 0.07179096664479377
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.3729355827875004,
+      "pearson_p": 3.5473833540950975e-25
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.056128697641695854,
+      "pearson_p": 0.1324113886501295
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.04332765408081402,
+      "pearson_p": 0.24558975183547413
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.0004360226796230812,
+      "pearson_p": 0.9906814080763472
+    }
+  },
+  "L6_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.07362770283356758,
+      "pearson_p": 0.048280978485795496
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.019401677933970116,
+      "pearson_p": 0.6032406027697069
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1135059400783092,
+      "pearson_p": 0.002286471556745213
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.026100750384748198,
+      "pearson_p": 0.48439025597897245
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.018767525506461834,
+      "pearson_p": 0.6151366382997726
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09049093590112187,
+      "pearson_p": 0.01514501967252354
+    }
+  },
+  "L6_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.05769188838601706,
+      "pearson_p": 0.12195142095562707
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05329061068144891,
+      "pearson_p": 0.15315726984863823
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.18109676861914645,
+      "pearson_p": 1.0012486435056471e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0662783888545251,
+      "pearson_p": 0.07551883784367988
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.04480432802867727,
+      "pearson_p": 0.22985190450042092
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.02777422747358057,
+      "pearson_p": 0.456810299278659
+    }
+  },
+  "L6_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.15563210246320225,
+      "pearson_p": 2.736252744753611e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07168766067632311,
+      "pearson_p": 0.05451599883985111
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1751981786561187,
+      "pearson_p": 2.250519439085583e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.04330422714613341,
+      "pearson_p": 0.24584536003697635
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.02136081833783545,
+      "pearson_p": 0.5671591816224979
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.07386835067914929,
+      "pearson_p": 0.04755098134822803
+    }
+  },
+  "L6_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.04113368020483988,
+      "pearson_p": 0.27033940938655965
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.016486944840362845,
+      "pearson_p": 0.6587406750038904
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1229805444677529,
+      "pearson_p": 0.0009438821487021994
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.019988904529654065,
+      "pearson_p": 0.5923178661918264
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.01048761795774008,
+      "pearson_p": 0.7787632523129341
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.0885031556288961,
+      "pearson_p": 0.017533492478501708
+    }
+  },
+  "L6_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1419866589162786,
+      "pearson_p": 0.00013201688633376283
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06092532163185713,
+      "pearson_p": 0.10236911127173431
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08597786259458066,
+      "pearson_p": 0.021038469268732374
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.024812435844392598,
+      "pearson_p": 0.5062212474123009
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.041083538271148856,
+      "pearson_p": 0.27092431505958575
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.08505293236313265,
+      "pearson_p": 0.022466842314331985
+    }
+  },
+  "L6_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.13209957082834806,
+      "pearson_p": 0.00037937465543367454
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03277549422177615,
+      "pearson_p": 0.37985327240230443
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.032589365253397756,
+      "pearson_p": 0.3825666130986809
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.006240858711853887,
+      "pearson_p": 0.8672359123329896
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.033607589898534365,
+      "pearson_p": 0.3678681665802939
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1938975335317182,
+      "pearson_p": 1.5745684479759287e-07
+    }
+  },
+  "L6_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.11214541673690331,
+      "pearson_p": 0.0025828732746503344
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03159235739540926,
+      "pearson_p": 0.39730158991459347
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.028906615390529064,
+      "pearson_p": 0.4386587894543132
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.03663250691817002,
+      "pearson_p": 0.32630931907172583
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.020703176007320943,
+      "pearson_p": 0.5791554764256412
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.163756976252611,
+      "pearson_p": 1.0041790971559047e-05
+    }
+  },
+  "L6_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.15016811303510386,
+      "pearson_p": 5.22354105568991e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.11864868570065716,
+      "pearson_p": 0.0014255898624110474
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.39527504469858094,
+      "pearson_p": 2.4310240885303116e-28
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.13746759480917115,
+      "pearson_p": 0.00021575911698281348
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.08659246959991085,
+      "pearson_p": 0.020133591604651824
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.20158204064917243,
+      "pearson_p": 4.877552176495013e-08
+    }
+  },
+  "L6_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.021864156314451662,
+      "pearson_p": 0.5580586205811457
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.041217691860321086,
+      "pearson_p": 0.26936135114081405
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1718299262639028,
+      "pearson_p": 3.53156940025802e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.11160063043610713,
+      "pearson_p": 0.002711088602264374
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.03601256611998731,
+      "pearson_p": 0.33456855853642425
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.03859746487840081,
+      "pearson_p": 0.3010124876884606
+    }
+  },
+  "L6_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.17200731719220397,
+      "pearson_p": 3.4494925356814256e-06
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0474635476643228,
+      "pearson_p": 0.20334300127050592
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.06501381664393391,
+      "pearson_p": 0.08127819817167573
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.06994703915162427,
+      "pearson_p": 0.060667226108958874
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.06199950996770076,
+      "pearson_p": 0.09644655777804217
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.11396459255330343,
+      "pearson_p": 0.0021937831574765877
+    }
+  },
+  "L7_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.17717704955438884,
+      "pearson_p": 1.720155358525569e-06
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03336279145629017,
+      "pearson_p": 0.3713694837179857
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12378919850937375,
+      "pearson_p": 0.0008726728402448709
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.008752791003663121,
+      "pearson_p": 0.8146290889719003
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0679160675304949,
+      "pearson_p": 0.0685587952653366
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09347920344286903,
+      "pearson_p": 0.012091972775916804
+    }
+  },
+  "L7_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.03314435623271324,
+      "pearson_p": 0.3745110882667599
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.024849080190277085,
+      "pearson_p": 0.505593237804719
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.12670870623289376,
+      "pearson_p": 0.0006549169644907777
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.0013144344008311241,
+      "pearson_p": 0.9719133171961882
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.002949747681885509,
+      "pearson_p": 0.9370225336474802
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09883395808899038,
+      "pearson_p": 0.007957076242122935
+    }
+  },
+  "L7_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.04722341711330828,
+      "pearson_p": 0.20564137089560527
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.057048191254670644,
+      "pearson_p": 0.12617781307854106
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.11698861389224353,
+      "pearson_p": 0.001663804021275145
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.01564285294523715,
+      "pearson_p": 0.6751882668833569
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.07832848634747085,
+      "pearson_p": 0.03561013929402581
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.11527730639652237,
+      "pearson_p": 0.0019471677780355677
+    }
+  },
+  "L7_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2876822157028891,
+      "pearson_p": 3.4640133417719877e-15
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05266411884356798,
+      "pearson_p": 0.15805274683063714
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.06511122879672103,
+      "pearson_p": 0.08082225465509123
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.013410224042563028,
+      "pearson_p": 0.7194267667974592
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.17373341792808245,
+      "pearson_p": 2.740569888485526e-06
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.10125038253599629,
+      "pearson_p": 0.0065459232640173734
+    }
+  },
+  "L7_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.07341138966836956,
+      "pearson_p": 0.04894515220002335
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03695651133603702,
+      "pearson_p": 0.32204579791770793
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.0983636457033315,
+      "pearson_p": 0.008261410682810917
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.10362927519914632,
+      "pearson_p": 0.005380391462867104
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.05034283658170646,
+      "pearson_p": 0.17722500508026198
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.23536592433465564,
+      "pearson_p": 1.6096468098541736e-10
+    }
+  },
+  "L7_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.13061912703919915,
+      "pearson_p": 0.0004416554225414717
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03846676223161773,
+      "pearson_p": 0.30265354178215265
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08822455605078364,
+      "pearson_p": 0.017893306040146644
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.020547470833206873,
+      "pearson_p": 0.5820130610955659
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.07022359719306533,
+      "pearson_p": 0.05965317355009379
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.11087189207781459,
+      "pearson_p": 0.0028916712642326594
+    }
+  },
+  "L7_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.0692979038950517,
+      "pearson_p": 0.06310348496429767
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0794451347180236,
+      "pearson_p": 0.03305599919121351
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.21230848906244704,
+      "pearson_p": 8.785924696705898e-09
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.04362860258253002,
+      "pearson_p": 0.24232267656489156
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.08486135822655758,
+      "pearson_p": 0.022772988285186056
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.1601617181564604,
+      "pearson_p": 1.5742989743058912e-05
+    }
+  },
+  "L7_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.12198472122646539,
+      "pearson_p": 0.0010389464978390979
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.041997601209605814,
+      "pearson_p": 0.26039735038834233
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09066003881059875,
+      "pearson_p": 0.014955689925492071
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.010956288842452049,
+      "pearson_p": 0.769150634568006
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.02340642019418608,
+      "pearson_p": 0.530623305124683
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1135321659431144,
+      "pearson_p": 0.0022810766017190387
+    }
+  },
+  "L7_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.11695232925959664,
+      "pearson_p": 0.001669396841649928
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06233330480573673,
+      "pearson_p": 0.09466294142237829
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.13480379392433867,
+      "pearson_p": 0.0002862339265693063
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.1157106113436209,
+      "pearson_p": 0.0018715159560977412
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.16723807437393884,
+      "pearson_p": 6.437645123717221e-06
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.024525777847687585,
+      "pearson_p": 0.5111480780239666
+    }
+  },
+  "L7_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.02442901086751558,
+      "pearson_p": 0.5128168503290677
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.04739426178461696,
+      "pearson_p": 0.20400423538141155
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.17359617350083403,
+      "pearson_p": 2.791394079887248e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.04294351013927046,
+      "pearson_p": 0.2498046076392591
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.046080059368173706,
+      "pearson_p": 0.21684336199451493
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.03441870664191532,
+      "pearson_p": 0.35641414778969
+    }
+  },
+  "L7_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.033214231437927774,
+      "pearson_p": 0.37350434176350966
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.036569555049968144,
+      "pearson_p": 0.3271419201688869
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.16403847469167704,
+      "pearson_p": 9.690457830455978e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.0044049053782607185,
+      "pearson_p": 0.906074613745137
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.015474919901103345,
+      "pearson_p": 0.6784793932480031
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.07644980418788697,
+      "pearson_p": 0.04028630559878119
+    }
+  },
+  "L7_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.10464360878034792,
+      "pearson_p": 0.004943014467457313
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.04720560786499487,
+      "pearson_p": 0.20581257647413542
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.22062381904830297,
+      "pearson_p": 2.1831973289062753e-09
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.028573436184807302,
+      "pearson_p": 0.44395606596771225
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.14248836450300828,
+      "pearson_p": 0.00012489578135465372
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.29475230059739227,
+      "pearson_p": 6.727132852838876e-16
+    }
+  },
+  "L8_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.24369169146253383,
+      "pearson_p": 3.4085726014334513e-11
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06299364998009724,
+      "pearson_p": 0.09121217480583255
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.09464303209053132,
+      "pearson_p": 0.01105890620505363
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.054234813650019476,
+      "pearson_p": 0.14599778786097964
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.04375336079563208,
+      "pearson_p": 0.24097729489970465
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.18364438663292448,
+      "pearson_p": 6.999081724861984e-07
+    }
+  },
+  "L8_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.11072583541683989,
+      "pearson_p": 0.002929156535718147
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0033915597856213446,
+      "pearson_p": 0.9276139741410595
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.07502618072701825,
+      "pearson_p": 0.04416695521739212
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.013646221844835996,
+      "pearson_p": 0.7147028587778863
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.0009839412077476632,
+      "pearson_p": 0.9789733520237696
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1669758802418192,
+      "pearson_p": 6.658981245070486e-06
+    }
+  },
+  "L8_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.08165990691187595,
+      "pearson_p": 0.028450471495640294
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03633975240066649,
+      "pearson_p": 0.33019296229388373
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.0942751198584614,
+      "pearson_p": 0.011376687981226291
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.02878529721693797,
+      "pearson_p": 0.4405834401189953
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.006293624887857355,
+      "pearson_p": 0.8661239255080833
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12569725543044924,
+      "pearson_p": 0.0007238911878090768
+    }
+  },
+  "L8_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1482912090971197,
+      "pearson_p": 6.489638014471205e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.04105707366817461,
+      "pearson_p": 0.2712333733235268
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.07226197846914031,
+      "pearson_p": 0.05260398842236581
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.014095751281693492,
+      "pearson_p": 0.7057349837821295
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.018849231958866335,
+      "pearson_p": 0.6135981411628206
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.15801822644312274,
+      "pearson_p": 2.048884915583007e-05
+    }
+  },
+  "L8_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.012924616815603675,
+      "pearson_p": 0.729180578526279
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.01767914611086668,
+      "pearson_p": 0.6357894221111371
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.09839602435272349,
+      "pearson_p": 0.008240130379486954
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.005633468198619857,
+      "pearson_p": 0.8800543102697121
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.0032997703334651848,
+      "pearson_p": 0.9295678789152358
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.10944079426717375,
+      "pearson_p": 0.003278537377389582
+    }
+  },
+  "L8_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.030081896700695998,
+      "pearson_p": 0.42026480929860466
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05126029281673753,
+      "pearson_p": 0.1694505306783712
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.006775977514652436,
+      "pearson_p": 0.8559714207783041
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.01050608129905721,
+      "pearson_p": 0.7783839117226513
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.03044307905936275,
+      "pearson_p": 0.4147041956634791
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.19433751499008162,
+      "pearson_p": 1.474227011832439e-07
+    }
+  },
+  "L8_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1375752221350245,
+      "pearson_p": 0.00021328622722231773
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.038509919696387514,
+      "pearson_p": 0.3021110172517276
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.15018424495053395,
+      "pearson_p": 5.213747792256253e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.03679798447836512,
+      "pearson_p": 0.32412727375533423
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0055157350652309586,
+      "pearson_p": 0.8825426969837914
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12940526745976774,
+      "pearson_p": 0.0004996933772219563
+    }
+  },
+  "L8_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.25692632797542625,
+      "pearson_p": 2.5611513947615757e-12
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.11541651988057514,
+      "pearson_p": 0.0019225620218075255
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.00460457932545695,
+      "pearson_p": 0.9018380195019352
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.09041295442683067,
+      "pearson_p": 0.015233036087224039
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.12674804561539732,
+      "pearson_p": 0.0006523617309453478
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.335428174952798,
+      "pearson_p": 2.1568288638966265e-20
+    }
+  },
+  "L8_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.25308287849419653,
+      "pearson_p": 5.51569490045228e-12
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.04266825178394469,
+      "pearson_p": 0.25285560981824273
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.12793784865962193,
+      "pearson_p": 0.0005793145519925959
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.03536414147575247,
+      "pearson_p": 0.3433498565796234
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0344725181377161,
+      "pearson_p": 0.3556622780566949
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.21872802907992395,
+      "pearson_p": 3.013674960058752e-09
+    }
+  },
+  "L8_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.20523258389430987,
+      "pearson_p": 2.7499467178951827e-08
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.007022371428490062,
+      "pearson_p": 0.8507944036961167
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.2075454468632515,
+      "pearson_p": 1.902228671831545e-08
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.02669895204090404,
+      "pearson_p": 0.47442936364621724
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0026644131153301352,
+      "pearson_p": 0.9431035935934236
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.19502428675300668,
+      "pearson_p": 1.329827051016822e-07
+    }
+  },
+  "L8_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.12830510591231611,
+      "pearson_p": 0.000558350167870219
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.07015642430341734,
+      "pearson_p": 0.05989817646119649
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.2510196192403102,
+      "pearson_p": 8.282813681624519e-12
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.04106401404033498,
+      "pearson_p": 0.2711522991364316
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.06796961413704528,
+      "pearson_p": 0.06834042076758914
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.03268716478513313,
+      "pearson_p": 0.3811394414107771
+    }
+  },
+  "L8_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.04696184172577169,
+      "pearson_p": 0.20816636767035712
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.038122834177122915,
+      "pearson_p": 0.30700009562616803
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.16039191199801914,
+      "pearson_p": 1.5300651123368377e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.08054921291421498,
+      "pearson_p": 0.030686123807234164
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.09141819434455259,
+      "pearson_p": 0.014132194451960078
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.08657136121884396,
+      "pearson_p": 0.020164097943738697
+    }
+  },
+  "L9_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.04945108030286667,
+      "pearson_p": 0.18503281975915198
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.014737081904819399,
+      "pearson_p": 0.693011331348052
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.04892561318342765,
+      "pearson_p": 0.18975091617613546
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0032055826159652365,
+      "pearson_p": 0.9315732755435051
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.004229473913667585,
+      "pearson_p": 0.9097990481314012
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.16476649031859186,
+      "pearson_p": 8.835353508675774e-06
+    }
+  },
+  "L9_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.07193777913882402,
+      "pearson_p": 0.053676312785903055
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.004710240465100641,
+      "pearson_p": 0.8995972682635451
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.07133301566641503,
+      "pearson_p": 0.055725315735741625
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.02095831220007787,
+      "pearson_p": 0.5744873440245633
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.007663689825862959,
+      "pearson_p": 0.8373501698626827
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.23866850111158266,
+      "pearson_p": 8.756573717792893e-11
+    }
+  },
+  "L9_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.0978401728910342,
+      "pearson_p": 0.008612330075008539
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.020170745896189092,
+      "pearson_p": 0.5889539713914413
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.06081922043832831,
+      "pearson_p": 0.10296944165616487
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.006948109582540424,
+      "pearson_p": 0.8523540648390224
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.010225727859924726,
+      "pearson_p": 0.7841495681605617
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1403854119591837,
+      "pearson_p": 0.00015738295212173035
+    }
+  },
+  "L9_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.09642343601990178,
+      "pearson_p": 0.009629664398572553
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.003908359962669486,
+      "pearson_p": 0.9166214107974318
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.10936985454145293,
+      "pearson_p": 0.003298885431650942
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0013446512181019936,
+      "pearson_p": 0.9712679231745305
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.010233571446687689,
+      "pearson_p": 0.7839880970356572
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.19398078170110988,
+      "pearson_p": 1.5550908475121278e-07
+    }
+  },
+  "L9_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.15213344957543132,
+      "pearson_p": 4.150141253614563e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.11979428602554495,
+      "pearson_p": 0.0012799536997592782
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.17865051490930742,
+      "pearson_p": 1.4054592507577484e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.01034056609931443,
+      "pearson_p": 0.7817863930791741
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.14085234916496137,
+      "pearson_p": 0.00014954889840101227
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.01173388956450357,
+      "pearson_p": 0.7532802424720089
+    }
+  },
+  "L9_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.05164264851398885,
+      "pearson_p": 0.16628689567537186
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.016867457017892044,
+      "pearson_p": 0.6513791240377329
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.06658364295562057,
+      "pearson_p": 0.07417958537752331
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.014452540734345393,
+      "pearson_p": 0.6986460696104304
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.018646763023745468,
+      "pearson_p": 0.6174136380544711
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.17057695857373995,
+      "pearson_p": 4.166843937490152e-06
+    }
+  },
+  "L9_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.033116887866804876,
+      "pearson_p": 0.3749073044520676
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06668553645384659,
+      "pearson_p": 0.07373688011264136
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.04874898501438693,
+      "pearson_p": 0.19135653339666972
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.048324426054440144,
+      "pearson_p": 0.1952566987300965
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.05146899908895398,
+      "pearson_p": 0.1677181444137403
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.21399485155868858,
+      "pearson_p": 6.654509824942099e-09
+    }
+  },
+  "L9_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.026421324583341753,
+      "pearson_p": 0.4790382302778781
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.026601227845328534,
+      "pearson_p": 0.47604889577412857
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.10254158980847777,
+      "pearson_p": 0.0058878714992508345
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.010300786360594096,
+      "pearson_p": 0.7826047659107594
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.005942947329993762,
+      "pearson_p": 0.8735189110313529
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12408021870356784,
+      "pearson_p": 0.0008482862504904525
+    }
+  },
+  "L9_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.01845158475943679,
+      "pearson_p": 0.6211015244599919
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0007683189820087838,
+      "pearson_p": 0.9835804202567514
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.018092065861861933,
+      "pearson_p": 0.6279194965153487
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.005139586889890049,
+      "pearson_p": 0.8905005351124685
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.00022013486179217438,
+      "pearson_p": 0.9952952410100894
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12131087163890551,
+      "pearson_p": 0.0011082084374122135
+    }
+  },
+  "L9_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.08375158436990882,
+      "pearson_p": 0.024618587210625317
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": -0.003131827424214941,
+      "pearson_p": 0.9331439366320189
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.1277124188389268,
+      "pearson_p": 0.0005925427286295035
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.005840107855870374,
+      "pearson_p": 0.875689682227198
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.02155662772160136,
+      "pearson_p": 0.5636104431127915
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.25044774388040353,
+      "pearson_p": 9.26488357572032e-12
+    }
+  },
+  "L9_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.033304400793505884,
+      "pearson_p": 0.3722076747250943
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.01177574285396467,
+      "pearson_p": 0.7524289163556866
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.05477150548694316,
+      "pearson_p": 0.1420438253466425
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0014861641185562584,
+      "pearson_p": 0.9682456385642151
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0005045980284347374,
+      "pearson_p": 0.989215912064182
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1334137793607732,
+      "pearson_p": 0.00033105057166607813
+    }
+  },
+  "L9_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.05618360278080676,
+      "pearson_p": 0.13203260668936637
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.006009628946199568,
+      "pearson_p": 0.8721118789675038
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.083254199046539,
+      "pearson_p": 0.025486861998056113
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.01517231383469941,
+      "pearson_p": 0.6844252612759464
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.009670087205314672,
+      "pearson_p": 0.795611410272664
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12306869792732207,
+      "pearson_p": 0.0009358664321500619
+    }
+  },
+  "L10_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.1227774649244791,
+      "pearson_p": 0.0009625901019491613
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.020366163862274054,
+      "pearson_p": 0.5853487631005816
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.1687879730042742,
+      "pearson_p": 5.266057597655396e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.07232011003435516,
+      "pearson_p": 0.052413614087386956
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.009071288001340074,
+      "pearson_p": 0.8080129294062937
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.15052967820964552,
+      "pearson_p": 5.0081645443201805e-05
+    }
+  },
+  "L10_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.003272086718535839,
+      "pearson_p": 0.9301572585254665
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.11448020600528167,
+      "pearson_p": 0.002093695641921736
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.11515298292515258,
+      "pearson_p": 0.00196938528083744
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.30478560694918233,
+      "pearson_p": 6.070430458772967e-17
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.09546946718059321,
+      "pearson_p": 0.010373610914109575
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.10879055633983722,
+      "pearson_p": 0.003469393931422967
+    }
+  },
+  "L10_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.22840015324359716,
+      "pearson_p": 5.642520531676697e-10
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": -0.009499474904654533,
+      "pearson_p": 0.7991398036099907
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.4484461959478555,
+      "pearson_p": 6.511072880979349e-37
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.07039504497083197,
+      "pearson_p": 0.059031602609365956
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.006771381921284991,
+      "pearson_p": 0.8560680389393505
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.39438526642593363,
+      "pearson_p": 3.2849559359267617e-28
+    }
+  },
+  "L10_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.00904664817465986,
+      "pearson_p": 0.8085242919867107
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.08025785698490791,
+      "pearson_p": 0.031296920468560224
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.04233714315144826,
+      "pearson_p": 0.25655986794686014
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.047664312190050684,
+      "pearson_p": 0.20143578892961395
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.027713836548509896,
+      "pearson_p": 0.45779001663755675
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.1815373000334768,
+      "pearson_p": 9.414731166949405e-07
+    }
+  },
+  "L10_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.34673833842645735,
+      "pearson_p": 9.08634478415178e-22
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.03230789193613903,
+      "pearson_p": 0.3866923119244614
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.047081037558375075,
+      "pearson_p": 0.20701299777347068
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.052791151121282166,
+      "pearson_p": 0.15705066201484616
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.05404335920117719,
+      "pearson_p": 0.14742845049962805
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.3240106312926671,
+      "pearson_p": 4.630404810716838e-19
+    }
+  },
+  "L10_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.0025997281971447284,
+      "pearson_p": 0.9444826337940502
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.012803352775649153,
+      "pearson_p": 0.7316231769425244
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.010023409020192517,
+      "pearson_p": 0.788317768431756
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.013737758895967378,
+      "pearson_p": 0.712873504957158
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.0030646332039559847,
+      "pearson_p": 0.9345751042053518
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.15158620121951794,
+      "pearson_p": 4.425932140656338e-05
+    }
+  },
+  "L10_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.02944793494665251,
+      "pearson_p": 0.43013000947086827
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.0863857195667269,
+      "pearson_p": 0.02043412981851069
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.08198496575567604,
+      "pearson_p": 0.027823264704191712
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.076334939775134,
+      "pearson_p": 0.040588332036284654
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.09678485439361073,
+      "pearson_p": 0.009360457162797932
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.2717457572472217,
+      "pearson_p": 1.179272966319193e-13
+    }
+  },
+  "L10_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.02754482957507893,
+      "pearson_p": 0.4605380489463136
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.05806881489214592,
+      "pearson_p": 0.11952835348726783
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.0870222702816184,
+      "pearson_p": 0.01952111564481556
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.035163839482963574,
+      "pearson_p": 0.34609188633721444
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.025467282153981027,
+      "pearson_p": 0.49506051592531725
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.15671754371741364,
+      "pearson_p": 2.4001095191289973e-05
+    }
+  },
+  "L10_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.2977213033733029,
+      "pearson_p": 3.333993785505051e-16
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.01323635795251285,
+      "pearson_p": 0.7229138663984359
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.3166914213179167,
+      "pearson_p": 3.090675780491932e-18
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.1610180842797712,
+      "pearson_p": 1.4156450144261357e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.013527898536542658,
+      "pearson_p": 0.7170699563253708
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.534188731498032,
+      "pearson_p": 2.303593349027794e-54
+    }
+  },
+  "L10_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.05762794600408529,
+      "pearson_p": 0.12236624913350169
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.021619890127478537,
+      "pearson_p": 0.5624661978114488
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.09584805186002676,
+      "pearson_p": 0.010072474122734279
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.025110217830672493,
+      "pearson_p": 0.5011297482452888
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.022757711236993265,
+      "pearson_p": 0.5420794889203613
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.3304118577913462,
+      "pearson_p": 8.430960523742297e-20
+    }
+  },
+  "L10_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.049004299422809025,
+      "pearson_p": 0.18903882632314337
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.09298344684247081,
+      "pearson_p": 0.012557351652723788
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.15076160597519336,
+      "pearson_p": 4.874461962662199e-05
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.10447805003702765,
+      "pearson_p": 0.005012136376922983
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.049400086551490224,
+      "pearson_p": 0.1854868548246502
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.42054781189302154,
+      "pearson_p": 3.177758265187223e-32
+    }
+  },
+  "L10_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.21728667681389985,
+      "pearson_p": 3.843187093790637e-09
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": -0.03780735550511013,
+      "pearson_p": 0.31102320938430517
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.06114867248016603,
+      "pearson_p": 0.10111445541258238
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.09173010492098344,
+      "pearson_p": 0.013805167448052803
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.09528231386726752,
+      "pearson_p": 0.010525410077461021
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.05206353153471005,
+      "pearson_p": 0.16285595851272017
+    }
+  },
+  "L11_H0": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.02127640186181568,
+      "pearson_p": 0.5686923868569247
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.15912815232315358,
+      "pearson_p": 1.788338085692592e-05
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.1000195077835846,
+      "pearson_p": 0.007233912508356648
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.011015953628693653,
+      "pearson_p": 0.7679293899710843
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.024251422593759266,
+      "pearson_p": 0.5158867615671784
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.2341446538173002,
+      "pearson_p": 2.0114142715217003e-10
+    }
+  },
+  "L11_H1": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.13570905606120476,
+      "pearson_p": 0.0002601682898092601
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06244553122612295,
+      "pearson_p": 0.09406922492841913
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.41649898779579536,
+      "pearson_p": 1.402375644547208e-31
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.23155744937592457,
+      "pearson_p": 3.211646079135285e-10
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.16314901398333703,
+      "pearson_p": 1.084245338080249e-05
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.1441730779112126,
+      "pearson_p": 0.00010353804350940087
+    }
+  },
+  "L11_H2": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.036543438568418955,
+      "pearson_p": 0.3274877402839963
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.16589144206911596,
+      "pearson_p": 7.654008665070612e-06
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.01765637159896425,
+      "pearson_p": 0.636224693710931
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.041392266478667034,
+      "pearson_p": 0.2673367220140225
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.03607814375643691,
+      "pearson_p": 0.33368858685483854
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.2666372907320557,
+      "pearson_p": 3.482371761563196e-13
+    }
+  },
+  "L11_H3": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.15274382008311932,
+      "pearson_p": 3.861756900745366e-05
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.09590055333135042,
+      "pearson_p": 0.010031332265441732
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.2598406009436016,
+      "pearson_p": 1.4194572934811846e-12
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.14486957960565186,
+      "pearson_p": 9.575577852899899e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.0839509573676846,
+      "pearson_p": 0.02427779391678567
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.20849341927366524,
+      "pearson_p": 1.63351411025071e-08
+    }
+  },
+  "L11_H4": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.01587869826271396,
+      "pearson_p": 0.6705766627064663
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.1683932889643349,
+      "pearson_p": 5.543402672011983e-06
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.11058895894515675,
+      "pearson_p": 0.002964686860817691
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.01823562756693198,
+      "pearson_p": 0.6251931248062963
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.04384249133938288,
+      "pearson_p": 0.2400193393135804
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.26557762828596565,
+      "pearson_p": 4.3468284181434117e-13
+    }
+  },
+  "L11_H5": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.14038105599614084,
+      "pearson_p": 0.00015745781667454215
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.08525079173018366,
+      "pearson_p": 0.022154406352836137
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.16727789529047268,
+      "pearson_p": 6.4046502035648166e-06
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.17561150797781372,
+      "pearson_p": 2.128195280378497e-06
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.08930558060109367,
+      "pearson_p": 0.016532291834728426
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.09190831928475228,
+      "pearson_p": 0.013621325306094634
+    }
+  },
+  "L11_H6": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.017665744231404816,
+      "pearson_p": 0.6360455466603371
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.184366298134798,
+      "pearson_p": 6.318041438427605e-07
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.021909317106514635,
+      "pearson_p": 0.557245571951088
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.0237869108147698,
+      "pearson_p": 0.5239613831145143
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.06147234413078919,
+      "pearson_p": 0.0993179830077379
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.22228084093364883,
+      "pearson_p": 1.6431668248992505e-09
+    }
+  },
+  "L11_H7": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.05618188909946158,
+      "pearson_p": 0.13204441642880788
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.18018264531793846,
+      "pearson_p": 1.1371291670794613e-06
+    },
+    "entropy_vs_label": {
+      "pearson_r": -0.0001825420578695433,
+      "pearson_p": 0.996098673639414
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.06285696947567498,
+      "pearson_p": 0.09191801838850808
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.05764726364188104,
+      "pearson_p": 0.12224080952219962
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.22250703801925623,
+      "pearson_p": 1.5803727657151903e-09
+    }
+  },
+  "L11_H8": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.07078907809798271,
+      "pearson_p": 0.057623381262250355
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.10595795298908058,
+      "pearson_p": 0.004424075473784731
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.32787316732919203,
+      "pearson_p": 1.664791348109093e-19
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.0771143172405526,
+      "pearson_p": 0.038576109996759485
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.014509954826948423,
+      "pearson_p": 0.6975077571639203
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.3424157362440309,
+      "pearson_p": 3.0956115916949837e-21
+    }
+  },
+  "L11_H9": {
+    "entropy_vs_n_agents": {
+      "pearson_r": -0.00391093696856995,
+      "pearson_p": 0.9165666348453956
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.1803084859995766,
+      "pearson_p": 1.1174240318956735e-06
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.05124717849467994,
+      "pearson_p": 0.16955983285275977
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": 0.009756725446036722,
+      "pearson_p": 0.7938212555307799
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": -0.03917769073544592,
+      "pearson_p": 0.29379890880182785
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.262579986279154,
+      "pearson_p": 8.096013025185205e-13
+    }
+  },
+  "L11_H10": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.18782555262029893,
+      "pearson_p": 3.846973020271718e-07
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.06670432524403716,
+      "pearson_p": 0.07365548275510565
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.22483845637606695,
+      "pearson_p": 1.0550771986217765e-09
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.10860679341969515,
+      "pearson_p": 0.0035251311334359554
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.06039772138089876,
+      "pearson_p": 0.10538196303940221
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": -0.12026332973753448,
+      "pearson_p": 0.0012243825185090243
+    }
+  },
+  "L11_H11": {
+    "entropy_vs_n_agents": {
+      "pearson_r": 0.07587613950704847,
+      "pearson_p": 0.04181388421211265
+    },
+    "entropy_vs_hypothesis_depth": {
+      "pearson_r": 0.09023378153311573,
+      "pearson_p": 0.015436970170661608
+    },
+    "entropy_vs_label": {
+      "pearson_r": 0.2259756776498747,
+      "pearson_p": 8.649461806762034e-10
+    },
+    "hyp_mass_vs_n_agents": {
+      "pearson_r": -0.15367949554521076,
+      "pearson_p": 3.456250006209716e-05
+    },
+    "hyp_mass_vs_hypothesis_depth": {
+      "pearson_r": 0.07542315380558935,
+      "pearson_p": 0.043054425268995986
+    },
+    "hyp_mass_vs_label": {
+      "pearson_r": 0.07237017243144585,
+      "pearson_p": 0.052250126388215586
+    }
+  }
+}

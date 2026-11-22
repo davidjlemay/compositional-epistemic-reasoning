@@ -1,0 +1,179 @@
+{
+  "compositional": {
+    "GNN": {
+      "n_seeds": 5,
+      "encoder_beta1_init": [
+        1.0,
+        0.4472135954999579
+      ],
+      "encoder_beta1_final": [
+        1.6,
+        0.9273618495495702
+      ],
+      "decoder_beta1_init": [
+        0.0,
+        0.0
+      ],
+      "decoder_beta1_final": [
+        3.0,
+        1.2649110640673518
+      ]
+    },
+    "Transformer": {
+      "n_seeds": 5,
+      "encoder_beta1_init": [
+        0.6,
+        0.39999999999999997
+      ],
+      "encoder_beta1_final": [
+        13.6,
+        2.2271057451320084
+      ],
+      "decoder_beta1_init": [
+        1.2,
+        0.9695359714832658
+      ],
+      "decoder_beta1_final": [
+        10.4,
+        3.059411708155671
+      ]
+    },
+    "Mamba": {
+      "n_seeds": 5,
+      "encoder_beta1_init": [
+        17.4,
+        1.8055470085267786
+      ],
+      "encoder_beta1_final": [
+        14.0,
+        2.1447610589527213
+      ],
+      "decoder_beta1_init": [
+        0.6,
+        0.39999999999999997
+      ],
+      "decoder_beta1_final": [
+        0.4,
+        0.24494897427831783
+      ]
+    }
+  },
+  "scrambled_30pct": {
+    "GNN": {
+      "n_seeds": 3,
+      "encoder_beta1_init": [
+        0.0,
+        0.0
+      ],
+      "encoder_beta1_final": [
+        0.6666666666666666,
+        0.33333333333333337
+      ],
+      "decoder_beta1_init": [
+        0.0,
+        0.0
+      ],
+      "decoder_beta1_final": [
+        4.0,
+        2.0816659994661326
+      ]
+    },
+    "Transformer": {
+      "n_seeds": 3,
+      "encoder_beta1_init": [
+        0.3333333333333333,
+        0.33333333333333337
+      ],
+      "encoder_beta1_final": [
+        16.0,
+        5.033222956847167
+      ],
+      "decoder_beta1_init": [
+        0.6666666666666666,
+        0.6666666666666667
+      ],
+      "decoder_beta1_final": [
+        5.0,
+        2.886751345948129
+      ]
+    },
+    "Mamba": {
+      "n_seeds": 3,
+      "encoder_beta1_init": [
+        18.666666666666668,
+        1.452966314513558
+      ],
+      "encoder_beta1_final": [
+        12.666666666666666,
+        3.711842908553348
+      ],
+      "decoder_beta1_init": [
+        0.6666666666666666,
+        0.33333333333333337
+      ],
+      "decoder_beta1_final": [
+        0.3333333333333333,
+        0.33333333333333337
+      ]
+    }
+  },
+  "full_scramble": {
+    "GNN": {
+      "n_seeds": 3,
+      "encoder_beta1_init": [
+        3.0,
+        1.1547005383792517
+      ],
+      "encoder_beta1_final": [
+        1.0,
+        0.0
+      ],
+      "decoder_beta1_init": [
+        0.0,
+        0.0
+      ],
+      "decoder_beta1_final": [
+        1.0,
+        1.0
+      ]
+    },
+    "Transformer": {
+      "n_seeds": 3,
+      "encoder_beta1_init": [
+        0.6666666666666666,
+        0.6666666666666667
+      ],
+      "encoder_beta1_final": [
+        12.0,
+        9.018499505645789
+      ],
+      "decoder_beta1_init": [
+        1.0,
+        0.0
+      ],
+      "decoder_beta1_final": [
+        6.666666666666667,
+        3.1797973380564857
+      ]
+    },
+    "Mamba": {
+      "n_seeds": 3,
+      "encoder_beta1_init": [
+        13.0,
+        3.511884584284246
+      ],
+      "encoder_beta1_final": [
+        14.0,
+        5.567764362830022
+      ],
+      "decoder_beta1_init": [
+        1.0,
+        1.0
+      ],
+      "decoder_beta1_final": [
+        0.0,
+        0.0
+      ]
+    }
+  }
+}

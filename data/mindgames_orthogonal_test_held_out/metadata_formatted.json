@@ -1,0 +1,45 @@
+{
+  "version": "test_generation_formatted",
+  "description": "Formatted test set matching v4_agent_aware_generation structure",
+  "source": "Transformed from mindgames_orthogonal_test_held_out/test_generation.json",
+  "test_samples": 1069,
+  "n_agents_range": [2, 3, 4],
+  "hypothesis_depth_range": [0, 1, 2],
+  "format": {
+    "premise": "SMCDEL symbolic format with agent name substitutions (from pool)",
+    "hypothesis": "SMCDEL hypothesis with agent name substitutions",
+    "premise_natural": "Natural language premise (preserved from original)",
+    "hypothesis_natural": "Natural language hypothesis (preserved from original)",
+    "label": "entailment or non_entailment",
+    "agent_names": "List of agent names randomly assigned from pool",
+    "agent_observations": "Per-agent observation indicators",
+    "metadata": ["n_agents", "hypothesis_depth", "interaction_score", "setup", "n_announcements"]
+  },
+  "agent_name_pool": [
+    "Alice", "Bob", "Carol", "David", "Emma", "Frank",
+    "Quinn", "Riley", "Sofia", "Xavier", "Yara", "Zeke"
+  ],
+  "transformation_seed": 42,
+  "transformations_applied": [
+    "Split smcdel_problem into premise and hypothesis (on 'VALID?')",
+    "Moved original premise → premise_natural",
+    "Moved original hypothesis → hypothesis_natural",
+    "Replaced generic agent names (Agenta, Agentb, etc.) with random real names",
+    "Renamed constraint → label",
+    "Added agent_names list",
+    "Added agent_observations (simplified indicators)",
+    "Preserved smcdel_problem_original for reference"
+  ],
+  "purpose": "Generalization test set for topology-generalization analysis with format matching v4_agent_aware_generation",
+  "distribution": {
+    "(2,0)": 113,
+    "(2,1)": 120,
+    "(2,2)": 120,
+    "(3,0)": 118,
+    "(3,1)": 118,
+    "(3,2)": 120,
+    "(4,0)": 120,
+    "(4,1)": 120,
+    "(4,2)": 120
+  }
+}

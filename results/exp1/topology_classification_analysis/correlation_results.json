@@ -1,0 +1,323 @@
+{
+  "GNN": {
+    "total_simplices_vs_train_acc": {
+      "pearson_r": -0.6310795718198793,
+      "p_value": 0.0,
+      "spearman_rho": -0.2618222990956177
+    },
+    "total_simplices_vs_val_acc": {
+      "pearson_r": -0.2877256681655025,
+      "p_value": 1.9682907016307617e-57,
+      "spearman_rho": -0.09491750167450173
+    },
+    "total_simplices_vs_generalization_gap": {
+      "pearson_r": -0.5205051847048288,
+      "p_value": 6.800573160839598e-205,
+      "spearman_rho": -0.05067844313087512
+    },
+    "encoder_simplices_vs_train_acc": {
+      "pearson_r": -0.7277789426929935,
+      "p_value": 0.0,
+      "spearman_rho": -0.2866961984146835
+    },
+    "encoder_simplices_vs_val_acc": {
+      "pearson_r": -0.6262997387349768,
+      "p_value": 1.097e-321,
+      "spearman_rho": -0.24814520660552067
+    },
+    "encoder_simplices_vs_generalization_gap": {
+      "pearson_r": -0.17947589404096187,
+      "p_value": 8.189129983285082e-23,
+      "spearman_rho": 0.0751807142020026
+    },
+    "decoder_simplices_vs_train_acc": {
+      "pearson_r": -0.627987707097282,
+      "p_value": 1e-323,
+      "spearman_rho": -0.2618217859327283
+    },
+    "decoder_simplices_vs_val_acc": {
+      "pearson_r": -0.2838216923379761,
+      "p_value": 7.211315362125687e-56,
+      "spearman_rho": -0.09513138380042131
+    },
+    "decoder_simplices_vs_generalization_gap": {
+      "pearson_r": -0.5215191346396548,
+      "p_value": 7.975572747019823e-206,
+      "spearman_rho": -0.050586211104070224
+    },
+    "avg_h0_vs_train_acc": {
+      "pearson_r": -0.03057508688271659,
+      "p_value": 0.09656405522240645,
+      "spearman_rho": -0.05785561448245031
+    },
+    "avg_h0_vs_val_acc": {
+      "pearson_r": -0.0005603166294813244,
+      "p_value": 0.9757114564716517,
+      "spearman_rho": 0.008269011718632598
+    },
+    "avg_h0_vs_generalization_gap": {
+      "pearson_r": -0.04433581548251915,
+      "p_value": 0.01594130984250081,
+      "spearman_rho": -0.020704106031813253
+    },
+    "avg_h1_vs_train_acc": {
+      "pearson_r": -0.5975021980975198,
+      "p_value": 1.6025694193901936e-285,
+      "spearman_rho": -0.06347195057547332
+    },
+    "avg_h1_vs_val_acc": {
+      "pearson_r": -0.5212230318116892,
+      "p_value": 1.492464970365345e-205,
+      "spearman_rho": -0.3620507085672151
+    },
+    "avg_h1_vs_generalization_gap": {
+      "pearson_r": -0.13729696379300563,
+      "p_value": 6.588757913523914e-14,
+      "spearman_rho": 0.20858941953155508
+    },
+    "encoder_h1_vs_train_acc": {
+      "pearson_r": -0.7109319222531132,
+      "p_value": 0.0,
+      "spearman_rho": -0.22345645070275724
+    },
+    "encoder_h1_vs_val_acc": {
+      "pearson_r": -0.46801494131150645,
+      "p_value": 9.20560975742577e-161,
+      "spearman_rho": -0.32097668540014984
+    },
+    "encoder_h1_vs_generalization_gap": {
+      "pearson_r": -0.3807754411642839,
+      "p_value": 1.382789189870783e-102,
+      "spearman_rho": 0.11927231932913661
+    },
+    "decoder_h1_vs_train_acc": {
+      "pearson_r": -0.30001332703326117,
+      "p_value": 1.6111600072201861e-62,
+      "spearman_rho": 0.04884239011616342
+    },
+    "decoder_h1_vs_val_acc": {
+      "pearson_r": -0.3853722156319704,
+      "p_value": 3.0821032479206537e-105,
+      "spearman_rho": -0.4210405240326916
+    },
+    "decoder_h1_vs_generalization_gap": {
+      "pearson_r": 0.1077561943147342,
+      "p_value": 4.2993610025168974e-09,
+      "spearman_rho": 0.29562831171100773
+    }
+  },
+  "TRANSFORMER": {
+    "total_simplices_vs_train_acc": {
+      "pearson_r": -0.2989456192437426,
+      "p_value": 8.392655597309581e-60,
+      "spearman_rho": -0.8860572764804366
+    },
+    "total_simplices_vs_val_acc": {
+      "pearson_r": -0.13192050528975932,
+      "p_value": 1.6293915416328125e-12,
+      "spearman_rho": 0.10566688634386401
+    },
+    "total_simplices_vs_generalization_gap": {
+      "pearson_r": -0.47967122984865795,
+      "p_value": 1.3465985905027222e-163,
+      "spearman_rho": -0.5134076209004009
+    },
+    "encoder_simplices_vs_train_acc": {
+      "pearson_r": -0.6527047225407308,
+      "p_value": 0.0,
+      "spearman_rho": -0.7803486632537779
+    },
+    "encoder_simplices_vs_val_acc": {
+      "pearson_r": -0.4967598589900093,
+      "p_value": 3.911270959987868e-177,
+      "spearman_rho": 0.2847411630599101
+    },
+    "encoder_simplices_vs_generalization_gap": {
+      "pearson_r": -0.5863741099374717,
+      "p_value": 2.4130338423685472e-262,
+      "spearman_rho": -0.6471274641972152
+    },
+    "decoder_simplices_vs_train_acc": {
+      "pearson_r": -0.26148714430959247,
+      "p_value": 1.1140022618228388e-45,
+      "spearman_rho": -0.8753844070931418
+    },
+    "decoder_simplices_vs_val_acc": {
+      "pearson_r": -0.09753447335156609,
+      "p_value": 1.8724422824798974e-07,
+      "spearman_rho": 0.09082870081141992
+    },
+    "decoder_simplices_vs_generalization_gap": {
+      "pearson_r": -0.4589974296135606,
+      "p_value": 3.2391993850095675e-148,
+      "spearman_rho": -0.48823024270411314
+    },
+    "avg_h0_vs_train_acc": {
+      "pearson_r": NaN,
+      "p_value": NaN,
+      "spearman_rho": NaN
+    },
+    "avg_h0_vs_val_acc": {
+      "pearson_r": NaN,
+      "p_value": NaN,
+      "spearman_rho": NaN
+    },
+    "avg_h0_vs_generalization_gap": {
+      "pearson_r": NaN,
+      "p_value": NaN,
+      "spearman_rho": NaN
+    },
+    "avg_h1_vs_train_acc": {
+      "pearson_r": -0.477257771605063,
+      "p_value": 9.546792247086805e-162,
+      "spearman_rho": -0.9162886325066307
+    },
+    "avg_h1_vs_val_acc": {
+      "pearson_r": -0.26452749219301186,
+      "p_value": 9.585360446386126e-47,
+      "spearman_rho": 0.19364156883208647
+    },
+    "avg_h1_vs_generalization_gap": {
+      "pearson_r": -0.6467138216609072,
+      "p_value": 0.0,
+      "spearman_rho": -0.6313123217011186
+    },
+    "encoder_h1_vs_train_acc": {
+      "pearson_r": -0.529366452208311,
+      "p_value": 3.343816418589708e-205,
+      "spearman_rho": -0.7657306100434246
+    },
+    "encoder_h1_vs_val_acc": {
+      "pearson_r": -0.3013095015433214,
+      "p_value": 9.081309026579622e-61,
+      "spearman_rho": 0.28752536226106445
+    },
+    "encoder_h1_vs_generalization_gap": {
+      "pearson_r": -0.6998795830183822,
+      "p_value": 0.0,
+      "spearman_rho": -0.6476772111164788
+    },
+    "decoder_h1_vs_train_acc": {
+      "pearson_r": -0.3146647618270537,
+      "p_value": 2.1392515566879657e-66,
+      "spearman_rho": -0.8321867812643202
+    },
+    "decoder_h1_vs_val_acc": {
+      "pearson_r": -0.16586040018519072,
+      "p_value": 5.433815291955356e-19,
+      "spearman_rho": 0.1187250794374952
+    },
+    "decoder_h1_vs_generalization_gap": {
+      "pearson_r": -0.44526462627600044,
+      "p_value": 1.435757666119636e-138,
+      "spearman_rho": -0.5302181904840624
+    }
+  },
+  "MAMBA": {
+    "total_simplices_vs_train_acc": {
+      "pearson_r": -0.3388419020341804,
+      "p_value": 4.2032251732576035e-45,
+      "spearman_rho": -0.9249890265751037
+    },
+    "total_simplices_vs_val_acc": {
+      "pearson_r": -0.18466025860667626,
+      "p_value": 5.620356954780354e-14,
+      "spearman_rho": 0.05214580003921282
+    },
+    "total_simplices_vs_generalization_gap": {
+      "pearson_r": -0.549488740013457,
+      "p_value": 2.5530803890317103e-129,
+      "spearman_rho": -0.6431116782452513
+    },
+    "encoder_simplices_vs_train_acc": {
+      "pearson_r": -0.2719533157565208,
+      "p_value": 4.7709726774379e-29,
+      "spearman_rho": -0.8989327783577558
+    },
+    "encoder_simplices_vs_val_acc": {
+      "pearson_r": -0.08814011453345481,
+      "p_value": 0.00036551948406454016,
+      "spearman_rho": 0.1406145042678747
+    },
+    "encoder_simplices_vs_generalization_gap": {
+      "pearson_r": -0.5875300855977358,
+      "p_value": 5.641939218961545e-152,
+      "spearman_rho": -0.7134248721933646
+    },
+    "decoder_simplices_vs_train_acc": {
+      "pearson_r": -0.33676929506951075,
+      "p_value": 1.5323125969357735e-44,
+      "spearman_rho": -0.8102248442179827
+    },
+    "decoder_simplices_vs_val_acc": {
+      "pearson_r": -0.18448606824562055,
+      "p_value": 5.938927106975708e-14,
+      "spearman_rho": -0.07549598361760738
+    },
+    "decoder_simplices_vs_generalization_gap": {
+      "pearson_r": -0.5437974960688345,
+      "p_value": 3.55293459850873e-126,
+      "spearman_rho": -0.46420043552612544
+    },
+    "avg_h0_vs_train_acc": {
+      "pearson_r": NaN,
+      "p_value": NaN,
+      "spearman_rho": NaN
+    },
+    "avg_h0_vs_val_acc": {
+      "pearson_r": NaN,
+      "p_value": NaN,
+      "spearman_rho": NaN
+    },
+    "avg_h0_vs_generalization_gap": {
+      "pearson_r": NaN,
+      "p_value": NaN,
+      "spearman_rho": NaN
+    },
+    "avg_h1_vs_train_acc": {
+      "pearson_r": -0.40411944092564744,
+      "p_value": 4.1288784951922845e-65,
+      "spearman_rho": -0.8505685320427764
+    },
+    "avg_h1_vs_val_acc": {
+      "pearson_r": -0.21028852185561323,
+      "p_value": 9.302397234607921e-18,
+      "spearman_rho": 0.08489608758526776
+    },
+    "avg_h1_vs_generalization_gap": {
+      "pearson_r": -0.6796075590680887,
+      "p_value": 1.8763614137806775e-221,
+      "spearman_rho": -0.6245927265450602
+    },
+    "encoder_h1_vs_train_acc": {
+      "pearson_r": -0.22310722969303212,
+      "p_value": 7.610596630483591e-20,
+      "spearman_rho": -0.7764067297334323
+    },
+    "encoder_h1_vs_val_acc": {
+      "pearson_r": -0.061674906081938555,
+      "p_value": 0.012729709356859565,
+      "spearman_rho": 0.19506910032355024
+    },
+    "encoder_h1_vs_generalization_gap": {
+      "pearson_r": -0.5079407341555585,
+      "p_value": 1.0752555842217373e-107,
+      "spearman_rho": -0.6977641348167117
+    },
+    "decoder_h1_vs_train_acc": {
+      "pearson_r": -0.4250616697075902,
+      "p_value": 1.4972554628981788e-72,
+      "spearman_rho": -0.7653164088598281
+    },
+    "decoder_h1_vs_val_acc": {
+      "pearson_r": -0.2356603786864855,
+      "p_value": 5.102642196603376e-22,
+      "spearman_rho": 0.045919371118419886
+    },
+    "decoder_h1_vs_generalization_gap": {
+      "pearson_r": -0.6795214283320167,
+      "p_value": 2.2403312212043667e-221,
+      "spearman_rho": -0.48979277086420586
+    }
+  }
+}

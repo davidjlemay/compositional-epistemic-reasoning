@@ -1,0 +1,53 @@
+{
+  "GNN": {
+    "n_data_points": 2955,
+    "peak_val_acc": 0.9861111111111112,
+    "grokking_pct": 1.0,
+    "mean_init_simplices": 690105.6,
+    "mean_final_simplices": 12998.4,
+    "mean_reduction_pct": 98.10535736476312,
+    "sem_reduction_pct": 1.229732644947341
+  },
+  "MAMBA": {
+    "n_data_points": 1631,
+    "peak_val_acc": 0.9891666666666666,
+    "grokking_pct": 1.0,
+    "mean_init_simplices": 5682.0,
+    "mean_final_simplices": 428.0,
+    "mean_reduction_pct": 90.46135966356563,
+    "sem_reduction_pct": 2.8755198255456444
+  },
+  "TRANSFORMER": {
+    "n_data_points": 2844,
+    "peak_val_acc": 0.9880555555555556,
+    "grokking_pct": 1.0,
+    "mean_init_simplices": 24910.0,
+    "mean_final_simplices": 903.0,
+    "mean_reduction_pct": 84.87297792722245,
+    "sem_reduction_pct": 8.779570394725717
+  },
+  "GNN_scrambled": {
+    "n_data_points": 1604,
+    "peak_val_acc": 0.9784722222222222,
+    "mean_init_simplices": 344732.0,
+    "mean_final_simplices": 5913.333333333333,
+    "mean_reduction_pct": 98.29835469618142,
+    "sem_reduction_pct": 1.2426599081365632
+  },
+  "MAMBA_scrambled": {
+    "n_data_points": 1539,
+    "peak_val_acc": 0.9875,
+    "mean_init_simplices": 4333.666666666667,
+    "mean_final_simplices": 449.3333333333333,
+    "mean_reduction_pct": 85.76099038990083,
+    "sem_reduction_pct": 4.73475351175135
+  },
+  "TRANSFORMER_scrambled": {
+    "n_data_points": 1687,
+    "peak_val_acc": 0.9875,
+    "mean_init_simplices": 6704.0,
+    "mean_final_simplices": 1610.0,
+    "mean_reduction_pct": 70.17940272560077,
+    "sem_reduction_pct": 12.06527764815081
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "version": "v4_agent_aware",
+  "description": "Agent-aware dataset with natural names + systematic observations",
+  "strategy": "Train: simple (n\u2208{2,3}, d\u2208{0,1}), Val: complex (n\u2208{4,5}, d\u2208{2,3})",
+  "train_n_agents": [
+    2,
+    3
+  ],
+  "train_depth": [
+    0,
+    1
+  ],
+  "val_n_agents": [
+    4,
+    5
+  ],
+  "val_depth": [
+    2,
+    3
+  ],
+  "train_samples": 720,
+  "val_samples": 720,
+  "samples_per_combination": 180,
+  "train_avg_score": 3.75,
+  "val_avg_score": 15.75,
+  "complexity_ratio": 4.2,
+  "disjoint_combinations": true,
+  "disjoint_names": true,
+  "train_name_pool": [
+    "Alice",
+    "Bob",
+    "Carol",
+    "David",
+    "Emma",
+    "Frank"
+  ],
+  "val_name_pool": [
+    "Xavier",
+    "Yara",
+    "Zeke",
+    "Quinn",
+    "Riley",
+    "Sofia"
+  ],
+  "seed": 42,
+  "innovations": [
+    "Natural language names for complexity (prevents trivial learning)",
+    "Systematic agent observation patterns (enables Van Benthem test)",
+    "Different name pools train/val (stronger generalization test)",
+    "Agent-level metadata tracking (per-agent observations)",
+    "Supports both task-level AND agent-level factorization tests"
+  ]
+}

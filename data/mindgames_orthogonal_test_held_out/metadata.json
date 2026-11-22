@@ -1,0 +1,28 @@
+{
+  "test_samples": 1069,
+  "n_agents_range": [
+    2,
+    3,
+    4
+  ],
+  "hypothesis_depth_range": [
+    0,
+    1,
+    2
+  ],
+  "n_combinations": 9,
+  "distribution": {
+    "(2,0)": 113,
+    "(2,1)": 120,
+    "(2,2)": 120,
+    "(3,0)": 118,
+    "(3,1)": 118,
+    "(3,2)": 120,
+    "(4,0)": 120,
+    "(4,1)": 120,
+    "(4,2)": 120
+  },
+  "source": "Held-out from mindgames_orthogonal (not in v4_generation)",
+  "purpose": "Quick test set for topology-generalization analysis pilot",
+  "note": "Subset of problems - full test set with n\u2208{1:7}, d\u2208{0:5} still generating"
+}

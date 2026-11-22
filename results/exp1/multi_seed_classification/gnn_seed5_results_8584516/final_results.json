@@ -1,0 +1,27 @@
+{
+  "architecture": "gnn",
+  "seed": 5,
+  "final_train_metrics": {
+    "loss": 0.19339833764926248,
+    "accuracy": 0.9305555555555556
+  },
+  "final_val_metrics": {
+    "loss": 0.2412290106648984,
+    "accuracy": 0.9090277777777778
+  },
+  "best_val_accuracy": 0.9854166666666667,
+  "grokking_detected": true,
+  "grokking_epoch": 19,
+  "grokking_events": [
+    [
+      19,
+      0.36045138888888895
+    ]
+  ],
+  "num_grokking_events": 1,
+  "total_epochs": 591,
+  "early_stopping_triggered": true,
+  "early_stopping_patience": 500,
+  "model_parameters": 29764,
+  "vocab_size": 68
+}

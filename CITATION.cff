@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Code for: Formal Epistemic Structure Leaves Geometric Traces in LLMs"
+authors:
+  - family-names: Lemay
+    given-names: David John
+  - family-names: Sayilov
+    given-names: Emil
+  - family-names: Rish
+    given-names: Irina
+preferred-citation:
+  type: conference-paper
+  title: "Formal Epistemic Structure Leaves Geometric Traces in LLMs: Evidence from S5 Multi-Agent Logic and RoBERTa"
+  authors:
+    - family-names: Lemay
+      given-names: David John
+    - family-names: Sayilov
+      given-names: Emil
+    - family-names: Rish
+      given-names: Irina
+  collection-title: "IJCAI-ECAI 2026 Workshop on Logical and Symbolic Reasoning in Language Models (LogiSymb)"
+  year: 2026

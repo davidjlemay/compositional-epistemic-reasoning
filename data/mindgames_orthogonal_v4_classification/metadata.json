@@ -1,0 +1,47 @@
+{
+  "version": "v4_agent_aware_generation",
+  "description": "Agent-aware dataset with SMCDEL + natural language for generation",
+  "source_format": "dual (SMCDEL with name substitutions + natural language)",
+  "task": "generation",
+  "train_samples": 720,
+  "val_samples": 720,
+  "train_n_agents_range": [
+    2,
+    3
+  ],
+  "train_depth_range": [
+    0,
+    1
+  ],
+  "val_n_agents_range": [
+    4,
+    5
+  ],
+  "val_depth_range": [
+    2,
+    3
+  ],
+  "vocabulary_separated": true,
+  "features": [
+    "SMCDEL format with real agent names (Alice, Bob, etc.) for training",
+    "Natural language versions for reference",
+    "Agent-level metadata (per-agent observations and names)",
+    "Systematic agent observation patterns",
+    "Disjoint train/val combinations",
+    "Separate name vocabularies for train/val",
+    "Enables multi-level Van Benthem product space analysis"
+  ],
+  "format": {
+    "premise": "SMCDEL symbolic format with agent name substitutions (training input)",
+    "hypothesis": "SMCDEL hypothesis with agent name substitutions (training output)",
+    "premise_natural": "Natural language premise (reference)",
+    "hypothesis_natural": "Natural language hypothesis (reference)",
+    "label": "entailment or non_entailment",
+    "metadata": [
+      "n_agents",
+      "hypothesis_depth",
+      "agent_observations",
+      "agent_names"
+    ]
+  }
+}

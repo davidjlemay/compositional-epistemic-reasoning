@@ -1,0 +1,4370 @@
+{
+  "L0_H0": {
+    "layer": 0,
+    "head": 0,
+    "topology": {
+      "total_simplices": 172333,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.6990600445204311,
+    "std_entropy": 0.07382985578984597,
+    "mean_hyp_mass": 0.7467409702638785,
+    "std_hyp_mass": 0.00988666330060609
+  },
+  "L0_H1": {
+    "layer": 0,
+    "head": 1,
+    "topology": {
+      "total_simplices": 233684,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 0.005002799041903927,
+    "std_entropy": 0.001968997599467968,
+    "mean_hyp_mass": 0.0027830102910921064,
+    "std_hyp_mass": 0.05260684761349745
+  },
+  "L0_H2": {
+    "layer": 0,
+    "head": 2,
+    "topology": {
+      "total_simplices": 125535,
+      "h0": 2,
+      "h1": 2
+    },
+    "mean_entropy": 3.9662312305635874,
+    "std_entropy": 0.2267587619041851,
+    "mean_hyp_mass": 0.3996049944518341,
+    "std_hyp_mass": 0.051760774786690535
+  },
+  "L0_H3": {
+    "layer": 0,
+    "head": 3,
+    "topology": {
+      "total_simplices": 255355,
+      "h0": 21,
+      "h1": 10
+    },
+    "mean_entropy": 4.51017197602325,
+    "std_entropy": 0.29825372152217405,
+    "mean_hyp_mass": 0.1804105681160258,
+    "std_hyp_mass": 0.055623671323077585
+  },
+  "L0_H4": {
+    "layer": 0,
+    "head": 4,
+    "topology": {
+      "total_simplices": 191705,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 1.096389424138599,
+    "std_entropy": 0.3186577379838891,
+    "mean_hyp_mass": 0.20691238988203572,
+    "std_hyp_mass": 0.3260784015389688
+  },
+  "L0_H5": {
+    "layer": 0,
+    "head": 5,
+    "topology": {
+      "total_simplices": 172871,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.5875143640985091,
+    "std_entropy": 0.25854200412567274,
+    "mean_hyp_mass": 0.9406537500934469,
+    "std_hyp_mass": 0.15759786321914107
+  },
+  "L0_H6": {
+    "layer": 0,
+    "head": 6,
+    "topology": {
+      "total_simplices": 194948,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.0148890208866863,
+    "std_entropy": 0.17761802517515723,
+    "mean_hyp_mass": 0.3370872604350249,
+    "std_hyp_mass": 0.03812847718629006
+  },
+  "L0_H7": {
+    "layer": 0,
+    "head": 7,
+    "topology": {
+      "total_simplices": 290392,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 0.48901611128360273,
+    "std_entropy": 0.4659877440638423,
+    "mean_hyp_mass": 0.22554873809466708,
+    "std_hyp_mass": 0.31413987406382593
+  },
+  "L0_H8": {
+    "layer": 0,
+    "head": 8,
+    "topology": {
+      "total_simplices": 149576,
+      "h0": 1,
+      "h1": 2
+    },
+    "mean_entropy": 2.7798980530765323,
+    "std_entropy": 0.21826650854906005,
+    "mean_hyp_mass": 0.037696790777327904,
+    "std_hyp_mass": 0.016602907964278355
+  },
+  "L0_H9": {
+    "layer": 0,
+    "head": 9,
+    "topology": {
+      "total_simplices": 174392,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.6787514093849394,
+    "std_entropy": 0.07131936058530663,
+    "mean_hyp_mass": 0.7413322401543458,
+    "std_hyp_mass": 0.018151905343547627
+  },
+  "L0_H10": {
+    "layer": 0,
+    "head": 10,
+    "topology": {
+      "total_simplices": 234570,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 3.17542880806658,
+    "std_entropy": 0.44600416541868865,
+    "mean_hyp_mass": 0.09800589166892072,
+    "std_hyp_mass": 0.01717229010010722
+  },
+  "L0_H11": {
+    "layer": 0,
+    "head": 11,
+    "topology": {
+      "total_simplices": 182252,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.5259379809101422,
+    "std_entropy": 0.06623847675895234,
+    "mean_hyp_mass": 0.03909947148834666,
+    "std_hyp_mass": 0.05468505811439568
+  },
+  "L0_H12": {
+    "layer": 0,
+    "head": 12,
+    "topology": {
+      "total_simplices": 222317,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.051199767159091,
+    "std_entropy": 0.2470033430812765,
+    "mean_hyp_mass": 0.13457797611546185,
+    "std_hyp_mass": 0.02105856830752702
+  },
+  "L0_H13": {
+    "layer": 0,
+    "head": 13,
+    "topology": {
+      "total_simplices": 178954,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.6118676064329015,
+    "std_entropy": 0.04916177688261079,
+    "mean_hyp_mass": 0.2048060987972551,
+    "std_hyp_mass": 0.0445374169353647
+  },
+  "L1_H0": {
+    "layer": 1,
+    "head": 0,
+    "topology": {
+      "total_simplices": 175201,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.931522868325313,
+    "std_entropy": 0.18978385078964988,
+    "mean_hyp_mass": 0.4044996834256583,
+    "std_hyp_mass": 0.03289570451890672
+  },
+  "L1_H1": {
+    "layer": 1,
+    "head": 1,
+    "topology": {
+      "total_simplices": 152937,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.4677949488162993,
+    "std_entropy": 0.17898861791829937,
+    "mean_hyp_mass": 0.23171399398189452,
+    "std_hyp_mass": 0.02652194291653726
+  },
+  "L1_H2": {
+    "layer": 1,
+    "head": 2,
+    "topology": {
+      "total_simplices": 148730,
+      "h0": 1,
+      "h1": 1
+    },
+    "mean_entropy": 2.403635581996706,
+    "std_entropy": 0.15424134372282886,
+    "mean_hyp_mass": 0.2915091558256083,
+    "std_hyp_mass": 0.034190968063461655
+  },
+  "L1_H3": {
+    "layer": 1,
+    "head": 3,
+    "topology": {
+      "total_simplices": 202297,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.4412663246194521,
+    "std_entropy": 0.24580371593010913,
+    "mean_hyp_mass": 0.031850278581906526,
+    "std_hyp_mass": 0.007436062650620405
+  },
+  "L1_H4": {
+    "layer": 1,
+    "head": 4,
+    "topology": {
+      "total_simplices": 191621,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.08403160170548492,
+    "std_entropy": 0.18919703986472486,
+    "mean_hyp_mass": 0.0029727306064968517,
+    "std_hyp_mass": 0.03319983741664133
+  },
+  "L1_H5": {
+    "layer": 1,
+    "head": 5,
+    "topology": {
+      "total_simplices": 128046,
+      "h0": 2,
+      "h1": 2
+    },
+    "mean_entropy": 3.653742105927732,
+    "std_entropy": 0.25825249796348665,
+    "mean_hyp_mass": 0.10639117716863337,
+    "std_hyp_mass": 0.02693927955665789
+  },
+  "L1_H6": {
+    "layer": 1,
+    "head": 6,
+    "topology": {
+      "total_simplices": 173707,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.6592948969867494,
+    "std_entropy": 0.23315677413052383,
+    "mean_hyp_mass": 0.29798418316576214,
+    "std_hyp_mass": 0.031463764387984705
+  },
+  "L1_H7": {
+    "layer": 1,
+    "head": 7,
+    "topology": {
+      "total_simplices": 119810,
+      "h0": 1,
+      "h1": 2
+    },
+    "mean_entropy": 4.20811097588804,
+    "std_entropy": 0.24908590189596488,
+    "mean_hyp_mass": 0.13576906779780984,
+    "std_hyp_mass": 0.020362931634335092
+  },
+  "L1_H8": {
+    "layer": 1,
+    "head": 8,
+    "topology": {
+      "total_simplices": 171975,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.1848933928542666,
+    "std_entropy": 0.10055917946798716,
+    "mean_hyp_mass": 0.7821711974839369,
+    "std_hyp_mass": 0.019427590887368385
+  },
+  "L1_H9": {
+    "layer": 1,
+    "head": 9,
+    "topology": {
+      "total_simplices": 194124,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.36351060047745704,
+    "std_entropy": 0.07058414114924685,
+    "mean_hyp_mass": 0.03804098500921908,
+    "std_hyp_mass": 0.05258970851496898
+  },
+  "L1_H10": {
+    "layer": 1,
+    "head": 10,
+    "topology": {
+      "total_simplices": 152370,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 3.531525687707795,
+    "std_entropy": 0.10132404641958165,
+    "mean_hyp_mass": 0.6123842862952087,
+    "std_hyp_mass": 0.028337730076196742
+  },
+  "L1_H11": {
+    "layer": 1,
+    "head": 11,
+    "topology": {
+      "total_simplices": 204639,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.3036988341146045,
+    "std_entropy": 0.17436013753424265,
+    "mean_hyp_mass": 0.01686029152220322,
+    "std_hyp_mass": 0.03688489629861555
+  },
+  "L1_H12": {
+    "layer": 1,
+    "head": 12,
+    "topology": {
+      "total_simplices": 201247,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.16954770194780494,
+    "std_entropy": 0.21960749411050812,
+    "mean_hyp_mass": 0.00305916930746106,
+    "std_hyp_mass": 0.015832671499483086
+  },
+  "L1_H13": {
+    "layer": 1,
+    "head": 13,
+    "topology": {
+      "total_simplices": 187648,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.43451755560106703,
+    "std_entropy": 0.2614744864344937,
+    "mean_hyp_mass": 0.017061042385951925,
+    "std_hyp_mass": 0.014074335691954014
+  },
+  "L2_H0": {
+    "layer": 2,
+    "head": 0,
+    "topology": {
+      "total_simplices": 178885,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.2109134564797084,
+    "std_entropy": 0.1389796207031513,
+    "mean_hyp_mass": 0.5284308171520631,
+    "std_hyp_mass": 0.027584018581974835
+  },
+  "L2_H1": {
+    "layer": 2,
+    "head": 1,
+    "topology": {
+      "total_simplices": 163443,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.9265935993856855,
+    "std_entropy": 0.0684741379127567,
+    "mean_hyp_mass": 0.5340006418940094,
+    "std_hyp_mass": 0.018701878142227464
+  },
+  "L2_H2": {
+    "layer": 2,
+    "head": 2,
+    "topology": {
+      "total_simplices": 126916,
+      "h0": 2,
+      "h1": 3
+    },
+    "mean_entropy": 2.6252364728185866,
+    "std_entropy": 0.0964032650237329,
+    "mean_hyp_mass": 0.24804228931251499,
+    "std_hyp_mass": 0.04473177597595147
+  },
+  "L2_H3": {
+    "layer": 2,
+    "head": 3,
+    "topology": {
+      "total_simplices": 177257,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.5514131356444625,
+    "std_entropy": 0.06675738574076291,
+    "mean_hyp_mass": 0.28244668528851535,
+    "std_hyp_mass": 0.04025978783071125
+  },
+  "L2_H4": {
+    "layer": 2,
+    "head": 4,
+    "topology": {
+      "total_simplices": 166365,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.2797172652350532,
+    "std_entropy": 0.101276428999051,
+    "mean_hyp_mass": 0.7638890749878353,
+    "std_hyp_mass": 0.019028490543748285
+  },
+  "L2_H5": {
+    "layer": 2,
+    "head": 5,
+    "topology": {
+      "total_simplices": 102281,
+      "h0": 2,
+      "h1": 0
+    },
+    "mean_entropy": 3.2506776425573563,
+    "std_entropy": 0.12112779534940074,
+    "mean_hyp_mass": 0.34089046691854796,
+    "std_hyp_mass": 0.024658542550554847
+  },
+  "L2_H6": {
+    "layer": 2,
+    "head": 6,
+    "topology": {
+      "total_simplices": 165186,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.0140657173262704,
+    "std_entropy": 0.09644992888127023,
+    "mean_hyp_mass": 0.6731510924796263,
+    "std_hyp_mass": 0.02458771730508727
+  },
+  "L2_H7": {
+    "layer": 2,
+    "head": 7,
+    "topology": {
+      "total_simplices": 156088,
+      "h0": 1,
+      "h1": 1
+    },
+    "mean_entropy": 2.957685649726126,
+    "std_entropy": 0.21901858168202748,
+    "mean_hyp_mass": 0.2344955256001817,
+    "std_hyp_mass": 0.030148661151856705
+  },
+  "L2_H8": {
+    "layer": 2,
+    "head": 8,
+    "topology": {
+      "total_simplices": 176260,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.23873083289298747,
+    "std_entropy": 0.1523568161814774,
+    "mean_hyp_mass": 0.014129778490557025,
+    "std_hyp_mass": 0.029781198710402575
+  },
+  "L2_H9": {
+    "layer": 2,
+    "head": 9,
+    "topology": {
+      "total_simplices": 192945,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.3377107938130697,
+    "std_entropy": 0.14739686150308404,
+    "mean_hyp_mass": 0.01231512945313524,
+    "std_hyp_mass": 0.0395849876919434
+  },
+  "L2_H10": {
+    "layer": 2,
+    "head": 10,
+    "topology": {
+      "total_simplices": 189159,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.616716683573193,
+    "std_entropy": 0.16780412404197625,
+    "mean_hyp_mass": 0.02885414128088289,
+    "std_hyp_mass": 0.020899278365509727
+  },
+  "L2_H11": {
+    "layer": 2,
+    "head": 11,
+    "topology": {
+      "total_simplices": 164177,
+      "h0": 1,
+      "h1": 1
+    },
+    "mean_entropy": 2.8138824697997835,
+    "std_entropy": 0.2070515774578729,
+    "mean_hyp_mass": 0.20843718304402298,
+    "std_hyp_mass": 0.028441321123253295
+  },
+  "L2_H12": {
+    "layer": 2,
+    "head": 12,
+    "topology": {
+      "total_simplices": 170844,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.0924141625563304,
+    "std_entropy": 0.14980810246099097,
+    "mean_hyp_mass": 0.14912247800578673,
+    "std_hyp_mass": 0.022433296895675078
+  },
+  "L2_H13": {
+    "layer": 2,
+    "head": 13,
+    "topology": {
+      "total_simplices": 144376,
+      "h0": 1,
+      "h1": 2
+    },
+    "mean_entropy": 3.2426039195723004,
+    "std_entropy": 0.2053307271783521,
+    "mean_hyp_mass": 0.22212509005847905,
+    "std_hyp_mass": 0.022071817803194876
+  },
+  "L3_H0": {
+    "layer": 3,
+    "head": 0,
+    "topology": {
+      "total_simplices": 307614,
+      "h0": 37,
+      "h1": 1
+    },
+    "mean_entropy": 0.7394178368151187,
+    "std_entropy": 0.14087735459291106,
+    "mean_hyp_mass": 0.04523255566083309,
+    "std_hyp_mass": 0.026167499215611244
+  },
+  "L3_H1": {
+    "layer": 3,
+    "head": 1,
+    "topology": {
+      "total_simplices": 183683,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.3330986423624887,
+    "std_entropy": 0.03995948323911769,
+    "mean_hyp_mass": 0.5849226883716053,
+    "std_hyp_mass": 0.01962441528115799
+  },
+  "L3_H2": {
+    "layer": 3,
+    "head": 2,
+    "topology": {
+      "total_simplices": 180104,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 3.2423771729071933,
+    "std_entropy": 0.06690000438833435,
+    "mean_hyp_mass": 0.7146992963221338,
+    "std_hyp_mass": 0.017261300469965775
+  },
+  "L3_H3": {
+    "layer": 3,
+    "head": 3,
+    "topology": {
+      "total_simplices": 156742,
+      "h0": 4,
+      "h1": 1
+    },
+    "mean_entropy": 1.3324301368660396,
+    "std_entropy": 0.10645183103374893,
+    "mean_hyp_mass": 0.1371545762134095,
+    "std_hyp_mass": 0.011748381038636692
+  },
+  "L3_H4": {
+    "layer": 3,
+    "head": 4,
+    "topology": {
+      "total_simplices": 272481,
+      "h0": 22,
+      "h1": 4
+    },
+    "mean_entropy": 1.6259201649162505,
+    "std_entropy": 0.11928696455538419,
+    "mean_hyp_mass": 0.23423567991703748,
+    "std_hyp_mass": 0.054415564323748444
+  },
+  "L3_H5": {
+    "layer": 3,
+    "head": 5,
+    "topology": {
+      "total_simplices": 261484,
+      "h0": 65,
+      "h1": 9
+    },
+    "mean_entropy": 0.028139311297046436,
+    "std_entropy": 0.014702280359923438,
+    "mean_hyp_mass": 0.0010532383135897464,
+    "std_hyp_mass": 0.0006153843646593417
+  },
+  "L3_H6": {
+    "layer": 3,
+    "head": 6,
+    "topology": {
+      "total_simplices": 165483,
+      "h0": 4,
+      "h1": 6
+    },
+    "mean_entropy": 2.5570033957560856,
+    "std_entropy": 0.07732494764483323,
+    "mean_hyp_mass": 0.4714761477791601,
+    "std_hyp_mass": 0.0230562279787062
+  },
+  "L3_H7": {
+    "layer": 3,
+    "head": 7,
+    "topology": {
+      "total_simplices": 167281,
+      "h0": 3,
+      "h1": 1
+    },
+    "mean_entropy": 1.2899848014116286,
+    "std_entropy": 0.08066600252142793,
+    "mean_hyp_mass": 0.2165132401097152,
+    "std_hyp_mass": 0.02401533207692373
+  },
+  "L3_H8": {
+    "layer": 3,
+    "head": 8,
+    "topology": {
+      "total_simplices": 160662,
+      "h0": 2,
+      "h1": 0
+    },
+    "mean_entropy": 2.1665629593862428,
+    "std_entropy": 0.08556509481821349,
+    "mean_hyp_mass": 0.2759541847225693,
+    "std_hyp_mass": 0.03073781534515949
+  },
+  "L3_H9": {
+    "layer": 3,
+    "head": 9,
+    "topology": {
+      "total_simplices": 131982,
+      "h0": 4,
+      "h1": 4
+    },
+    "mean_entropy": 1.0053059542344676,
+    "std_entropy": 0.116122143142649,
+    "mean_hyp_mass": 0.05182300453695158,
+    "std_hyp_mass": 0.011212869501811802
+  },
+  "L3_H10": {
+    "layer": 3,
+    "head": 10,
+    "topology": {
+      "total_simplices": 190693,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.1479787271883752,
+    "std_entropy": 0.07022400639425792,
+    "mean_hyp_mass": 0.04816497820946905,
+    "std_hyp_mass": 0.029830483791995252
+  },
+  "L3_H11": {
+    "layer": 3,
+    "head": 11,
+    "topology": {
+      "total_simplices": 166042,
+      "h0": 2,
+      "h1": 36
+    },
+    "mean_entropy": 0.8318497591548496,
+    "std_entropy": 0.14035835753589967,
+    "mean_hyp_mass": 0.056201940914615986,
+    "std_hyp_mass": 0.020445258314544485
+  },
+  "L3_H12": {
+    "layer": 3,
+    "head": 12,
+    "topology": {
+      "total_simplices": 185319,
+      "h0": 3,
+      "h1": 2
+    },
+    "mean_entropy": 2.389513228999244,
+    "std_entropy": 0.08905697182412124,
+    "mean_hyp_mass": 0.40243319537904526,
+    "std_hyp_mass": 0.0405011710510735
+  },
+  "L3_H13": {
+    "layer": 3,
+    "head": 13,
+    "topology": {
+      "total_simplices": 147638,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 1.3373381005393135,
+    "std_entropy": 0.1242635358768019,
+    "mean_hyp_mass": 0.1277835520191325,
+    "std_hyp_mass": 0.027008485039295177
+  },
+  "L4_H0": {
+    "layer": 4,
+    "head": 0,
+    "topology": {
+      "total_simplices": 171853,
+      "h0": 6,
+      "h1": 0
+    },
+    "mean_entropy": 1.948242136504915,
+    "std_entropy": 0.11661969266202117,
+    "mean_hyp_mass": 0.41487846879495516,
+    "std_hyp_mass": 0.0474532037060186
+  },
+  "L4_H1": {
+    "layer": 4,
+    "head": 1,
+    "topology": {
+      "total_simplices": 183384,
+      "h0": 4,
+      "h1": 1
+    },
+    "mean_entropy": 1.7678859033518368,
+    "std_entropy": 0.07584556404965032,
+    "mean_hyp_mass": 0.31790007704661954,
+    "std_hyp_mass": 0.0265009717219808
+  },
+  "L4_H2": {
+    "layer": 4,
+    "head": 2,
+    "topology": {
+      "total_simplices": 176025,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 1.9329768877890374,
+    "std_entropy": 0.08320613221148591,
+    "mean_hyp_mass": 0.19169030439936452,
+    "std_hyp_mass": 0.026230334933375128
+  },
+  "L4_H3": {
+    "layer": 4,
+    "head": 3,
+    "topology": {
+      "total_simplices": 180874,
+      "h0": 4,
+      "h1": 1
+    },
+    "mean_entropy": 2.287600460151831,
+    "std_entropy": 0.06493887086731234,
+    "mean_hyp_mass": 0.47341999146673414,
+    "std_hyp_mass": 0.02314073582694805
+  },
+  "L4_H4": {
+    "layer": 4,
+    "head": 4,
+    "topology": {
+      "total_simplices": 164705,
+      "h0": 4,
+      "h1": 7
+    },
+    "mean_entropy": 1.912665855884552,
+    "std_entropy": 0.08574316142841945,
+    "mean_hyp_mass": 0.3383945585952865,
+    "std_hyp_mass": 0.03168022395692972
+  },
+  "L4_H5": {
+    "layer": 4,
+    "head": 5,
+    "topology": {
+      "total_simplices": 190273,
+      "h0": 5,
+      "h1": 3
+    },
+    "mean_entropy": 1.2067011473907365,
+    "std_entropy": 0.03657740107191646,
+    "mean_hyp_mass": 0.2347369753031267,
+    "std_hyp_mass": 0.02555983196377922
+  },
+  "L4_H6": {
+    "layer": 4,
+    "head": 6,
+    "topology": {
+      "total_simplices": 171298,
+      "h0": 5,
+      "h1": 0
+    },
+    "mean_entropy": 2.0836482769913145,
+    "std_entropy": 0.0978786059958376,
+    "mean_hyp_mass": 0.4805328785131375,
+    "std_hyp_mass": 0.03565730622225857
+  },
+  "L4_H7": {
+    "layer": 4,
+    "head": 7,
+    "topology": {
+      "total_simplices": 143155,
+      "h0": 3,
+      "h1": 4
+    },
+    "mean_entropy": 0.5189654685556888,
+    "std_entropy": 0.09360864924699798,
+    "mean_hyp_mass": 0.05771111413422558,
+    "std_hyp_mass": 0.04865423907292385
+  },
+  "L4_H8": {
+    "layer": 4,
+    "head": 8,
+    "topology": {
+      "total_simplices": 199921,
+      "h0": 7,
+      "h1": 34
+    },
+    "mean_entropy": 1.8489653383692106,
+    "std_entropy": 0.14261701850077513,
+    "mean_hyp_mass": 0.13205587096098398,
+    "std_hyp_mass": 0.015752420345475072
+  },
+  "L4_H9": {
+    "layer": 4,
+    "head": 9,
+    "topology": {
+      "total_simplices": 158181,
+      "h0": 6,
+      "h1": 10
+    },
+    "mean_entropy": 0.20278598848316404,
+    "std_entropy": 0.10231904040053136,
+    "mean_hyp_mass": 0.009845842851144778,
+    "std_hyp_mass": 0.023315543071604095
+  },
+  "L4_H10": {
+    "layer": 4,
+    "head": 10,
+    "topology": {
+      "total_simplices": 175812,
+      "h0": 5,
+      "h1": 0
+    },
+    "mean_entropy": 1.1765788022842671,
+    "std_entropy": 0.09787528385976427,
+    "mean_hyp_mass": 0.167364197017418,
+    "std_hyp_mass": 0.03887908108178929
+  },
+  "L4_H11": {
+    "layer": 4,
+    "head": 11,
+    "topology": {
+      "total_simplices": 148778,
+      "h0": 4,
+      "h1": 3
+    },
+    "mean_entropy": 1.2986268679300943,
+    "std_entropy": 0.08754369225668773,
+    "mean_hyp_mass": 0.15844737125767602,
+    "std_hyp_mass": 0.03717533723931765
+  },
+  "L4_H12": {
+    "layer": 4,
+    "head": 12,
+    "topology": {
+      "total_simplices": 211891,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.6854148546854655,
+    "std_entropy": 0.030781678625311802,
+    "mean_hyp_mass": 0.01692108384449966,
+    "std_hyp_mass": 0.0393252105015123
+  },
+  "L4_H13": {
+    "layer": 4,
+    "head": 13,
+    "topology": {
+      "total_simplices": 171464,
+      "h0": 2,
+      "h1": 0
+    },
+    "mean_entropy": 2.882181113627222,
+    "std_entropy": 0.07448010808022237,
+    "mean_hyp_mass": 0.6252320466770066,
+    "std_hyp_mass": 0.019412830443002693
+  },
+  "L5_H0": {
+    "layer": 5,
+    "head": 0,
+    "topology": {
+      "total_simplices": 180953,
+      "h0": 5,
+      "h1": 1
+    },
+    "mean_entropy": 0.43827469444109335,
+    "std_entropy": 0.14325076325060837,
+    "mean_hyp_mass": 0.04807966420840886,
+    "std_hyp_mass": 0.011036784320650793
+  },
+  "L5_H1": {
+    "layer": 5,
+    "head": 1,
+    "topology": {
+      "total_simplices": 222778,
+      "h0": 8,
+      "h1": 0
+    },
+    "mean_entropy": 1.7352954742395215,
+    "std_entropy": 0.29922492891295877,
+    "mean_hyp_mass": 0.7930975535677539,
+    "std_hyp_mass": 0.12673575249169447
+  },
+  "L5_H2": {
+    "layer": 5,
+    "head": 2,
+    "topology": {
+      "total_simplices": 165159,
+      "h0": 3,
+      "h1": 3
+    },
+    "mean_entropy": 0.7474975035422378,
+    "std_entropy": 0.07735602176752865,
+    "mean_hyp_mass": 0.08108994602743122,
+    "std_hyp_mass": 0.010776067871027646
+  },
+  "L5_H3": {
+    "layer": 5,
+    "head": 3,
+    "topology": {
+      "total_simplices": 221089,
+      "h0": 15,
+      "h1": 18
+    },
+    "mean_entropy": 0.329662192447318,
+    "std_entropy": 0.13201765094657947,
+    "mean_hyp_mass": 0.019647948697416318,
+    "std_hyp_mass": 0.013426932027873546
+  },
+  "L5_H4": {
+    "layer": 5,
+    "head": 4,
+    "topology": {
+      "total_simplices": 243646,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 1.0963985122636788,
+    "std_entropy": 0.5565926265888227,
+    "mean_hyp_mass": 0.9626784462895658,
+    "std_hyp_mass": 0.0899347688415167
+  },
+  "L5_H5": {
+    "layer": 5,
+    "head": 5,
+    "topology": {
+      "total_simplices": 197563,
+      "h0": 15,
+      "h1": 2
+    },
+    "mean_entropy": 2.6645216519633927,
+    "std_entropy": 0.14084532063393795,
+    "mean_hyp_mass": 0.4968916124353806,
+    "std_hyp_mass": 0.0533045293074008
+  },
+  "L5_H6": {
+    "layer": 5,
+    "head": 6,
+    "topology": {
+      "total_simplices": 183836,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.6691300594144398,
+    "std_entropy": 0.13009506064056134,
+    "mean_hyp_mass": 0.21510304568542374,
+    "std_hyp_mass": 0.024138630255282133
+  },
+  "L5_H7": {
+    "layer": 5,
+    "head": 7,
+    "topology": {
+      "total_simplices": 149235,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.9346833222442203,
+    "std_entropy": 0.13835685420626218,
+    "mean_hyp_mass": 0.07098735609518675,
+    "std_hyp_mass": 0.17254661434800359
+  },
+  "L5_H8": {
+    "layer": 5,
+    "head": 8,
+    "topology": {
+      "total_simplices": 179828,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 1.157820431350006,
+    "std_entropy": 0.2856960600275398,
+    "mean_hyp_mass": 0.1947706780810323,
+    "std_hyp_mass": 0.23852834059272693
+  },
+  "L5_H9": {
+    "layer": 5,
+    "head": 9,
+    "topology": {
+      "total_simplices": 159427,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.3263279532806741,
+    "std_entropy": 0.033752380186236844,
+    "mean_hyp_mass": 0.013584388961317018,
+    "std_hyp_mass": 0.05222936808428162
+  },
+  "L5_H10": {
+    "layer": 5,
+    "head": 10,
+    "topology": {
+      "total_simplices": 199793,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 2.2250764884882503,
+    "std_entropy": 0.0949636216789277,
+    "mean_hyp_mass": 0.13930913107469678,
+    "std_hyp_mass": 0.04050433418987526
+  },
+  "L5_H11": {
+    "layer": 5,
+    "head": 11,
+    "topology": {
+      "total_simplices": 231510,
+      "h0": 4,
+      "h1": 4
+    },
+    "mean_entropy": 1.3516587974296677,
+    "std_entropy": 0.1303784378620246,
+    "mean_hyp_mass": 0.10925025473115965,
+    "std_hyp_mass": 0.07504403829811884
+  },
+  "L5_H12": {
+    "layer": 5,
+    "head": 12,
+    "topology": {
+      "total_simplices": 214724,
+      "h0": 14,
+      "h1": 0
+    },
+    "mean_entropy": 1.8116318609358535,
+    "std_entropy": 0.5613559876528854,
+    "mean_hyp_mass": 0.6601544370667802,
+    "std_hyp_mass": 0.1785715707498414
+  },
+  "L5_H13": {
+    "layer": 5,
+    "head": 13,
+    "topology": {
+      "total_simplices": 181847,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.2751822808343503,
+    "std_entropy": 0.2076126884192719,
+    "mean_hyp_mass": 0.007311807162477635,
+    "std_hyp_mass": 0.012415511810055846
+  },
+  "L6_H0": {
+    "layer": 6,
+    "head": 0,
+    "topology": {
+      "total_simplices": 249902,
+      "h0": 34,
+      "h1": 4
+    },
+    "mean_entropy": 0.9432031005207036,
+    "std_entropy": 0.22031927638611554,
+    "mean_hyp_mass": 0.021536916513731637,
+    "std_hyp_mass": 0.013514176124195842
+  },
+  "L6_H1": {
+    "layer": 6,
+    "head": 1,
+    "topology": {
+      "total_simplices": 200431,
+      "h0": 6,
+      "h1": 0
+    },
+    "mean_entropy": 2.6579132394658194,
+    "std_entropy": 0.10267147874020108,
+    "mean_hyp_mass": 0.7011905665198962,
+    "std_hyp_mass": 0.04296823124918126
+  },
+  "L6_H2": {
+    "layer": 6,
+    "head": 2,
+    "topology": {
+      "total_simplices": 214545,
+      "h0": 8,
+      "h1": 5
+    },
+    "mean_entropy": 1.4792204783194596,
+    "std_entropy": 0.18172236455985846,
+    "mean_hyp_mass": 0.1748223153149916,
+    "std_hyp_mass": 0.044296183628204026
+  },
+  "L6_H3": {
+    "layer": 6,
+    "head": 3,
+    "topology": {
+      "total_simplices": 310932,
+      "h0": 30,
+      "h1": 5
+    },
+    "mean_entropy": 2.0784481662842964,
+    "std_entropy": 0.16064280985218965,
+    "mean_hyp_mass": 0.2586908595274306,
+    "std_hyp_mass": 0.061072627057698246
+  },
+  "L6_H4": {
+    "layer": 6,
+    "head": 4,
+    "topology": {
+      "total_simplices": 162673,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 1.809849957542287,
+    "std_entropy": 0.06384392565691752,
+    "mean_hyp_mass": 0.28566718676851854,
+    "std_hyp_mass": 0.042742318620210266
+  },
+  "L6_H5": {
+    "layer": 6,
+    "head": 5,
+    "topology": {
+      "total_simplices": 190947,
+      "h0": 5,
+      "h1": 0
+    },
+    "mean_entropy": 1.8378812699682183,
+    "std_entropy": 0.2943073118347879,
+    "mean_hyp_mass": 0.6824628900943531,
+    "std_hyp_mass": 0.18275726378440887
+  },
+  "L6_H6": {
+    "layer": 6,
+    "head": 6,
+    "topology": {
+      "total_simplices": 368095,
+      "h0": 33,
+      "h1": 3
+    },
+    "mean_entropy": 2.1038488808605407,
+    "std_entropy": 0.18266504282717252,
+    "mean_hyp_mass": 0.4792029050282306,
+    "std_hyp_mass": 0.10627945964480798
+  },
+  "L6_H7": {
+    "layer": 6,
+    "head": 7,
+    "topology": {
+      "total_simplices": 276646,
+      "h0": 15,
+      "h1": 9
+    },
+    "mean_entropy": 1.220179173991912,
+    "std_entropy": 0.33005991435412463,
+    "mean_hyp_mass": 0.3101364093111139,
+    "std_hyp_mass": 0.1234953439163389
+  },
+  "L6_H8": {
+    "layer": 6,
+    "head": 8,
+    "topology": {
+      "total_simplices": 263471,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 1.1647734033564727,
+    "std_entropy": 0.21649729739446638,
+    "mean_hyp_mass": 0.25091777820812744,
+    "std_hyp_mass": 0.08152097880204404
+  },
+  "L6_H9": {
+    "layer": 6,
+    "head": 9,
+    "topology": {
+      "total_simplices": 172419,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.7755037167833911,
+    "std_entropy": 0.17061114083741158,
+    "mean_hyp_mass": 0.01268688232715552,
+    "std_hyp_mass": 0.035438780294285814
+  },
+  "L6_H10": {
+    "layer": 6,
+    "head": 10,
+    "topology": {
+      "total_simplices": 240066,
+      "h0": 49,
+      "h1": 4
+    },
+    "mean_entropy": 1.1052016105916764,
+    "std_entropy": 0.2580855936576217,
+    "mean_hyp_mass": 0.36626197598460647,
+    "std_hyp_mass": 0.17451978975238217
+  },
+  "L6_H11": {
+    "layer": 6,
+    "head": 11,
+    "topology": {
+      "total_simplices": 169735,
+      "h0": 5,
+      "h1": 6
+    },
+    "mean_entropy": 1.5749110403988096,
+    "std_entropy": 0.19234069676925336,
+    "mean_hyp_mass": 0.05715410561662995,
+    "std_hyp_mass": 0.012605282838259539
+  },
+  "L6_H12": {
+    "layer": 6,
+    "head": 12,
+    "topology": {
+      "total_simplices": 233154,
+      "h0": 14,
+      "h1": 0
+    },
+    "mean_entropy": 1.1267036164386406,
+    "std_entropy": 0.3069710984401082,
+    "mean_hyp_mass": 0.8663943348348968,
+    "std_hyp_mass": 0.163888627009667
+  },
+  "L6_H13": {
+    "layer": 6,
+    "head": 13,
+    "topology": {
+      "total_simplices": 333034,
+      "h0": 36,
+      "h1": 1
+    },
+    "mean_entropy": 1.1121845206814922,
+    "std_entropy": 0.2816919707084507,
+    "mean_hyp_mass": 0.466595779181201,
+    "std_hyp_mass": 0.1838703993048626
+  },
+  "L7_H0": {
+    "layer": 7,
+    "head": 0,
+    "topology": {
+      "total_simplices": 322266,
+      "h0": 46,
+      "h1": 4
+    },
+    "mean_entropy": 1.7987361654639245,
+    "std_entropy": 0.1996338116381913,
+    "mean_hyp_mass": 0.4606519237574604,
+    "std_hyp_mass": 0.15643437539239352
+  },
+  "L7_H1": {
+    "layer": 7,
+    "head": 1,
+    "topology": {
+      "total_simplices": 231946,
+      "h0": 11,
+      "h1": 0
+    },
+    "mean_entropy": 1.607831642942296,
+    "std_entropy": 0.22442187062143273,
+    "mean_hyp_mass": 0.6410430991504755,
+    "std_hyp_mass": 0.14784507711346914
+  },
+  "L7_H2": {
+    "layer": 7,
+    "head": 2,
+    "topology": {
+      "total_simplices": 202185,
+      "h0": 7,
+      "h1": 0
+    },
+    "mean_entropy": 1.1528134990897443,
+    "std_entropy": 0.6343853064987788,
+    "mean_hyp_mass": 0.9636981523699231,
+    "std_hyp_mass": 0.06149278709986453
+  },
+  "L7_H3": {
+    "layer": 7,
+    "head": 3,
+    "topology": {
+      "total_simplices": 382374,
+      "h0": 62,
+      "h1": 0
+    },
+    "mean_entropy": 1.6218995131552219,
+    "std_entropy": 0.1554609714946162,
+    "mean_hyp_mass": 0.3650089330143399,
+    "std_hyp_mass": 0.15124342353982104
+  },
+  "L7_H4": {
+    "layer": 7,
+    "head": 4,
+    "topology": {
+      "total_simplices": 206622,
+      "h0": 2,
+      "h1": 3
+    },
+    "mean_entropy": 2.316732242041164,
+    "std_entropy": 0.16066950655975404,
+    "mean_hyp_mass": 0.21773573886603118,
+    "std_hyp_mass": 0.05146761577565672
+  },
+  "L7_H5": {
+    "layer": 7,
+    "head": 5,
+    "topology": {
+      "total_simplices": 228955,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 1.314696269803163,
+    "std_entropy": 0.48427200173064344,
+    "mean_hyp_mass": 0.9700732970390366,
+    "std_hyp_mass": 0.05828462162813353
+  },
+  "L7_H6": {
+    "layer": 7,
+    "head": 6,
+    "topology": {
+      "total_simplices": 203821,
+      "h0": 41,
+      "h1": 0
+    },
+    "mean_entropy": 2.5027907306535377,
+    "std_entropy": 0.5381507613633512,
+    "mean_hyp_mass": 0.6691918766436478,
+    "std_hyp_mass": 0.11518822124918357
+  },
+  "L7_H7": {
+    "layer": 7,
+    "head": 7,
+    "topology": {
+      "total_simplices": 351276,
+      "h0": 64,
+      "h1": 1
+    },
+    "mean_entropy": 0.7005048750589291,
+    "std_entropy": 0.09885192937020154,
+    "mean_hyp_mass": 0.08530749780022436,
+    "std_hyp_mass": 0.030311506096125446
+  },
+  "L7_H8": {
+    "layer": 7,
+    "head": 8,
+    "topology": {
+      "total_simplices": 222945,
+      "h0": 36,
+      "h1": 4
+    },
+    "mean_entropy": 0.06914251848227448,
+    "std_entropy": 0.01584020970112919,
+    "mean_hyp_mass": 0.0033188838157608793,
+    "std_hyp_mass": 0.0009589214721404748
+  },
+  "L7_H9": {
+    "layer": 7,
+    "head": 9,
+    "topology": {
+      "total_simplices": 221649,
+      "h0": 35,
+      "h1": 0
+    },
+    "mean_entropy": 2.600678855015172,
+    "std_entropy": 0.43886497308822814,
+    "mean_hyp_mass": 0.9912176232371065,
+    "std_hyp_mass": 0.018521883046830744
+  },
+  "L7_H10": {
+    "layer": 7,
+    "head": 10,
+    "topology": {
+      "total_simplices": 228793,
+      "h0": 10,
+      "h1": 0
+    },
+    "mean_entropy": 1.1452667874284088,
+    "std_entropy": 0.49113431110478134,
+    "mean_hyp_mass": 0.9935432305352555,
+    "std_hyp_mass": 0.03743800456940117
+  },
+  "L7_H11": {
+    "layer": 7,
+    "head": 11,
+    "topology": {
+      "total_simplices": 289339,
+      "h0": 36,
+      "h1": 5
+    },
+    "mean_entropy": 1.4015893271399869,
+    "std_entropy": 0.14472346620207882,
+    "mean_hyp_mass": 0.3323705902737048,
+    "std_hyp_mass": 0.10219506415789996
+  },
+  "L7_H12": {
+    "layer": 7,
+    "head": 12,
+    "topology": {
+      "total_simplices": 231446,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 1.5877340941379467,
+    "std_entropy": 0.5137563053231706,
+    "mean_hyp_mass": 0.9859051677087943,
+    "std_hyp_mass": 0.021480529558250944
+  },
+  "L7_H13": {
+    "layer": 7,
+    "head": 13,
+    "topology": {
+      "total_simplices": 184059,
+      "h0": 4,
+      "h1": 3
+    },
+    "mean_entropy": 2.491169149014685,
+    "std_entropy": 0.1432191422514263,
+    "mean_hyp_mass": 0.27302124357471863,
+    "std_hyp_mass": 0.022077433217884274
+  },
+  "L8_H0": {
+    "layer": 8,
+    "head": 0,
+    "topology": {
+      "total_simplices": 165059,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 3.7976624382866753,
+    "std_entropy": 0.2557466852004316,
+    "mean_hyp_mass": 0.10319205197609133,
+    "std_hyp_mass": 0.044492560950446514
+  },
+  "L8_H1": {
+    "layer": 8,
+    "head": 1,
+    "topology": {
+      "total_simplices": 148238,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 3.705023325814141,
+    "std_entropy": 0.2928348924753879,
+    "mean_hyp_mass": 0.09791122845684488,
+    "std_hyp_mass": 0.05011004112315494
+  },
+  "L8_H2": {
+    "layer": 8,
+    "head": 2,
+    "topology": {
+      "total_simplices": 207828,
+      "h0": 11,
+      "h1": 0
+    },
+    "mean_entropy": 1.1416772154056363,
+    "std_entropy": 0.6576273981681893,
+    "mean_hyp_mass": 0.9202692109987968,
+    "std_hyp_mass": 0.14938402533965686
+  },
+  "L8_H3": {
+    "layer": 8,
+    "head": 3,
+    "topology": {
+      "total_simplices": 145159,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.000329613565603558,
+    "std_entropy": 0.007667018505014552,
+    "mean_hyp_mass": 0.002777389130795068,
+    "std_hyp_mass": 0.05262188976473628
+  },
+  "L8_H4": {
+    "layer": 8,
+    "head": 4,
+    "topology": {
+      "total_simplices": 200819,
+      "h0": 5,
+      "h1": 0
+    },
+    "mean_entropy": 1.8436220006810293,
+    "std_entropy": 0.45928253450734635,
+    "mean_hyp_mass": 0.8317677891502778,
+    "std_hyp_mass": 0.11456790668612594
+  },
+  "L8_H5": {
+    "layer": 8,
+    "head": 5,
+    "topology": {
+      "total_simplices": 243146,
+      "h0": 18,
+      "h1": 1
+    },
+    "mean_entropy": 1.505169885688358,
+    "std_entropy": 0.47856228563299963,
+    "mean_hyp_mass": 0.8036987864929769,
+    "std_hyp_mass": 0.15756704552862347
+  },
+  "L8_H6": {
+    "layer": 8,
+    "head": 6,
+    "topology": {
+      "total_simplices": 293939,
+      "h0": 38,
+      "h1": 4
+    },
+    "mean_entropy": 2.0033177678783733,
+    "std_entropy": 0.3164093979059483,
+    "mean_hyp_mass": 0.5090615608729422,
+    "std_hyp_mass": 0.18953738778721274
+  },
+  "L8_H7": {
+    "layer": 8,
+    "head": 7,
+    "topology": {
+      "total_simplices": 173107,
+      "h0": 2,
+      "h1": 0
+    },
+    "mean_entropy": 1.1987370918867075,
+    "std_entropy": 0.08214480947298558,
+    "mean_hyp_mass": 0.3087694733093182,
+    "std_hyp_mass": 0.05201269544432634
+  },
+  "L8_H8": {
+    "layer": 8,
+    "head": 8,
+    "topology": {
+      "total_simplices": 266538,
+      "h0": 16,
+      "h1": 0
+    },
+    "mean_entropy": 1.8164214628852076,
+    "std_entropy": 0.6069154596005683,
+    "mean_hyp_mass": 0.9580384077711238,
+    "std_hyp_mass": 0.03540715686215674
+  },
+  "L8_H9": {
+    "layer": 8,
+    "head": 9,
+    "topology": {
+      "total_simplices": 216542,
+      "h0": 13,
+      "h1": 1
+    },
+    "mean_entropy": 3.2633791009585065,
+    "std_entropy": 0.21998507915623805,
+    "mean_hyp_mass": 0.6070515046930975,
+    "std_hyp_mass": 0.05728505844928514
+  },
+  "L8_H10": {
+    "layer": 8,
+    "head": 10,
+    "topology": {
+      "total_simplices": 208791,
+      "h0": 7,
+      "h1": 0
+    },
+    "mean_entropy": 2.2185457438230514,
+    "std_entropy": 0.4503055130420951,
+    "mean_hyp_mass": 0.9722635173549254,
+    "std_hyp_mass": 0.030911776623369726
+  },
+  "L8_H11": {
+    "layer": 8,
+    "head": 11,
+    "topology": {
+      "total_simplices": 285155,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 2.2702395189139577,
+    "std_entropy": 0.43009492545364064,
+    "mean_hyp_mass": 0.928085218452745,
+    "std_hyp_mass": 0.020896785107433053
+  },
+  "L8_H12": {
+    "layer": 8,
+    "head": 12,
+    "topology": {
+      "total_simplices": 207356,
+      "h0": 8,
+      "h1": 1
+    },
+    "mean_entropy": 2.695951152427329,
+    "std_entropy": 0.26697699175889944,
+    "mean_hyp_mass": 0.9018212652868695,
+    "std_hyp_mass": 0.02427215983871089
+  },
+  "L8_H13": {
+    "layer": 8,
+    "head": 13,
+    "topology": {
+      "total_simplices": 201066,
+      "h0": 8,
+      "h1": 0
+    },
+    "mean_entropy": 2.21552967760298,
+    "std_entropy": 0.3382834692562521,
+    "mean_hyp_mass": 0.7161132650656833,
+    "std_hyp_mass": 0.1119147029030069
+  },
+  "L9_H0": {
+    "layer": 9,
+    "head": 0,
+    "topology": {
+      "total_simplices": 214537,
+      "h0": 7,
+      "h1": 5
+    },
+    "mean_entropy": 1.4601670800811715,
+    "std_entropy": 0.2476717590093028,
+    "mean_hyp_mass": 0.7227421044165061,
+    "std_hyp_mass": 0.1841934432581784
+  },
+  "L9_H1": {
+    "layer": 9,
+    "head": 1,
+    "topology": {
+      "total_simplices": 241528,
+      "h0": 9,
+      "h1": 1
+    },
+    "mean_entropy": 1.6051091799305546,
+    "std_entropy": 0.22025178040277,
+    "mean_hyp_mass": 0.32140519588978755,
+    "std_hyp_mass": 0.17766724368218245
+  },
+  "L9_H2": {
+    "layer": 9,
+    "head": 2,
+    "topology": {
+      "total_simplices": 253761,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 0.9510831263847649,
+    "std_entropy": 0.4978528896592973,
+    "mean_hyp_mass": 0.9978842556890514,
+    "std_hyp_mass": 0.028347150417481242
+  },
+  "L9_H3": {
+    "layer": 9,
+    "head": 3,
+    "topology": {
+      "total_simplices": 236162,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 0.8025845038704574,
+    "std_entropy": 0.5901446631479511,
+    "mean_hyp_mass": 0.990788550923268,
+    "std_hyp_mass": 0.046567906180133616
+  },
+  "L9_H4": {
+    "layer": 9,
+    "head": 4,
+    "topology": {
+      "total_simplices": 193519,
+      "h0": 7,
+      "h1": 0
+    },
+    "mean_entropy": 1.1102817246483432,
+    "std_entropy": 0.2594478042111104,
+    "mean_hyp_mass": 0.797407027938041,
+    "std_hyp_mass": 0.23710929486891408
+  },
+  "L9_H5": {
+    "layer": 9,
+    "head": 5,
+    "topology": {
+      "total_simplices": 235711,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 0.9239940755276217,
+    "std_entropy": 0.5416327881678475,
+    "mean_hyp_mass": 0.9963846577745344,
+    "std_hyp_mass": 0.04109997297743096
+  },
+  "L9_H6": {
+    "layer": 9,
+    "head": 6,
+    "topology": {
+      "total_simplices": 231083,
+      "h0": 14,
+      "h1": 0
+    },
+    "mean_entropy": 0.8303068750266296,
+    "std_entropy": 0.5996486609485203,
+    "mean_hyp_mass": 0.9857702513535818,
+    "std_hyp_mass": 0.06770632094779543
+  },
+  "L9_H7": {
+    "layer": 9,
+    "head": 7,
+    "topology": {
+      "total_simplices": 200700,
+      "h0": 24,
+      "h1": 0
+    },
+    "mean_entropy": 0.0025817799986624676,
+    "std_entropy": 0.0012641987687642623,
+    "mean_hyp_mass": 7.298563293368766e-06,
+    "std_hyp_mass": 3.2223769933684976e-06
+  },
+  "L9_H8": {
+    "layer": 9,
+    "head": 8,
+    "topology": {
+      "total_simplices": 215101,
+      "h0": 31,
+      "h1": 5
+    },
+    "mean_entropy": 0.04463967783247224,
+    "std_entropy": 0.02130876399943225,
+    "mean_hyp_mass": 0.00013571552232052555,
+    "std_hyp_mass": 7.824436053686933e-05
+  },
+  "L9_H9": {
+    "layer": 9,
+    "head": 9,
+    "topology": {
+      "total_simplices": 210681,
+      "h0": 26,
+      "h1": 3
+    },
+    "mean_entropy": 0.016982981443288737,
+    "std_entropy": 0.0077719779100191635,
+    "mean_hyp_mass": 4.151423269212905e-05,
+    "std_hyp_mass": 2.257247218432861e-05
+  },
+  "L9_H10": {
+    "layer": 9,
+    "head": 10,
+    "topology": {
+      "total_simplices": 173350,
+      "h0": 3,
+      "h1": 4
+    },
+    "mean_entropy": 0.226453310261584,
+    "std_entropy": 0.05672907533523294,
+    "mean_hyp_mass": 0.004206436332970043,
+    "std_hyp_mass": 0.001913759161240557
+  },
+  "L9_H11": {
+    "layer": 9,
+    "head": 11,
+    "topology": {
+      "total_simplices": 248624,
+      "h0": 13,
+      "h1": 4
+    },
+    "mean_entropy": 1.3076393058730496,
+    "std_entropy": 0.29308780581405286,
+    "mean_hyp_mass": 0.5571798947342258,
+    "std_hyp_mass": 0.18878528002235748
+  },
+  "L9_H12": {
+    "layer": 9,
+    "head": 12,
+    "topology": {
+      "total_simplices": 213839,
+      "h0": 3,
+      "h1": 8
+    },
+    "mean_entropy": 2.233738136953778,
+    "std_entropy": 0.30444641619126916,
+    "mean_hyp_mass": 0.2876528118749977,
+    "std_hyp_mass": 0.11113255442716868
+  },
+  "L9_H13": {
+    "layer": 9,
+    "head": 13,
+    "topology": {
+      "total_simplices": 171014,
+      "h0": 1,
+      "h1": 3
+    },
+    "mean_entropy": 1.9113643851959043,
+    "std_entropy": 0.49566048638161997,
+    "mean_hyp_mass": 0.04108843556346579,
+    "std_hyp_mass": 0.018196243440896744
+  },
+  "L10_H0": {
+    "layer": 10,
+    "head": 0,
+    "topology": {
+      "total_simplices": 241913,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 1.4046003311975963,
+    "std_entropy": 0.6229151385531376,
+    "mean_hyp_mass": 0.5780806463156801,
+    "std_hyp_mass": 0.35332408569048823
+  },
+  "L10_H1": {
+    "layer": 10,
+    "head": 1,
+    "topology": {
+      "total_simplices": 287013,
+      "h0": 92,
+      "h1": 0
+    },
+    "mean_entropy": 2.1302134102417365,
+    "std_entropy": 0.46752764299737015,
+    "mean_hyp_mass": 0.1647299035426436,
+    "std_hyp_mass": 0.10507948987116855
+  },
+  "L10_H2": {
+    "layer": 10,
+    "head": 2,
+    "topology": {
+      "total_simplices": 272349,
+      "h0": 20,
+      "h1": 5
+    },
+    "mean_entropy": 0.6597734238952399,
+    "std_entropy": 0.10741423967862429,
+    "mean_hyp_mass": 0.009404801602552955,
+    "std_hyp_mass": 0.012408683621154359
+  },
+  "L10_H3": {
+    "layer": 10,
+    "head": 3,
+    "topology": {
+      "total_simplices": 200401,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 1.270051954769426,
+    "std_entropy": 0.4240881960721847,
+    "mean_hyp_mass": 0.885574238623182,
+    "std_hyp_mass": 0.14669405401036267
+  },
+  "L10_H4": {
+    "layer": 10,
+    "head": 4,
+    "topology": {
+      "total_simplices": 208715,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.6257754462460677,
+    "std_entropy": 0.5711627155913538,
+    "mean_hyp_mass": 0.9914089148243268,
+    "std_hyp_mass": 0.0492113669398087
+  },
+  "L10_H5": {
+    "layer": 10,
+    "head": 5,
+    "topology": {
+      "total_simplices": 178760,
+      "h0": 6,
+      "h1": 2
+    },
+    "mean_entropy": 2.182646787083811,
+    "std_entropy": 0.2974938585980953,
+    "mean_hyp_mass": 0.6216289059530633,
+    "std_hyp_mass": 0.2303853817184652
+  },
+  "L10_H6": {
+    "layer": 10,
+    "head": 6,
+    "topology": {
+      "total_simplices": 151580,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.40768341918786366,
+    "std_entropy": 0.09057006639546933,
+    "mean_hyp_mass": 0.019493038767379605,
+    "std_hyp_mass": 0.049083074249359517
+  },
+  "L10_H7": {
+    "layer": 10,
+    "head": 7,
+    "topology": {
+      "total_simplices": 240161,
+      "h0": 6,
+      "h1": 3
+    },
+    "mean_entropy": 2.6152901427613364,
+    "std_entropy": 0.1877854719194794,
+    "mean_hyp_mass": 0.4183596315069331,
+    "std_hyp_mass": 0.09732427302104078
+  },
+  "L10_H8": {
+    "layer": 10,
+    "head": 8,
+    "topology": {
+      "total_simplices": 260569,
+      "h0": 72,
+      "h1": 0
+    },
+    "mean_entropy": 1.5468471960475048,
+    "std_entropy": 0.3617848214085311,
+    "mean_hyp_mass": 0.041087928713144116,
+    "std_hyp_mass": 0.014494391732887923
+  },
+  "L10_H9": {
+    "layer": 10,
+    "head": 9,
+    "topology": {
+      "total_simplices": 230364,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 2.081585164533721,
+    "std_entropy": 0.6127853940918077,
+    "mean_hyp_mass": 0.05042584380911042,
+    "std_hyp_mass": 0.07890833394584035
+  },
+  "L10_H10": {
+    "layer": 10,
+    "head": 10,
+    "topology": {
+      "total_simplices": 267084,
+      "h0": 63,
+      "h1": 0
+    },
+    "mean_entropy": 3.1404463031225736,
+    "std_entropy": 0.33107351960450765,
+    "mean_hyp_mass": 0.5202580803384383,
+    "std_hyp_mass": 0.10876634692588229
+  },
+  "L10_H11": {
+    "layer": 10,
+    "head": 11,
+    "topology": {
+      "total_simplices": 174716,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 2.8475776915748914,
+    "std_entropy": 0.22526042134257782,
+    "mean_hyp_mass": 0.8018757382097343,
+    "std_hyp_mass": 0.11787935073973542
+  },
+  "L10_H12": {
+    "layer": 10,
+    "head": 12,
+    "topology": {
+      "total_simplices": 256352,
+      "h0": 14,
+      "h1": 0
+    },
+    "mean_entropy": 0.8884949488565326,
+    "std_entropy": 0.5440657442549351,
+    "mean_hyp_mass": 0.993339722414708,
+    "std_hyp_mass": 0.052152149973713424
+  },
+  "L10_H13": {
+    "layer": 10,
+    "head": 13,
+    "topology": {
+      "total_simplices": 190651,
+      "h0": 11,
+      "h1": 4
+    },
+    "mean_entropy": 3.574824660188622,
+    "std_entropy": 0.3193691355399227,
+    "mean_hyp_mass": 0.13892230729106814,
+    "std_hyp_mass": 0.0994530731343189
+  },
+  "L11_H0": {
+    "layer": 11,
+    "head": 0,
+    "topology": {
+      "total_simplices": 282119,
+      "h0": 19,
+      "h1": 1
+    },
+    "mean_entropy": 1.5138379893369145,
+    "std_entropy": 0.5707945197025018,
+    "mean_hyp_mass": 0.28917027217426544,
+    "std_hyp_mass": 0.1736852961277182
+  },
+  "L11_H1": {
+    "layer": 11,
+    "head": 1,
+    "topology": {
+      "total_simplices": 236336,
+      "h0": 17,
+      "h1": 0
+    },
+    "mean_entropy": 1.2532114912755787,
+    "std_entropy": 0.366014100101457,
+    "mean_hyp_mass": 0.0014014841752216492,
+    "std_hyp_mass": 0.0031530135667809153
+  },
+  "L11_H2": {
+    "layer": 11,
+    "head": 2,
+    "topology": {
+      "total_simplices": 227976,
+      "h0": 10,
+      "h1": 0
+    },
+    "mean_entropy": 1.416587324668136,
+    "std_entropy": 0.33160675663759315,
+    "mean_hyp_mass": 0.03185833397589401,
+    "std_hyp_mass": 0.05020231996125481
+  },
+  "L11_H3": {
+    "layer": 11,
+    "head": 3,
+    "topology": {
+      "total_simplices": 319045,
+      "h0": 107,
+      "h1": 0
+    },
+    "mean_entropy": 1.9089189059204525,
+    "std_entropy": 0.36785868364496827,
+    "mean_hyp_mass": 0.040065653373797736,
+    "std_hyp_mass": 0.01599022211825943
+  },
+  "L11_H4": {
+    "layer": 11,
+    "head": 4,
+    "topology": {
+      "total_simplices": 370706,
+      "h0": 144,
+      "h1": 0
+    },
+    "mean_entropy": 0.9317486562248734,
+    "std_entropy": 0.5981889564028149,
+    "mean_hyp_mass": 0.048598818242640444,
+    "std_hyp_mass": 0.0452451420073104
+  },
+  "L11_H5": {
+    "layer": 11,
+    "head": 5,
+    "topology": {
+      "total_simplices": 275940,
+      "h0": 61,
+      "h1": 2
+    },
+    "mean_entropy": 2.702845724258158,
+    "std_entropy": 0.24899434423535374,
+    "mean_hyp_mass": 0.30521747772323177,
+    "std_hyp_mass": 0.09108617410583936
+  },
+  "L11_H6": {
+    "layer": 11,
+    "head": 6,
+    "topology": {
+      "total_simplices": 305165,
+      "h0": 46,
+      "h1": 1
+    },
+    "mean_entropy": 2.7494012733300526,
+    "std_entropy": 0.6810260372818838,
+    "mean_hyp_mass": 0.11770780245359573,
+    "std_hyp_mass": 0.06265130988320426
+  },
+  "L11_H7": {
+    "layer": 11,
+    "head": 7,
+    "topology": {
+      "total_simplices": 199886,
+      "h0": 41,
+      "h1": 0
+    },
+    "mean_entropy": 0.008018493201113112,
+    "std_entropy": 0.004881214072478916,
+    "mean_hyp_mass": 1.1490453436143374e-05,
+    "std_hyp_mass": 1.0584953037868454e-05
+  },
+  "L11_H8": {
+    "layer": 11,
+    "head": 8,
+    "topology": {
+      "total_simplices": 233703,
+      "h0": 36,
+      "h1": 1
+    },
+    "mean_entropy": 1.5811864246924718,
+    "std_entropy": 0.36708828800575666,
+    "mean_hyp_mass": 0.06707293877908442,
+    "std_hyp_mass": 0.03479891442347769
+  },
+  "L11_H9": {
+    "layer": 11,
+    "head": 9,
+    "topology": {
+      "total_simplices": 210071,
+      "h0": 30,
+      "h1": 2
+    },
+    "mean_entropy": 0.07358486529620778,
+    "std_entropy": 0.19127405165916564,
+    "mean_hyp_mass": 0.0004926861720829518,
+    "std_hyp_mass": 0.001182742301581347
+  },
+  "L11_H10": {
+    "layer": 11,
+    "head": 10,
+    "topology": {
+      "total_simplices": 302390,
+      "h0": 121,
+      "h1": 0
+    },
+    "mean_entropy": 0.8652243091414372,
+    "std_entropy": 0.4819971930639585,
+    "mean_hyp_mass": 0.05107996312565067,
+    "std_hyp_mass": 0.051466925948134935
+  },
+  "L11_H11": {
+    "layer": 11,
+    "head": 11,
+    "topology": {
+      "total_simplices": 214828,
+      "h0": 25,
+      "h1": 0
+    },
+    "mean_entropy": 0.0007593006418776187,
+    "std_entropy": 0.00046923268433223913,
+    "mean_hyp_mass": 1.8457416349784397e-06,
+    "std_hyp_mass": 1.4426599590239205e-06
+  },
+  "L11_H12": {
+    "layer": 11,
+    "head": 12,
+    "topology": {
+      "total_simplices": 293140,
+      "h0": 96,
+      "h1": 0
+    },
+    "mean_entropy": 1.0322023172759347,
+    "std_entropy": 0.3586258263631047,
+    "mean_hyp_mass": 0.04302443678283857,
+    "std_hyp_mass": 0.034314037331404534
+  },
+  "L11_H13": {
+    "layer": 11,
+    "head": 13,
+    "topology": {
+      "total_simplices": 221699,
+      "h0": 32,
+      "h1": 3
+    },
+    "mean_entropy": 0.010362231632926624,
+    "std_entropy": 0.0072720562476367295,
+    "mean_hyp_mass": 1.0967223018434583e-05,
+    "std_hyp_mass": 9.331627926496533e-06
+  },
+  "L12_H0": {
+    "layer": 12,
+    "head": 0,
+    "topology": {
+      "total_simplices": 148438,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.0635978042277404,
+    "std_entropy": 0.05750635639785465,
+    "mean_hyp_mass": 0.003945294567039228,
+    "std_hyp_mass": 0.05272724481580973
+  },
+  "L12_H1": {
+    "layer": 12,
+    "head": 1,
+    "topology": {
+      "total_simplices": 253816,
+      "h0": 92,
+      "h1": 0
+    },
+    "mean_entropy": 3.1347921709219615,
+    "std_entropy": 1.3636942548372946,
+    "mean_hyp_mass": 0.028186874349032425,
+    "std_hyp_mass": 0.024077597275446946
+  },
+  "L12_H2": {
+    "layer": 12,
+    "head": 2,
+    "topology": {
+      "total_simplices": 263195,
+      "h0": 22,
+      "h1": 2
+    },
+    "mean_entropy": 2.1047790910220807,
+    "std_entropy": 0.4065376451607925,
+    "mean_hyp_mass": 0.40135544781159194,
+    "std_hyp_mass": 0.22286267132099732
+  },
+  "L12_H3": {
+    "layer": 12,
+    "head": 3,
+    "topology": {
+      "total_simplices": 260375,
+      "h0": 19,
+      "h1": 1
+    },
+    "mean_entropy": 1.5269235521451467,
+    "std_entropy": 0.7950971623629509,
+    "mean_hyp_mass": 0.01007572385739574,
+    "std_hyp_mass": 0.0180156547914455
+  },
+  "L12_H4": {
+    "layer": 12,
+    "head": 4,
+    "topology": {
+      "total_simplices": 187739,
+      "h0": 34,
+      "h1": 1
+    },
+    "mean_entropy": 2.4977387209733326,
+    "std_entropy": 0.3012719899556807,
+    "mean_hyp_mass": 0.3515541228569216,
+    "std_hyp_mass": 0.07119153866094517
+  },
+  "L12_H5": {
+    "layer": 12,
+    "head": 5,
+    "topology": {
+      "total_simplices": 256320,
+      "h0": 89,
+      "h1": 0
+    },
+    "mean_entropy": 2.6515807804961997,
+    "std_entropy": 0.9639231894031532,
+    "mean_hyp_mass": 0.12423000448971935,
+    "std_hyp_mass": 0.09963965425358773
+  },
+  "L12_H6": {
+    "layer": 12,
+    "head": 6,
+    "topology": {
+      "total_simplices": 185489,
+      "h0": 3,
+      "h1": 3
+    },
+    "mean_entropy": 2.6294767648809487,
+    "std_entropy": 0.4388852025171944,
+    "mean_hyp_mass": 0.33127984918860925,
+    "std_hyp_mass": 0.1047442134817322
+  },
+  "L12_H7": {
+    "layer": 12,
+    "head": 7,
+    "topology": {
+      "total_simplices": 172267,
+      "h0": 2,
+      "h1": 2
+    },
+    "mean_entropy": 2.947969439294603,
+    "std_entropy": 0.17187101154637197,
+    "mean_hyp_mass": 0.8714747261669901,
+    "std_hyp_mass": 0.054132315146838195
+  },
+  "L12_H8": {
+    "layer": 12,
+    "head": 8,
+    "topology": {
+      "total_simplices": 177459,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 2.4915312776962915,
+    "std_entropy": 0.22183036466503328,
+    "mean_hyp_mass": 0.5537028613189856,
+    "std_hyp_mass": 0.12527260205783336
+  },
+  "L12_H9": {
+    "layer": 12,
+    "head": 9,
+    "topology": {
+      "total_simplices": 289173,
+      "h0": 17,
+      "h1": 4
+    },
+    "mean_entropy": 2.0788784437709387,
+    "std_entropy": 0.29931809051529495,
+    "mean_hyp_mass": 0.47089488398697643,
+    "std_hyp_mass": 0.10277898940193933
+  },
+  "L12_H10": {
+    "layer": 12,
+    "head": 10,
+    "topology": {
+      "total_simplices": 167768,
+      "h0": 2,
+      "h1": 0
+    },
+    "mean_entropy": 2.8157757259077494,
+    "std_entropy": 0.1978103305143784,
+    "mean_hyp_mass": 0.6944600358605385,
+    "std_hyp_mass": 0.09064683661510838
+  },
+  "L12_H11": {
+    "layer": 12,
+    "head": 11,
+    "topology": {
+      "total_simplices": 312991,
+      "h0": 70,
+      "h1": 3
+    },
+    "mean_entropy": 2.197542041540146,
+    "std_entropy": 0.3150652485321177,
+    "mean_hyp_mass": 0.49808872770518064,
+    "std_hyp_mass": 0.21639015441153703
+  },
+  "L12_H12": {
+    "layer": 12,
+    "head": 12,
+    "topology": {
+      "total_simplices": 172268,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 2.6990140984455744,
+    "std_entropy": 0.1871578451894732,
+    "mean_hyp_mass": 0.7235106621351507,
+    "std_hyp_mass": 0.10497638191361762
+  },
+  "L12_H13": {
+    "layer": 12,
+    "head": 13,
+    "topology": {
+      "total_simplices": 203490,
+      "h0": 11,
+      "h1": 0
+    },
+    "mean_entropy": 3.2690579430924522,
+    "std_entropy": 0.2734747268628539,
+    "mean_hyp_mass": 0.8207167647365067,
+    "std_hyp_mass": 0.07446693846182774
+  },
+  "L13_H0": {
+    "layer": 13,
+    "head": 0,
+    "topology": {
+      "total_simplices": 195708,
+      "h0": 19,
+      "h1": 1
+    },
+    "mean_entropy": 1.858431997915937,
+    "std_entropy": 0.6641715013268256,
+    "mean_hyp_mass": 0.024810654387667656,
+    "std_hyp_mass": 0.03046471296822512
+  },
+  "L13_H1": {
+    "layer": 13,
+    "head": 1,
+    "topology": {
+      "total_simplices": 340454,
+      "h0": 38,
+      "h1": 1
+    },
+    "mean_entropy": 0.887976864973704,
+    "std_entropy": 0.18462755779201853,
+    "mean_hyp_mass": 0.03669427075106392,
+    "std_hyp_mass": 0.024446720364770864
+  },
+  "L13_H2": {
+    "layer": 13,
+    "head": 2,
+    "topology": {
+      "total_simplices": 266549,
+      "h0": 42,
+      "h1": 4
+    },
+    "mean_entropy": 0.3602864562689016,
+    "std_entropy": 0.26596318753417636,
+    "mean_hyp_mass": 0.004273175658171466,
+    "std_hyp_mass": 0.006264283206794135
+  },
+  "L13_H3": {
+    "layer": 13,
+    "head": 3,
+    "topology": {
+      "total_simplices": 244562,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.874075770460897,
+    "std_entropy": 0.11294514667874847,
+    "mean_hyp_mass": 0.03740239794650632,
+    "std_hyp_mass": 0.05115583547817469
+  },
+  "L13_H4": {
+    "layer": 13,
+    "head": 4,
+    "topology": {
+      "total_simplices": 300954,
+      "h0": 21,
+      "h1": 0
+    },
+    "mean_entropy": 1.8106065998474756,
+    "std_entropy": 0.23656993435247373,
+    "mean_hyp_mass": 0.16267641724633802,
+    "std_hyp_mass": 0.10717641755577077
+  },
+  "L13_H5": {
+    "layer": 13,
+    "head": 5,
+    "topology": {
+      "total_simplices": 270551,
+      "h0": 41,
+      "h1": 2
+    },
+    "mean_entropy": 2.3933500172777307,
+    "std_entropy": 0.6648893909402585,
+    "mean_hyp_mass": 0.048910457577989695,
+    "std_hyp_mass": 0.023989321123436245
+  },
+  "L13_H6": {
+    "layer": 13,
+    "head": 6,
+    "topology": {
+      "total_simplices": 178171,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 2.853336883046561,
+    "std_entropy": 0.8246613439591214,
+    "mean_hyp_mass": 0.06827370356186294,
+    "std_hyp_mass": 0.042886360391384534
+  },
+  "L13_H7": {
+    "layer": 13,
+    "head": 7,
+    "topology": {
+      "total_simplices": 176288,
+      "h0": 9,
+      "h1": 1
+    },
+    "mean_entropy": 2.498907117297252,
+    "std_entropy": 0.6404542278451149,
+    "mean_hyp_mass": 0.03645894761300749,
+    "std_hyp_mass": 0.01531167411343084
+  },
+  "L13_H8": {
+    "layer": 13,
+    "head": 8,
+    "topology": {
+      "total_simplices": 225189,
+      "h0": 26,
+      "h1": 2
+    },
+    "mean_entropy": 0.7158491272556906,
+    "std_entropy": 0.3746421954262747,
+    "mean_hyp_mass": 0.0007085001762334286,
+    "std_hyp_mass": 0.000947237322590686
+  },
+  "L13_H9": {
+    "layer": 13,
+    "head": 9,
+    "topology": {
+      "total_simplices": 318756,
+      "h0": 134,
+      "h1": 1
+    },
+    "mean_entropy": 0.5904876388195488,
+    "std_entropy": 0.26632675449548643,
+    "mean_hyp_mass": 0.013870292739173035,
+    "std_hyp_mass": 0.01779228105067083
+  },
+  "L13_H10": {
+    "layer": 13,
+    "head": 10,
+    "topology": {
+      "total_simplices": 226103,
+      "h0": 28,
+      "h1": 2
+    },
+    "mean_entropy": 1.935210483438439,
+    "std_entropy": 0.29737349334433605,
+    "mean_hyp_mass": 0.21958664620502127,
+    "std_hyp_mass": 0.0688409500117955
+  },
+  "L13_H11": {
+    "layer": 13,
+    "head": 11,
+    "topology": {
+      "total_simplices": 261960,
+      "h0": 74,
+      "h1": 0
+    },
+    "mean_entropy": 0.5722017624311977,
+    "std_entropy": 0.3225569277999979,
+    "mean_hyp_mass": 0.020522055863532136,
+    "std_hyp_mass": 0.01809785183329207
+  },
+  "L13_H12": {
+    "layer": 13,
+    "head": 12,
+    "topology": {
+      "total_simplices": 238429,
+      "h0": 51,
+      "h1": 3
+    },
+    "mean_entropy": 0.862652778170175,
+    "std_entropy": 0.26218954282516616,
+    "mean_hyp_mass": 0.005092075732277913,
+    "std_hyp_mass": 0.005686285944298052
+  },
+  "L13_H13": {
+    "layer": 13,
+    "head": 13,
+    "topology": {
+      "total_simplices": 251215,
+      "h0": 1,
+      "h1": 1
+    },
+    "mean_entropy": 1.797476188879874,
+    "std_entropy": 0.611551764348479,
+    "mean_hyp_mass": 0.0070076519953646416,
+    "std_hyp_mass": 0.012918234377467435
+  },
+  "L14_H0": {
+    "layer": 14,
+    "head": 0,
+    "topology": {
+      "total_simplices": 241901,
+      "h0": 5,
+      "h1": 2
+    },
+    "mean_entropy": 2.3990810667475064,
+    "std_entropy": 0.37942676458529606,
+    "mean_hyp_mass": 0.32111941346277795,
+    "std_hyp_mass": 0.12099665024835919
+  },
+  "L14_H1": {
+    "layer": 14,
+    "head": 1,
+    "topology": {
+      "total_simplices": 211416,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.606239804915256,
+    "std_entropy": 0.1529617802757024,
+    "mean_hyp_mass": 0.0240937486769528,
+    "std_hyp_mass": 0.049955992008101545
+  },
+  "L14_H2": {
+    "layer": 14,
+    "head": 2,
+    "topology": {
+      "total_simplices": 327826,
+      "h0": 10,
+      "h1": 0
+    },
+    "mean_entropy": 2.003916924695174,
+    "std_entropy": 0.20149401898725425,
+    "mean_hyp_mass": 0.18132777819409968,
+    "std_hyp_mass": 0.044085079300149155
+  },
+  "L14_H3": {
+    "layer": 14,
+    "head": 3,
+    "topology": {
+      "total_simplices": 225848,
+      "h0": 20,
+      "h1": 0
+    },
+    "mean_entropy": 2.535745811296834,
+    "std_entropy": 0.7657511960091304,
+    "mean_hyp_mass": 0.0922442299585479,
+    "std_hyp_mass": 0.05526456563896157
+  },
+  "L14_H4": {
+    "layer": 14,
+    "head": 4,
+    "topology": {
+      "total_simplices": 287299,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 2.116284990227885,
+    "std_entropy": 0.47280734636670657,
+    "mean_hyp_mass": 0.08570269689791732,
+    "std_hyp_mass": 0.03516304687872592
+  },
+  "L14_H5": {
+    "layer": 14,
+    "head": 5,
+    "topology": {
+      "total_simplices": 212157,
+      "h0": 4,
+      "h1": 0
+    },
+    "mean_entropy": 1.9755805158780682,
+    "std_entropy": 0.28227855542405167,
+    "mean_hyp_mass": 0.2717629466076485,
+    "std_hyp_mass": 0.13564974439156868
+  },
+  "L14_H6": {
+    "layer": 14,
+    "head": 6,
+    "topology": {
+      "total_simplices": 227094,
+      "h0": 19,
+      "h1": 7
+    },
+    "mean_entropy": 0.7506104682468706,
+    "std_entropy": 0.3123415616742112,
+    "mean_hyp_mass": 0.06115542523718129,
+    "std_hyp_mass": 0.03872977323592113
+  },
+  "L14_H7": {
+    "layer": 14,
+    "head": 7,
+    "topology": {
+      "total_simplices": 322180,
+      "h0": 107,
+      "h1": 0
+    },
+    "mean_entropy": 2.177732519308726,
+    "std_entropy": 0.6558906792037362,
+    "mean_hyp_mass": 0.15912202175499665,
+    "std_hyp_mass": 0.10578996431436505
+  },
+  "L14_H8": {
+    "layer": 14,
+    "head": 8,
+    "topology": {
+      "total_simplices": 296461,
+      "h0": 95,
+      "h1": 0
+    },
+    "mean_entropy": 1.6660190999507904,
+    "std_entropy": 0.21631833369628858,
+    "mean_hyp_mass": 0.06674924016826683,
+    "std_hyp_mass": 0.032718894113336255
+  },
+  "L14_H9": {
+    "layer": 14,
+    "head": 9,
+    "topology": {
+      "total_simplices": 308129,
+      "h0": 80,
+      "h1": 2
+    },
+    "mean_entropy": 1.907027261207501,
+    "std_entropy": 0.8094618328047037,
+    "mean_hyp_mass": 0.021382572997794745,
+    "std_hyp_mass": 0.019946372727467555
+  },
+  "L14_H10": {
+    "layer": 14,
+    "head": 10,
+    "topology": {
+      "total_simplices": 149540,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.2498388497883247,
+    "std_entropy": 0.09206662908346004,
+    "mean_hyp_mass": 0.00938576750534897,
+    "std_hyp_mass": 0.051449940419040614
+  },
+  "L14_H11": {
+    "layer": 14,
+    "head": 11,
+    "topology": {
+      "total_simplices": 193080,
+      "h0": 9,
+      "h1": 1
+    },
+    "mean_entropy": 2.3897740306125748,
+    "std_entropy": 0.3385932484723106,
+    "mean_hyp_mass": 0.2546790257199771,
+    "std_hyp_mass": 0.09386771315337013
+  },
+  "L14_H12": {
+    "layer": 14,
+    "head": 12,
+    "topology": {
+      "total_simplices": 312849,
+      "h0": 112,
+      "h1": 0
+    },
+    "mean_entropy": 3.292504771798849,
+    "std_entropy": 1.1798347405886986,
+    "mean_hyp_mass": 0.03997779436629369,
+    "std_hyp_mass": 0.03954721593193661
+  },
+  "L14_H13": {
+    "layer": 14,
+    "head": 13,
+    "topology": {
+      "total_simplices": 331449,
+      "h0": 92,
+      "h1": 0
+    },
+    "mean_entropy": 2.3746157796225615,
+    "std_entropy": 0.9854097770612331,
+    "mean_hyp_mass": 0.24903518809458344,
+    "std_hyp_mass": 0.21830141395871225
+  },
+  "L15_H0": {
+    "layer": 15,
+    "head": 0,
+    "topology": {
+      "total_simplices": 253691,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 1.8751211480547985,
+    "std_entropy": 0.4389197772030754,
+    "mean_hyp_mass": 0.48173059539363344,
+    "std_hyp_mass": 0.2993787281834948
+  },
+  "L15_H1": {
+    "layer": 15,
+    "head": 1,
+    "topology": {
+      "total_simplices": 279477,
+      "h0": 50,
+      "h1": 0
+    },
+    "mean_entropy": 2.9414021559887464,
+    "std_entropy": 0.4684429400175436,
+    "mean_hyp_mass": 0.19371622696829338,
+    "std_hyp_mass": 0.07874522563228509
+  },
+  "L15_H2": {
+    "layer": 15,
+    "head": 2,
+    "topology": {
+      "total_simplices": 323026,
+      "h0": 3,
+      "h1": 0
+    },
+    "mean_entropy": 0.9355341320236524,
+    "std_entropy": 0.16361444874447026,
+    "mean_hyp_mass": 0.11636090007507138,
+    "std_hyp_mass": 0.06125533898237234
+  },
+  "L15_H3": {
+    "layer": 15,
+    "head": 3,
+    "topology": {
+      "total_simplices": 306681,
+      "h0": 7,
+      "h1": 0
+    },
+    "mean_entropy": 1.3421794386373627,
+    "std_entropy": 0.16185106030524915,
+    "mean_hyp_mass": 0.06932144619317518,
+    "std_hyp_mass": 0.029351629603714992
+  },
+  "L15_H4": {
+    "layer": 15,
+    "head": 4,
+    "topology": {
+      "total_simplices": 276305,
+      "h0": 18,
+      "h1": 2
+    },
+    "mean_entropy": 2.167590928077698,
+    "std_entropy": 0.39880498910859524,
+    "mean_hyp_mass": 0.621400532943921,
+    "std_hyp_mass": 0.1552697556887632
+  },
+  "L15_H5": {
+    "layer": 15,
+    "head": 5,
+    "topology": {
+      "total_simplices": 301565,
+      "h0": 3,
+      "h1": 12
+    },
+    "mean_entropy": 1.5059518574012651,
+    "std_entropy": 0.4001053693079024,
+    "mean_hyp_mass": 0.17394321404475097,
+    "std_hyp_mass": 0.13956220799735392
+  },
+  "L15_H6": {
+    "layer": 15,
+    "head": 6,
+    "topology": {
+      "total_simplices": 238986,
+      "h0": 39,
+      "h1": 0
+    },
+    "mean_entropy": 2.116161663995849,
+    "std_entropy": 0.5978923839598307,
+    "mean_hyp_mass": 0.08134240306939723,
+    "std_hyp_mass": 0.058157108380009606
+  },
+  "L15_H7": {
+    "layer": 15,
+    "head": 7,
+    "topology": {
+      "total_simplices": 227208,
+      "h0": 9,
+      "h1": 4
+    },
+    "mean_entropy": 2.636024845308728,
+    "std_entropy": 0.6820467237466707,
+    "mean_hyp_mass": 0.14037880437616776,
+    "std_hyp_mass": 0.10771512112011163
+  },
+  "L15_H8": {
+    "layer": 15,
+    "head": 8,
+    "topology": {
+      "total_simplices": 246937,
+      "h0": 39,
+      "h1": 1
+    },
+    "mean_entropy": 2.4140382241871623,
+    "std_entropy": 0.47786828681781146,
+    "mean_hyp_mass": 0.08448481528709333,
+    "std_hyp_mass": 0.09676370981423806
+  },
+  "L15_H9": {
+    "layer": 15,
+    "head": 9,
+    "topology": {
+      "total_simplices": 246290,
+      "h0": 38,
+      "h1": 0
+    },
+    "mean_entropy": 2.149020653942393,
+    "std_entropy": 0.5970028534409307,
+    "mean_hyp_mass": 0.03133395185281592,
+    "std_hyp_mass": 0.031279382698313124
+  },
+  "L15_H10": {
+    "layer": 15,
+    "head": 10,
+    "topology": {
+      "total_simplices": 220043,
+      "h0": 21,
+      "h1": 0
+    },
+    "mean_entropy": 0.6167978551859657,
+    "std_entropy": 0.17251640092014633,
+    "mean_hyp_mass": 0.021044074531851545,
+    "std_hyp_mass": 0.020391850988586386
+  },
+  "L15_H11": {
+    "layer": 15,
+    "head": 11,
+    "topology": {
+      "total_simplices": 273424,
+      "h0": 77,
+      "h1": 0
+    },
+    "mean_entropy": 0.6564020485099819,
+    "std_entropy": 0.21658704797565975,
+    "mean_hyp_mass": 0.03028112621460524,
+    "std_hyp_mass": 0.01974180542129369
+  },
+  "L15_H12": {
+    "layer": 15,
+    "head": 12,
+    "topology": {
+      "total_simplices": 333479,
+      "h0": 38,
+      "h1": 3
+    },
+    "mean_entropy": 0.6443457521084283,
+    "std_entropy": 0.3898000119646989,
+    "mean_hyp_mass": 0.0007666885684355091,
+    "std_hyp_mass": 0.0004803802102211611
+  },
+  "L15_H13": {
+    "layer": 15,
+    "head": 13,
+    "topology": {
+      "total_simplices": 203300,
+      "h0": 4,
+      "h1": 3
+    },
+    "mean_entropy": 2.1071302459885675,
+    "std_entropy": 0.820745345584627,
+    "mean_hyp_mass": 0.029792615464329073,
+    "std_hyp_mass": 0.017489004212427176
+  },
+  "L16_H0": {
+    "layer": 16,
+    "head": 0,
+    "topology": {
+      "total_simplices": 307235,
+      "h0": 125,
+      "h1": 0
+    },
+    "mean_entropy": 1.147939455703373,
+    "std_entropy": 1.0360538057548112,
+    "mean_hyp_mass": 0.04834658055489314,
+    "std_hyp_mass": 0.07174226307329716
+  },
+  "L16_H1": {
+    "layer": 16,
+    "head": 1,
+    "topology": {
+      "total_simplices": 283465,
+      "h0": 51,
+      "h1": 0
+    },
+    "mean_entropy": 0.0034138231835236688,
+    "std_entropy": 0.003824170747565264,
+    "mean_hyp_mass": 1.0747418334691419e-05,
+    "std_hyp_mass": 2.7819752205598626e-05
+  },
+  "L16_H2": {
+    "layer": 16,
+    "head": 2,
+    "topology": {
+      "total_simplices": 342115,
+      "h0": 127,
+      "h1": 0
+    },
+    "mean_entropy": 0.09708042656162029,
+    "std_entropy": 0.08775614718697683,
+    "mean_hyp_mass": 0.00046564054004703966,
+    "std_hyp_mass": 0.0032484036763213153
+  },
+  "L16_H3": {
+    "layer": 16,
+    "head": 3,
+    "topology": {
+      "total_simplices": 365108,
+      "h0": 125,
+      "h1": 0
+    },
+    "mean_entropy": 0.14630830815294757,
+    "std_entropy": 0.27272005185610354,
+    "mean_hyp_mass": 7.94019329452864e-05,
+    "std_hyp_mass": 0.00023336253794263982
+  },
+  "L16_H4": {
+    "layer": 16,
+    "head": 4,
+    "topology": {
+      "total_simplices": 278435,
+      "h0": 70,
+      "h1": 4
+    },
+    "mean_entropy": 0.031171758578097473,
+    "std_entropy": 0.08503023302848094,
+    "mean_hyp_mass": 0.0015428818123460531,
+    "std_hyp_mass": 0.026706001590340162
+  },
+  "L16_H5": {
+    "layer": 16,
+    "head": 5,
+    "topology": {
+      "total_simplices": 318897,
+      "h0": 122,
+      "h1": 0
+    },
+    "mean_entropy": 0.23577694629914023,
+    "std_entropy": 0.3271111964157077,
+    "mean_hyp_mass": 0.006975938724205359,
+    "std_hyp_mass": 0.02183030722652899
+  },
+  "L16_H6": {
+    "layer": 16,
+    "head": 6,
+    "topology": {
+      "total_simplices": 336039,
+      "h0": 131,
+      "h1": 0
+    },
+    "mean_entropy": 0.23413460808094694,
+    "std_entropy": 0.2776462441770127,
+    "mean_hyp_mass": 0.0012215855828199235,
+    "std_hyp_mass": 0.002250373773046306
+  },
+  "L16_H7": {
+    "layer": 16,
+    "head": 7,
+    "topology": {
+      "total_simplices": 278868,
+      "h0": 106,
+      "h1": 0
+    },
+    "mean_entropy": 1.1334742879495026,
+    "std_entropy": 0.8221281344923523,
+    "mean_hyp_mass": 0.021143134885076305,
+    "std_hyp_mass": 0.024306430708124858
+  },
+  "L16_H8": {
+    "layer": 16,
+    "head": 8,
+    "topology": {
+      "total_simplices": 296858,
+      "h0": 116,
+      "h1": 0
+    },
+    "mean_entropy": 2.2990538594416448,
+    "std_entropy": 0.7377268161792702,
+    "mean_hyp_mass": 0.11106566806847695,
+    "std_hyp_mass": 0.09134973313982361
+  },
+  "L16_H9": {
+    "layer": 16,
+    "head": 9,
+    "topology": {
+      "total_simplices": 273287,
+      "h0": 74,
+      "h1": 3
+    },
+    "mean_entropy": 0.05704181493428122,
+    "std_entropy": 0.06253557196564997,
+    "mean_hyp_mass": 0.00021799673954900654,
+    "std_hyp_mass": 0.0002711129513085624
+  },
+  "L16_H10": {
+    "layer": 16,
+    "head": 10,
+    "topology": {
+      "total_simplices": 309565,
+      "h0": 124,
+      "h1": 0
+    },
+    "mean_entropy": 0.9090673349797725,
+    "std_entropy": 0.5205236484706618,
+    "mean_hyp_mass": 0.06906540036822359,
+    "std_hyp_mass": 0.05741358977714186
+  },
+  "L16_H11": {
+    "layer": 16,
+    "head": 11,
+    "topology": {
+      "total_simplices": 279530,
+      "h0": 118,
+      "h1": 0
+    },
+    "mean_entropy": 2.606201140416993,
+    "std_entropy": 0.3853533031379082,
+    "mean_hyp_mass": 0.4101860053630339,
+    "std_hyp_mass": 0.2376359793128573
+  },
+  "L16_H12": {
+    "layer": 16,
+    "head": 12,
+    "topology": {
+      "total_simplices": 281745,
+      "h0": 76,
+      "h1": 0
+    },
+    "mean_entropy": 0.41305496054701507,
+    "std_entropy": 0.4620002301884404,
+    "mean_hyp_mass": 0.0018582162853514699,
+    "std_hyp_mass": 0.005303984608139618
+  },
+  "L16_H13": {
+    "layer": 16,
+    "head": 13,
+    "topology": {
+      "total_simplices": 236264,
+      "h0": 21,
+      "h1": 6
+    },
+    "mean_entropy": 3.148713680770662,
+    "std_entropy": 0.6129752939254266,
+    "mean_hyp_mass": 0.14221037294612163,
+    "std_hyp_mass": 0.05302105143415341
+  },
+  "L17_H0": {
+    "layer": 17,
+    "head": 0,
+    "topology": {
+      "total_simplices": 280212,
+      "h0": 111,
+      "h1": 0
+    },
+    "mean_entropy": 2.9513970808850396,
+    "std_entropy": 0.8414259422991353,
+    "mean_hyp_mass": 0.10925661613000556,
+    "std_hyp_mass": 0.11250990067188957
+  },
+  "L17_H1": {
+    "layer": 17,
+    "head": 1,
+    "topology": {
+      "total_simplices": 300317,
+      "h0": 113,
+      "h1": 0
+    },
+    "mean_entropy": 1.0569009293284681,
+    "std_entropy": 0.33820297035853414,
+    "mean_hyp_mass": 0.01837213214118189,
+    "std_hyp_mass": 0.03139537271551837
+  },
+  "L17_H2": {
+    "layer": 17,
+    "head": 2,
+    "topology": {
+      "total_simplices": 263463,
+      "h0": 70,
+      "h1": 0
+    },
+    "mean_entropy": 2.1371159197555647,
+    "std_entropy": 1.1295062198239887,
+    "mean_hyp_mass": 0.03188686068379967,
+    "std_hyp_mass": 0.025635056213400717
+  },
+  "L17_H3": {
+    "layer": 17,
+    "head": 3,
+    "topology": {
+      "total_simplices": 299047,
+      "h0": 109,
+      "h1": 0
+    },
+    "mean_entropy": 1.6213025737553834,
+    "std_entropy": 0.6541739022292609,
+    "mean_hyp_mass": 0.039217414086063704,
+    "std_hyp_mass": 0.023556070184344503
+  },
+  "L17_H4": {
+    "layer": 17,
+    "head": 4,
+    "topology": {
+      "total_simplices": 213018,
+      "h0": 42,
+      "h1": 0
+    },
+    "mean_entropy": 0.4766575517029398,
+    "std_entropy": 0.20162777532977658,
+    "mean_hyp_mass": 0.0043953660856156295,
+    "std_hyp_mass": 0.004073827613839731
+  },
+  "L17_H5": {
+    "layer": 17,
+    "head": 5,
+    "topology": {
+      "total_simplices": 272823,
+      "h0": 115,
+      "h1": 0
+    },
+    "mean_entropy": 0.3738796601485875,
+    "std_entropy": 0.1015112531828617,
+    "mean_hyp_mass": 0.0039829428981041325,
+    "std_hyp_mass": 0.0062428138924747025
+  },
+  "L17_H6": {
+    "layer": 17,
+    "head": 6,
+    "topology": {
+      "total_simplices": 269768,
+      "h0": 56,
+      "h1": 0
+    },
+    "mean_entropy": 0.3102209564608832,
+    "std_entropy": 0.14816944639836108,
+    "mean_hyp_mass": 0.0019485936598054347,
+    "std_hyp_mass": 0.002728151481660863
+  },
+  "L17_H7": {
+    "layer": 17,
+    "head": 7,
+    "topology": {
+      "total_simplices": 257588,
+      "h0": 16,
+      "h1": 2
+    },
+    "mean_entropy": 1.49328979867407,
+    "std_entropy": 0.5285486721686142,
+    "mean_hyp_mass": 0.02293426265785254,
+    "std_hyp_mass": 0.023072743060962915
+  },
+  "L17_H8": {
+    "layer": 17,
+    "head": 8,
+    "topology": {
+      "total_simplices": 299016,
+      "h0": 100,
+      "h1": 0
+    },
+    "mean_entropy": 1.0977646733944615,
+    "std_entropy": 0.31460394176560846,
+    "mean_hyp_mass": 0.034046104325534544,
+    "std_hyp_mass": 0.05067026866028776
+  },
+  "L17_H9": {
+    "layer": 17,
+    "head": 9,
+    "topology": {
+      "total_simplices": 302686,
+      "h0": 113,
+      "h1": 3
+    },
+    "mean_entropy": 0.7113497969177034,
+    "std_entropy": 0.34159768503466553,
+    "mean_hyp_mass": 0.05088052047778749,
+    "std_hyp_mass": 0.0253938849779397
+  },
+  "L17_H10": {
+    "layer": 17,
+    "head": 10,
+    "topology": {
+      "total_simplices": 288695,
+      "h0": 41,
+      "h1": 0
+    },
+    "mean_entropy": 0.1963541064566622,
+    "std_entropy": 0.12972580423545732,
+    "mean_hyp_mass": 0.004124201404435249,
+    "std_hyp_mass": 0.0027723217645813235
+  },
+  "L17_H11": {
+    "layer": 17,
+    "head": 11,
+    "topology": {
+      "total_simplices": 267793,
+      "h0": 93,
+      "h1": 0
+    },
+    "mean_entropy": 2.549661430219809,
+    "std_entropy": 0.41705904971752944,
+    "mean_hyp_mass": 0.13942997083067893,
+    "std_hyp_mass": 0.07017948929348275
+  },
+  "L17_H12": {
+    "layer": 17,
+    "head": 12,
+    "topology": {
+      "total_simplices": 331918,
+      "h0": 116,
+      "h1": 2
+    },
+    "mean_entropy": 1.8573289115809732,
+    "std_entropy": 0.6239224860811472,
+    "mean_hyp_mass": 0.11133245143776851,
+    "std_hyp_mass": 0.10197685725446104
+  },
+  "L17_H13": {
+    "layer": 17,
+    "head": 13,
+    "topology": {
+      "total_simplices": 221535,
+      "h0": 28,
+      "h1": 5
+    },
+    "mean_entropy": 0.2600591965847545,
+    "std_entropy": 0.1139542717163396,
+    "mean_hyp_mass": 0.004337957516205885,
+    "std_hyp_mass": 0.004536383163357481
+  },
+  "L18_H0": {
+    "layer": 18,
+    "head": 0,
+    "topology": {
+      "total_simplices": 335855,
+      "h0": 112,
+      "h1": 0
+    },
+    "mean_entropy": 0.8744888290762901,
+    "std_entropy": 0.19594473683761884,
+    "mean_hyp_mass": 0.03344025222241827,
+    "std_hyp_mass": 0.051111822424336185
+  },
+  "L18_H1": {
+    "layer": 18,
+    "head": 1,
+    "topology": {
+      "total_simplices": 261828,
+      "h0": 83,
+      "h1": 0
+    },
+    "mean_entropy": 0.9327528874079386,
+    "std_entropy": 0.2672164074461884,
+    "mean_hyp_mass": 0.003085967255543033,
+    "std_hyp_mass": 0.0036719343076250304
+  },
+  "L18_H2": {
+    "layer": 18,
+    "head": 2,
+    "topology": {
+      "total_simplices": 258496,
+      "h0": 16,
+      "h1": 0
+    },
+    "mean_entropy": 0.40527183428510194,
+    "std_entropy": 0.2537644498752067,
+    "mean_hyp_mass": 0.00817412700618863,
+    "std_hyp_mass": 0.0064214834203756045
+  },
+  "L18_H3": {
+    "layer": 18,
+    "head": 3,
+    "topology": {
+      "total_simplices": 308556,
+      "h0": 25,
+      "h1": 3
+    },
+    "mean_entropy": 0.4685036071886619,
+    "std_entropy": 0.09811476170745244,
+    "mean_hyp_mass": 0.00785559861235217,
+    "std_hyp_mass": 0.00362326744043027
+  },
+  "L18_H4": {
+    "layer": 18,
+    "head": 4,
+    "topology": {
+      "total_simplices": 307916,
+      "h0": 83,
+      "h1": 0
+    },
+    "mean_entropy": 0.9327311664612756,
+    "std_entropy": 0.39808927952181256,
+    "mean_hyp_mass": 0.030100542964646593,
+    "std_hyp_mass": 0.03574963983821637
+  },
+  "L18_H5": {
+    "layer": 18,
+    "head": 5,
+    "topology": {
+      "total_simplices": 335952,
+      "h0": 129,
+      "h1": 0
+    },
+    "mean_entropy": 1.1955821697910627,
+    "std_entropy": 0.258893857555039,
+    "mean_hyp_mass": 0.04051458732186196,
+    "std_hyp_mass": 0.03246647809305473
+  },
+  "L18_H6": {
+    "layer": 18,
+    "head": 6,
+    "topology": {
+      "total_simplices": 255045,
+      "h0": 78,
+      "h1": 0
+    },
+    "mean_entropy": 2.282288964672221,
+    "std_entropy": 0.8675238064338138,
+    "mean_hyp_mass": 0.02827783840071384,
+    "std_hyp_mass": 0.027477744137872313
+  },
+  "L18_H7": {
+    "layer": 18,
+    "head": 7,
+    "topology": {
+      "total_simplices": 230474,
+      "h0": 51,
+      "h1": 0
+    },
+    "mean_entropy": 0.2795977119563354,
+    "std_entropy": 0.19548888487996136,
+    "mean_hyp_mass": 0.006849828977202479,
+    "std_hyp_mass": 0.0034398680576540656
+  },
+  "L18_H8": {
+    "layer": 18,
+    "head": 8,
+    "topology": {
+      "total_simplices": 255883,
+      "h0": 59,
+      "h1": 1
+    },
+    "mean_entropy": 0.49315049027403196,
+    "std_entropy": 0.3796740645259518,
+    "mean_hyp_mass": 0.009616630922472622,
+    "std_hyp_mass": 0.007717521810963549
+  },
+  "L18_H9": {
+    "layer": 18,
+    "head": 9,
+    "topology": {
+      "total_simplices": 353222,
+      "h0": 124,
+      "h1": 0
+    },
+    "mean_entropy": 2.4083252751164967,
+    "std_entropy": 0.2727590247559256,
+    "mean_hyp_mass": 0.1942660657482015,
+    "std_hyp_mass": 0.14847337236340657
+  },
+  "L18_H10": {
+    "layer": 18,
+    "head": 10,
+    "topology": {
+      "total_simplices": 318837,
+      "h0": 125,
+      "h1": 1
+    },
+    "mean_entropy": 0.5294474691152573,
+    "std_entropy": 0.25801773045995546,
+    "mean_hyp_mass": 0.014912131323944778,
+    "std_hyp_mass": 0.005484014739017357
+  },
+  "L18_H11": {
+    "layer": 18,
+    "head": 11,
+    "topology": {
+      "total_simplices": 365495,
+      "h0": 125,
+      "h1": 0
+    },
+    "mean_entropy": 1.3595198943383164,
+    "std_entropy": 0.28791986450767104,
+    "mean_hyp_mass": 0.03747895920645937,
+    "std_hyp_mass": 0.03829702402904617
+  },
+  "L18_H12": {
+    "layer": 18,
+    "head": 12,
+    "topology": {
+      "total_simplices": 274328,
+      "h0": 35,
+      "h1": 0
+    },
+    "mean_entropy": 0.8875024367744724,
+    "std_entropy": 0.38080924820674117,
+    "mean_hyp_mass": 0.012925754030260982,
+    "std_hyp_mass": 0.00891518248695278
+  },
+  "L18_H13": {
+    "layer": 18,
+    "head": 13,
+    "topology": {
+      "total_simplices": 339744,
+      "h0": 118,
+      "h1": 0
+    },
+    "mean_entropy": 1.2344512491176525,
+    "std_entropy": 0.3909428291353019,
+    "mean_hyp_mass": 0.06975708636552251,
+    "std_hyp_mass": 0.15882770625866166
+  },
+  "L19_H0": {
+    "layer": 19,
+    "head": 0,
+    "topology": {
+      "total_simplices": 286496,
+      "h0": 74,
+      "h1": 0
+    },
+    "mean_entropy": 1.8759156775557333,
+    "std_entropy": 0.6226045892716258,
+    "mean_hyp_mass": 0.04894051992353828,
+    "std_hyp_mass": 0.04863726808225276
+  },
+  "L19_H1": {
+    "layer": 19,
+    "head": 1,
+    "topology": {
+      "total_simplices": 263559,
+      "h0": 28,
+      "h1": 0
+    },
+    "mean_entropy": 0.6658577462968727,
+    "std_entropy": 0.37457809127353964,
+    "mean_hyp_mass": 0.008022280932305472,
+    "std_hyp_mass": 0.00824292688345182
+  },
+  "L19_H2": {
+    "layer": 19,
+    "head": 2,
+    "topology": {
+      "total_simplices": 270777,
+      "h0": 74,
+      "h1": 0
+    },
+    "mean_entropy": 2.841936295148399,
+    "std_entropy": 0.8950433422009552,
+    "mean_hyp_mass": 0.024523795113297334,
+    "std_hyp_mass": 0.025535674231885803
+  },
+  "L19_H3": {
+    "layer": 19,
+    "head": 3,
+    "topology": {
+      "total_simplices": 355245,
+      "h0": 31,
+      "h1": 6
+    },
+    "mean_entropy": 0.675830278876755,
+    "std_entropy": 0.17697099981987777,
+    "mean_hyp_mass": 0.01197041677563296,
+    "std_hyp_mass": 0.023559362708274828
+  },
+  "L19_H4": {
+    "layer": 19,
+    "head": 4,
+    "topology": {
+      "total_simplices": 290125,
+      "h0": 83,
+      "h1": 0
+    },
+    "mean_entropy": 1.781013493405448,
+    "std_entropy": 0.524620265495325,
+    "mean_hyp_mass": 0.05219869443313251,
+    "std_hyp_mass": 0.04375452296258069
+  },
+  "L19_H5": {
+    "layer": 19,
+    "head": 5,
+    "topology": {
+      "total_simplices": 305098,
+      "h0": 62,
+      "h1": 0
+    },
+    "mean_entropy": 1.782368445313639,
+    "std_entropy": 0.2879862231996881,
+    "mean_hyp_mass": 0.07832847546119916,
+    "std_hyp_mass": 0.05667468174979209
+  },
+  "L19_H6": {
+    "layer": 19,
+    "head": 6,
+    "topology": {
+      "total_simplices": 308155,
+      "h0": 94,
+      "h1": 0
+    },
+    "mean_entropy": 2.927920798626211,
+    "std_entropy": 0.9122230621530274,
+    "mean_hyp_mass": 0.04817013533247518,
+    "std_hyp_mass": 0.06064280437465336
+  },
+  "L19_H7": {
+    "layer": 19,
+    "head": 7,
+    "topology": {
+      "total_simplices": 255996,
+      "h0": 54,
+      "h1": 1
+    },
+    "mean_entropy": 3.4243879132800634,
+    "std_entropy": 0.5465893579841233,
+    "mean_hyp_mass": 0.0873441978254252,
+    "std_hyp_mass": 0.06729647009962393
+  },
+  "L19_H8": {
+    "layer": 19,
+    "head": 8,
+    "topology": {
+      "total_simplices": 261089,
+      "h0": 17,
+      "h1": 8
+    },
+    "mean_entropy": 1.6035296089947224,
+    "std_entropy": 0.4699980833482062,
+    "mean_hyp_mass": 0.11357521320589714,
+    "std_hyp_mass": 0.0747649961280944
+  },
+  "L19_H9": {
+    "layer": 19,
+    "head": 9,
+    "topology": {
+      "total_simplices": 244774,
+      "h0": 2,
+      "h1": 1
+    },
+    "mean_entropy": 1.6113818812287517,
+    "std_entropy": 0.5245143687823507,
+    "mean_hyp_mass": 0.07663692286005244,
+    "std_hyp_mass": 0.049160899838557086
+  },
+  "L19_H10": {
+    "layer": 19,
+    "head": 10,
+    "topology": {
+      "total_simplices": 274904,
+      "h0": 104,
+      "h1": 1
+    },
+    "mean_entropy": 1.6822102206862635,
+    "std_entropy": 0.4320528484951784,
+    "mean_hyp_mass": 0.012011872902116414,
+    "std_hyp_mass": 0.008128258212369
+  },
+  "L19_H11": {
+    "layer": 19,
+    "head": 11,
+    "topology": {
+      "total_simplices": 189163,
+      "h0": 2,
+      "h1": 3
+    },
+    "mean_entropy": 1.6177182445923488,
+    "std_entropy": 0.31020528461824115,
+    "mean_hyp_mass": 0.07605963920294824,
+    "std_hyp_mass": 0.0619643901171818
+  },
+  "L19_H12": {
+    "layer": 19,
+    "head": 12,
+    "topology": {
+      "total_simplices": 248057,
+      "h0": 30,
+      "h1": 5
+    },
+    "mean_entropy": 2.1918815803196696,
+    "std_entropy": 0.31541765884502876,
+    "mean_hyp_mass": 0.07159344849124964,
+    "std_hyp_mass": 0.03965570951021788
+  },
+  "L19_H13": {
+    "layer": 19,
+    "head": 13,
+    "topology": {
+      "total_simplices": 301860,
+      "h0": 18,
+      "h1": 2
+    },
+    "mean_entropy": 0.8083594699286752,
+    "std_entropy": 0.20860990799579457,
+    "mean_hyp_mass": 0.038496517695279585,
+    "std_hyp_mass": 0.021931889792863025
+  },
+  "L20_H0": {
+    "layer": 20,
+    "head": 0,
+    "topology": {
+      "total_simplices": 329557,
+      "h0": 124,
+      "h1": 0
+    },
+    "mean_entropy": 0.6049225854273471,
+    "std_entropy": 0.3095379336176518,
+    "mean_hyp_mass": 0.007824620708642113,
+    "std_hyp_mass": 0.008935547441464974
+  },
+  "L20_H1": {
+    "layer": 20,
+    "head": 1,
+    "topology": {
+      "total_simplices": 316413,
+      "h0": 108,
+      "h1": 0
+    },
+    "mean_entropy": 1.5804141881151332,
+    "std_entropy": 0.4604725530302154,
+    "mean_hyp_mass": 0.04917215994137223,
+    "std_hyp_mass": 0.041492912842420925
+  },
+  "L20_H2": {
+    "layer": 20,
+    "head": 2,
+    "topology": {
+      "total_simplices": 314907,
+      "h0": 50,
+      "h1": 0
+    },
+    "mean_entropy": 2.1034595000945653,
+    "std_entropy": 1.199173368834945,
+    "mean_hyp_mass": 0.14167299361047803,
+    "std_hyp_mass": 0.13631964107695083
+  },
+  "L20_H3": {
+    "layer": 20,
+    "head": 3,
+    "topology": {
+      "total_simplices": 214968,
+      "h0": 19,
+      "h1": 0
+    },
+    "mean_entropy": 2.3444105414880645,
+    "std_entropy": 0.39832293020202425,
+    "mean_hyp_mass": 0.01600528871155499,
+    "std_hyp_mass": 0.0064163468512650045
+  },
+  "L20_H4": {
+    "layer": 20,
+    "head": 4,
+    "topology": {
+      "total_simplices": 286011,
+      "h0": 97,
+      "h1": 2
+    },
+    "mean_entropy": 1.4987578135811621,
+    "std_entropy": 0.505067346857755,
+    "mean_hyp_mass": 0.01628197490887639,
+    "std_hyp_mass": 0.010424895197927038
+  },
+  "L20_H5": {
+    "layer": 20,
+    "head": 5,
+    "topology": {
+      "total_simplices": 316199,
+      "h0": 108,
+      "h1": 0
+    },
+    "mean_entropy": 0.8366022546258237,
+    "std_entropy": 0.2661491352312699,
+    "mean_hyp_mass": 0.011951969822318158,
+    "std_hyp_mass": 0.01831189041764864
+  },
+  "L20_H6": {
+    "layer": 20,
+    "head": 6,
+    "topology": {
+      "total_simplices": 251764,
+      "h0": 69,
+      "h1": 0
+    },
+    "mean_entropy": 1.989444651024597,
+    "std_entropy": 1.133186039952728,
+    "mean_hyp_mass": 0.04041014256913134,
+    "std_hyp_mass": 0.08976911717549185
+  },
+  "L20_H7": {
+    "layer": 20,
+    "head": 7,
+    "topology": {
+      "total_simplices": 340976,
+      "h0": 113,
+      "h1": 0
+    },
+    "mean_entropy": 1.1298224739316436,
+    "std_entropy": 0.3833444984809013,
+    "mean_hyp_mass": 0.05264694702661169,
+    "std_hyp_mass": 0.05107032822399172
+  },
+  "L20_H8": {
+    "layer": 20,
+    "head": 8,
+    "topology": {
+      "total_simplices": 312064,
+      "h0": 56,
+      "h1": 1
+    },
+    "mean_entropy": 1.3076142050636312,
+    "std_entropy": 0.45585523391877886,
+    "mean_hyp_mass": 0.03407278954808943,
+    "std_hyp_mass": 0.0515831633744969
+  },
+  "L20_H9": {
+    "layer": 20,
+    "head": 9,
+    "topology": {
+      "total_simplices": 334262,
+      "h0": 116,
+      "h1": 0
+    },
+    "mean_entropy": 1.3575117396811645,
+    "std_entropy": 0.4295100768194102,
+    "mean_hyp_mass": 0.04365540077253374,
+    "std_hyp_mass": 0.04421077788727277
+  },
+  "L20_H10": {
+    "layer": 20,
+    "head": 10,
+    "topology": {
+      "total_simplices": 227959,
+      "h0": 45,
+      "h1": 0
+    },
+    "mean_entropy": 2.012696108718713,
+    "std_entropy": 0.860176197654898,
+    "mean_hyp_mass": 0.1512099704788246,
+    "std_hyp_mass": 0.22781174188106235
+  },
+  "L20_H11": {
+    "layer": 20,
+    "head": 11,
+    "topology": {
+      "total_simplices": 256397,
+      "h0": 85,
+      "h1": 0
+    },
+    "mean_entropy": 1.152152848453261,
+    "std_entropy": 0.608758734568656,
+    "mean_hyp_mass": 0.028093039557764616,
+    "std_hyp_mass": 0.06823343732426475
+  },
+  "L20_H12": {
+    "layer": 20,
+    "head": 12,
+    "topology": {
+      "total_simplices": 267770,
+      "h0": 85,
+      "h1": 0
+    },
+    "mean_entropy": 1.6461378475030264,
+    "std_entropy": 0.7654745467142546,
+    "mean_hyp_mass": 0.05872944180513918,
+    "std_hyp_mass": 0.1421127469568484
+  },
+  "L20_H13": {
+    "layer": 20,
+    "head": 13,
+    "topology": {
+      "total_simplices": 240246,
+      "h0": 12,
+      "h1": 0
+    },
+    "mean_entropy": 1.3752205040719774,
+    "std_entropy": 0.375709683565235,
+    "mean_hyp_mass": 0.0592655202645498,
+    "std_hyp_mass": 0.02821711626946708
+  },
+  "L21_H0": {
+    "layer": 21,
+    "head": 0,
+    "topology": {
+      "total_simplices": 376798,
+      "h0": 139,
+      "h1": 0
+    },
+    "mean_entropy": 0.7445918900478218,
+    "std_entropy": 0.29671875272016773,
+    "mean_hyp_mass": 0.018556972926550466,
+    "std_hyp_mass": 0.03522743272256949
+  },
+  "L21_H1": {
+    "layer": 21,
+    "head": 1,
+    "topology": {
+      "total_simplices": 313985,
+      "h0": 87,
+      "h1": 5
+    },
+    "mean_entropy": 0.8074296253008975,
+    "std_entropy": 0.39618119316077716,
+    "mean_hyp_mass": 0.005978580888576188,
+    "std_hyp_mass": 0.010553081350411388
+  },
+  "L21_H2": {
+    "layer": 21,
+    "head": 2,
+    "topology": {
+      "total_simplices": 319055,
+      "h0": 114,
+      "h1": 0
+    },
+    "mean_entropy": 1.217452405144771,
+    "std_entropy": 0.5136200645213416,
+    "mean_hyp_mass": 0.01103191214916074,
+    "std_hyp_mass": 0.01095232115748116
+  },
+  "L21_H3": {
+    "layer": 21,
+    "head": 3,
+    "topology": {
+      "total_simplices": 321497,
+      "h0": 30,
+      "h1": 7
+    },
+    "mean_entropy": 1.257920617216991,
+    "std_entropy": 0.4619896688587031,
+    "mean_hyp_mass": 0.030865832904661755,
+    "std_hyp_mass": 0.08528497743014773
+  },
+  "L21_H4": {
+    "layer": 21,
+    "head": 4,
+    "topology": {
+      "total_simplices": 348921,
+      "h0": 120,
+      "h1": 0
+    },
+    "mean_entropy": 0.9287278961390257,
+    "std_entropy": 0.40084013296670595,
+    "mean_hyp_mass": 0.02434447298776124,
+    "std_hyp_mass": 0.03737190676830233
+  },
+  "L21_H5": {
+    "layer": 21,
+    "head": 5,
+    "topology": {
+      "total_simplices": 352141,
+      "h0": 133,
+      "h1": 0
+    },
+    "mean_entropy": 0.8738791393116117,
+    "std_entropy": 0.33458256622704213,
+    "mean_hyp_mass": 0.08487749597447368,
+    "std_hyp_mass": 0.219804431635262
+  },
+  "L21_H6": {
+    "layer": 21,
+    "head": 6,
+    "topology": {
+      "total_simplices": 303072,
+      "h0": 68,
+      "h1": 2
+    },
+    "mean_entropy": 0.8287571023321814,
+    "std_entropy": 0.32468033407825353,
+    "mean_hyp_mass": 0.0172605581541979,
+    "std_hyp_mass": 0.042067810625954785
+  },
+  "L21_H7": {
+    "layer": 21,
+    "head": 7,
+    "topology": {
+      "total_simplices": 318757,
+      "h0": 119,
+      "h1": 0
+    },
+    "mean_entropy": 0.45053684175428416,
+    "std_entropy": 0.3394068000973656,
+    "mean_hyp_mass": 0.005170643791724514,
+    "std_hyp_mass": 0.002981496992940803
+  },
+  "L21_H8": {
+    "layer": 21,
+    "head": 8,
+    "topology": {
+      "total_simplices": 356054,
+      "h0": 113,
+      "h1": 0
+    },
+    "mean_entropy": 1.035454525363942,
+    "std_entropy": 0.4360868412806876,
+    "mean_hyp_mass": 0.025365810859966587,
+    "std_hyp_mass": 0.060921344571301494
+  },
+  "L21_H9": {
+    "layer": 21,
+    "head": 9,
+    "topology": {
+      "total_simplices": 314010,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.6324553097080853,
+    "std_entropy": 0.648604559574954,
+    "mean_hyp_mass": 0.015778422579427975,
+    "std_hyp_mass": 0.02742246143633221
+  },
+  "L21_H10": {
+    "layer": 21,
+    "head": 10,
+    "topology": {
+      "total_simplices": 326431,
+      "h0": 97,
+      "h1": 2
+    },
+    "mean_entropy": 1.2058314179794656,
+    "std_entropy": 0.4544335128081918,
+    "mean_hyp_mass": 0.08480871921802746,
+    "std_hyp_mass": 0.15317019884694158
+  },
+  "L21_H11": {
+    "layer": 21,
+    "head": 11,
+    "topology": {
+      "total_simplices": 280736,
+      "h0": 44,
+      "h1": 2
+    },
+    "mean_entropy": 1.646983373310003,
+    "std_entropy": 0.607295274643468,
+    "mean_hyp_mass": 0.02360419521316746,
+    "std_hyp_mass": 0.06044797606411483
+  },
+  "L21_H12": {
+    "layer": 21,
+    "head": 12,
+    "topology": {
+      "total_simplices": 318820,
+      "h0": 109,
+      "h1": 0
+    },
+    "mean_entropy": 1.3463892695080075,
+    "std_entropy": 0.5783637070026926,
+    "mean_hyp_mass": 0.038242240318383365,
+    "std_hyp_mass": 0.03411118107185912
+  },
+  "L21_H13": {
+    "layer": 21,
+    "head": 13,
+    "topology": {
+      "total_simplices": 276689,
+      "h0": 67,
+      "h1": 0
+    },
+    "mean_entropy": 1.4506687288069062,
+    "std_entropy": 0.6011869949871037,
+    "mean_hyp_mass": 0.014608114946713612,
+    "std_hyp_mass": 0.01989514131744045
+  },
+  "L22_H0": {
+    "layer": 22,
+    "head": 0,
+    "topology": {
+      "total_simplices": 283771,
+      "h0": 86,
+      "h1": 0
+    },
+    "mean_entropy": 2.0485248292071954,
+    "std_entropy": 0.9873144925423548,
+    "mean_hyp_mass": 0.041586176156933004,
+    "std_hyp_mass": 0.04333575179044407
+  },
+  "L22_H1": {
+    "layer": 22,
+    "head": 1,
+    "topology": {
+      "total_simplices": 238148,
+      "h0": 18,
+      "h1": 0
+    },
+    "mean_entropy": 1.7160093082632455,
+    "std_entropy": 0.7576509521822434,
+    "mean_hyp_mass": 0.05505551436645469,
+    "std_hyp_mass": 0.06795411256203539
+  },
+  "L22_H2": {
+    "layer": 22,
+    "head": 2,
+    "topology": {
+      "total_simplices": 236735,
+      "h0": 34,
+      "h1": 1
+    },
+    "mean_entropy": 1.983157937746081,
+    "std_entropy": 0.909392085475576,
+    "mean_hyp_mass": 0.03303898985470571,
+    "std_hyp_mass": 0.03637510462307168
+  },
+  "L22_H3": {
+    "layer": 22,
+    "head": 3,
+    "topology": {
+      "total_simplices": 231399,
+      "h0": 10,
+      "h1": 0
+    },
+    "mean_entropy": 1.2595388813875616,
+    "std_entropy": 0.7048352126181685,
+    "mean_hyp_mass": 0.03458729587006625,
+    "std_hyp_mass": 0.06642999705017115
+  },
+  "L22_H4": {
+    "layer": 22,
+    "head": 4,
+    "topology": {
+      "total_simplices": 295140,
+      "h0": 88,
+      "h1": 0
+    },
+    "mean_entropy": 2.3227347569436665,
+    "std_entropy": 1.02205939622073,
+    "mean_hyp_mass": 0.09000840955187515,
+    "std_hyp_mass": 0.10348496350249597
+  },
+  "L22_H5": {
+    "layer": 22,
+    "head": 5,
+    "topology": {
+      "total_simplices": 238563,
+      "h0": 44,
+      "h1": 1
+    },
+    "mean_entropy": 1.995002900188168,
+    "std_entropy": 0.9075046014084147,
+    "mean_hyp_mass": 0.06447243216930221,
+    "std_hyp_mass": 0.08867361074341706
+  },
+  "L22_H6": {
+    "layer": 22,
+    "head": 6,
+    "topology": {
+      "total_simplices": 270060,
+      "h0": 77,
+      "h1": 0
+    },
+    "mean_entropy": 2.6308375901439125,
+    "std_entropy": 1.217243282904325,
+    "mean_hyp_mass": 0.056376837817293156,
+    "std_hyp_mass": 0.06963004741717924
+  },
+  "L22_H7": {
+    "layer": 22,
+    "head": 7,
+    "topology": {
+      "total_simplices": 305622,
+      "h0": 51,
+      "h1": 0
+    },
+    "mean_entropy": 1.9135911811971003,
+    "std_entropy": 0.9844804161721503,
+    "mean_hyp_mass": 0.13830115101747475,
+    "std_hyp_mass": 0.19055504713565183
+  },
+  "L22_H8": {
+    "layer": 22,
+    "head": 8,
+    "topology": {
+      "total_simplices": 310034,
+      "h0": 65,
+      "h1": 6
+    },
+    "mean_entropy": 1.3747553028269774,
+    "std_entropy": 0.6780253503450977,
+    "mean_hyp_mass": 0.06622103810328149,
+    "std_hyp_mass": 0.05778499308394166
+  },
+  "L22_H9": {
+    "layer": 22,
+    "head": 9,
+    "topology": {
+      "total_simplices": 229275,
+      "h0": 49,
+      "h1": 1
+    },
+    "mean_entropy": 1.7084347551222892,
+    "std_entropy": 0.9050297250259574,
+    "mean_hyp_mass": 0.03844161161672067,
+    "std_hyp_mass": 0.07835952787432893
+  },
+  "L22_H10": {
+    "layer": 22,
+    "head": 10,
+    "topology": {
+      "total_simplices": 262111,
+      "h0": 46,
+      "h1": 1
+    },
+    "mean_entropy": 1.9120913138509625,
+    "std_entropy": 0.9471500378156673,
+    "mean_hyp_mass": 0.2686764679910943,
+    "std_hyp_mass": 0.24698886035495096
+  },
+  "L22_H11": {
+    "layer": 22,
+    "head": 11,
+    "topology": {
+      "total_simplices": 258076,
+      "h0": 60,
+      "h1": 0
+    },
+    "mean_entropy": 2.36892847959987,
+    "std_entropy": 1.0467556509592078,
+    "mean_hyp_mass": 0.06026232859979043,
+    "std_hyp_mass": 0.08721486952658371
+  },
+  "L22_H12": {
+    "layer": 22,
+    "head": 12,
+    "topology": {
+      "total_simplices": 328814,
+      "h0": 86,
+      "h1": 3
+    },
+    "mean_entropy": 1.077698013930866,
+    "std_entropy": 0.6934885103801356,
+    "mean_hyp_mass": 0.03627278216584418,
+    "std_hyp_mass": 0.08912087512483537
+  },
+  "L22_H13": {
+    "layer": 22,
+    "head": 13,
+    "topology": {
+      "total_simplices": 231063,
+      "h0": 57,
+      "h1": 0
+    },
+    "mean_entropy": 1.791677172621712,
+    "std_entropy": 0.9547058587809192,
+    "mean_hyp_mass": 0.017441183577808456,
+    "std_hyp_mass": 0.04161483269072874
+  },
+  "L23_H0": {
+    "layer": 23,
+    "head": 0,
+    "topology": {
+      "total_simplices": 285215,
+      "h0": 65,
+      "h1": 1
+    },
+    "mean_entropy": 3.1617718959848085,
+    "std_entropy": 0.7809758871895017,
+    "mean_hyp_mass": 0.10369486487470567,
+    "std_hyp_mass": 0.0655310139676967
+  },
+  "L23_H1": {
+    "layer": 23,
+    "head": 1,
+    "topology": {
+      "total_simplices": 153662,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.021477585039489593,
+    "std_entropy": 0.12539886907391568,
+    "mean_hyp_mass": 0.0029569366270351337,
+    "std_hyp_mass": 0.05121664832905934
+  },
+  "L23_H2": {
+    "layer": 23,
+    "head": 2,
+    "topology": {
+      "total_simplices": 259119,
+      "h0": 102,
+      "h1": 0
+    },
+    "mean_entropy": 3.2706139153904386,
+    "std_entropy": 0.8712659738852009,
+    "mean_hyp_mass": 0.054938270026792045,
+    "std_hyp_mass": 0.037805836855937865
+  },
+  "L23_H3": {
+    "layer": 23,
+    "head": 3,
+    "topology": {
+      "total_simplices": 222016,
+      "h0": 36,
+      "h1": 1
+    },
+    "mean_entropy": 3.1216511278982377,
+    "std_entropy": 0.6464857202078907,
+    "mean_hyp_mass": 0.05886085916083377,
+    "std_hyp_mass": 0.05846927999953628
+  },
+  "L23_H4": {
+    "layer": 23,
+    "head": 4,
+    "topology": {
+      "total_simplices": 284105,
+      "h0": 9,
+      "h1": 0
+    },
+    "mean_entropy": 1.9684871150387657,
+    "std_entropy": 0.9720387624662543,
+    "mean_hyp_mass": 0.05189088846996633,
+    "std_hyp_mass": 0.04359907604124397
+  },
+  "L23_H5": {
+    "layer": 23,
+    "head": 5,
+    "topology": {
+      "total_simplices": 336499,
+      "h0": 140,
+      "h1": 0
+    },
+    "mean_entropy": 0.08742688647618908,
+    "std_entropy": 0.18932826888067453,
+    "mean_hyp_mass": 0.001649414494491852,
+    "std_hyp_mass": 0.004771964605234361
+  },
+  "L23_H6": {
+    "layer": 23,
+    "head": 6,
+    "topology": {
+      "total_simplices": 248727,
+      "h0": 1,
+      "h1": 0
+    },
+    "mean_entropy": 0.5355915151174284,
+    "std_entropy": 0.3159975551630213,
+    "mean_hyp_mass": 0.029181598231459955,
+    "std_hyp_mass": 0.03290326973494981
+  },
+  "L23_H7": {
+    "layer": 23,
+    "head": 7,
+    "topology": {
+      "total_simplices": 264517,
+      "h0": 58,
+      "h1": 4
+    },
+    "mean_entropy": 3.3256522484123705,
+    "std_entropy": 0.8120647518950153,
+    "mean_hyp_mass": 0.03941954600191416,
+    "std_hyp_mass": 0.032779416161107404
+  },
+  "L23_H8": {
+    "layer": 23,
+    "head": 8,
+    "topology": {
+      "total_simplices": 231005,
+      "h0": 14,
+      "h1": 0
+    },
+    "mean_entropy": 2.175283677917388,
+    "std_entropy": 0.6220667360916232,
+    "mean_hyp_mass": 0.07700691534135129,
+    "std_hyp_mass": 0.07405642389166002
+  },
+  "L23_H9": {
+    "layer": 23,
+    "head": 9,
+    "topology": {
+      "total_simplices": 252835,
+      "h0": 5,
+      "h1": 0
+    },
+    "mean_entropy": 1.343628219432301,
+    "std_entropy": 0.7603129515165012,
+    "mean_hyp_mass": 0.029977608663385683,
+    "std_hyp_mass": 0.04832960952631152
+  },
+  "L23_H10": {
+    "layer": 23,
+    "head": 10,
+    "topology": {
+      "total_simplices": 264297,
+      "h0": 7,
+      "h1": 0
+    },
+    "mean_entropy": 1.723730016582542,
+    "std_entropy": 0.8194618800995416,
+    "mean_hyp_mass": 0.027102926161751383,
+    "std_hyp_mass": 0.03584780579990585
+  },
+  "L23_H11": {
+    "layer": 23,
+    "head": 11,
+    "topology": {
+      "total_simplices": 268960,
+      "h0": 57,
+      "h1": 0
+    },
+    "mean_entropy": 3.0168705220851635,
+    "std_entropy": 0.8006444820607638,
+    "mean_hyp_mass": 0.08614370107534342,
+    "std_hyp_mass": 0.15670470687379556
+  },
+  "L23_H12": {
+    "layer": 23,
+    "head": 12,
+    "topology": {
+      "total_simplices": 238408,
+      "h0": 17,
+      "h1": 0
+    },
+    "mean_entropy": 1.5428839712093274,
+    "std_entropy": 0.6598209947113527,
+    "mean_hyp_mass": 0.055480567431135976,
+    "std_hyp_mass": 0.1264876243301624
+  },
+  "L23_H13": {
+    "layer": 23,
+    "head": 13,
+    "topology": {
+      "total_simplices": 256254,
+      "h0": 56,
+      "h1": 1
+    },
+    "mean_entropy": 3.0870023915337192,
+    "std_entropy": 0.8673847806352921,
+    "mean_hyp_mass": 0.07427933235432849,
+    "std_hyp_mass": 0.07380636445381009
+  }
+}

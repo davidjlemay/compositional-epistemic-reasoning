@@ -1,0 +1,15 @@
+{
+  "source_dir": "mindgames_orthogonal_v4_classification",
+  "scramble_seed": 42,
+  "n_train": 720,
+  "n_labels_changed": 216,
+  "original_label_distribution": {
+    "entailment": 577,
+    "non_entailment": 143
+  },
+  "scrambled_label_distribution": {
+    "non_entailment": 143,
+    "entailment": 577
+  },
+  "description": "Scrambled-label control: classification labels are randomly permuted across training examples. Val set is unmodified. Used to test whether topological simplification is specific to compositional learning or accompanies learning in general."
+}

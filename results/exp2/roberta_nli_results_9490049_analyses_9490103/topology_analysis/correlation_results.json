@@ -1,0 +1,15 @@
+{
+  "total_simplices_vs_gen_gap": {
+    "pearson_r": -0.07272917074975055,
+    "pearson_p": 0.7477225276985396,
+    "spearman_rho": -0.1437528076994446
+  },
+  "total_simplices_vs_val_acc": {
+    "pearson_r": -0.07272917074975062,
+    "pearson_p": 0.7477225276985396
+  },
+  "h1_vs_gen_gap": {
+    "pearson_r": -0.16020569300782386,
+    "pearson_p": 0.47634754034404236
+  }
+}

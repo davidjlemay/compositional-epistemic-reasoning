@@ -1,0 +1,26 @@
+{
+  "architecture": "transformer",
+  "final_train_metrics": {
+    "loss": 0.08964639707751897,
+    "accuracy": 0.9611111111111111
+  },
+  "final_val_metrics": {
+    "loss": 0.05060775189296059,
+    "accuracy": 0.9875
+  },
+  "best_val_accuracy": 0.9875,
+  "grokking_detected": true,
+  "grokking_epoch": 19,
+  "grokking_events": [
+    [
+      19,
+      0.41613888888888906
+    ]
+  ],
+  "num_grokking_events": 1,
+  "total_epochs": 519,
+  "early_stopping_triggered": true,
+  "early_stopping_patience": 500,
+  "model_parameters": 25796,
+  "vocab_size": 68
+}

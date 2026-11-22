@@ -1,0 +1,26 @@
+{
+  "architecture": "gru",
+  "final_train_metrics": {
+    "loss": 0.1725805602643801,
+    "accuracy": 0.9368055555555556
+  },
+  "final_val_metrics": {
+    "loss": 0.12270598923382552,
+    "accuracy": 0.9548611111111112
+  },
+  "best_val_accuracy": 0.984375,
+  "grokking_detected": true,
+  "grokking_epoch": 19,
+  "grokking_events": [
+    [
+      19,
+      0.2466666666666667
+    ]
+  ],
+  "num_grokking_events": 1,
+  "total_epochs": 530,
+  "early_stopping_triggered": true,
+  "early_stopping_patience": 500,
+  "model_parameters": 137540,
+  "vocab_size": 68
+}

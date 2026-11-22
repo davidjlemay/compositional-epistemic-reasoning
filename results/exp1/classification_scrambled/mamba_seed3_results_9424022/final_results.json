@@ -1,0 +1,27 @@
+{
+  "architecture": "mamba",
+  "task": "classification",
+  "final_train_metrics": {
+    "loss": 0.03065759716960399,
+    "accuracy": 0.9877777777777778
+  },
+  "final_val_metrics": {
+    "loss": 0.19080314428909964,
+    "accuracy": 0.9455555555555556
+  },
+  "best_val_accuracy": 0.9875,
+  "grokking_detected": true,
+  "grokking_epoch": 19,
+  "grokking_events": [
+    [
+      19,
+      0.3226944444444446
+    ]
+  ],
+  "num_grokking_events": 1,
+  "total_epochs": 510,
+  "early_stopping_triggered": true,
+  "early_stopping_patience": 500,
+  "model_parameters": 91076,
+  "vocab_size": 68
+}
